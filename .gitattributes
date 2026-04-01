@@ -1,0 +1,9 @@
+# Зберігати LF (Unix) для всіх файлів перекладу
+# Без цього Git на Windows конвертує \n -> \r\n (CRLF)
+# що ламає парсинг SNBT та JSON файлів в Minecraft
+
+*.snbt text eol=lf
+*.json text eol=lf
+*.lang text eol=lf
+*.txt  text eol=lf
+*.md   text eol=lf
