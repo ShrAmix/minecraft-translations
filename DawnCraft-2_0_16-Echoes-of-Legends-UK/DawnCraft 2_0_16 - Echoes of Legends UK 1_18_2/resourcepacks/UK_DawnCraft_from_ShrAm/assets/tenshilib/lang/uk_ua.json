@@ -1,0 +1,22 @@
+{
+    "tenshilib.patreon.title": "Налаштування Patreon для TenshiLib",
+    "tenshilib.patreon.level.no": "Щоб скористатися цим, потрібно перебувати у світі",
+    "tenshilib.patreon.not": "Підтримайте мене на Patreon, щоб використовувати це. Ці функції суто косметичні",
+    "tenshilib.patreon.back": "Назад",
+    "tenshilib.patreon.save": "Зберегти",
+    "tenshilib.patreon.id": "Ефект Patreon",
+    "tenshilib.patreon.render": "Відображення ефекту",
+    "tenshilib.patreon.location": "Місце відображення",
+    "tenshilib.patreon.color": "Колір",
+    "tenshilib.patreon.location.CIRCLING": "Обертання навколо",
+    "tenshilib.patreon.location.CIRCLINGREVERSE": "Обертання навколо (зворотний напрямок)",
+    "tenshilib.patreon.location.HAT": "Капелюх",
+    "tenshilib.patreon.location.HATNOARMOR": "Капелюх (без шолома)",
+    "tenshilib.patreon.location.LEFTSHOULDER": "Ліве плече",
+    "tenshilib.patreon.location.RIGHTSHOULDER": "Праве плече",
+    "tenshilib.patreon.location.BACK": "Спина",
+    "tenshilib.patreon.id.megu_hat": "Капелюх Мегумін",
+    "tenshilib.patreon.id.chomusuke": "Чомуске",
+    "tenshilib.patreon.id.cat": "Кіт",
+    "tenshilib.patreon.id.halo": "Німб"
+}

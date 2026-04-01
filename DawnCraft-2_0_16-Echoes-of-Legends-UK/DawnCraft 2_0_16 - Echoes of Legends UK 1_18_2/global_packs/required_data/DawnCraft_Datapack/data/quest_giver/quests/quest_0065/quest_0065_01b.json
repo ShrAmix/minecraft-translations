@@ -1,0 +1,13 @@
+{
+    "parent": "quest_giver:root",
+    "reputation": 7,
+    "icon": "minecraft:arrow",
+    "start": {
+        "title": {
+            "text": "Спеціальні стріли"
+        },
+        "description": {
+            "text": "Я намагаюся зробити спеціальні стріли. Чи можеш ти принести мені дюжину світлокам'яного пилу?"
+        }
+    }
+}

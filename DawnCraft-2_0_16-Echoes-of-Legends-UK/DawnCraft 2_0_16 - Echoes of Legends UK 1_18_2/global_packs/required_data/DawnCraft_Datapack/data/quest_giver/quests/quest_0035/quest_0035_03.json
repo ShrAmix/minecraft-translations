@@ -1,0 +1,37 @@
+{
+    "parent": "quest_giver:quest_0035_03b",
+    "reputation": 35,
+    "icon": "minecraft:beef",
+    "start": {
+        "title": {
+            "text": "Інденціум"
+        },
+        "description": {
+            "text": "Той самий $(light_blue)Крижаний меч$(). Дай знати, якщо знайдеш його в замку попелястих пусток."
+        }
+    },
+    "complete": {
+        "title": {
+            "text": "Завершено"
+        },
+        "description": {
+            "text": "Отже... його справді більше немає. Дякую, що приніс мені спокій. Залиш меч собі. У мене більше немає нічого, чим я міг би тобі віддячити."
+        }
+    },
+    "tasks": [
+        {
+            "item": {
+                "item": "minecraft:diamond_sword",
+                "forge:nbt": "{CustomModelData:1450003,incendium:{item:'chilling_blade'}}"
+            },
+            "id": "quest_giver:item_pickup",
+            "times": 1
+        }
+    ],
+    "rewards": [
+        {
+            "command": "/addreputation reputation:villager @p 3",
+            "id": "quest_giver:command"
+        }
+    ]
+}

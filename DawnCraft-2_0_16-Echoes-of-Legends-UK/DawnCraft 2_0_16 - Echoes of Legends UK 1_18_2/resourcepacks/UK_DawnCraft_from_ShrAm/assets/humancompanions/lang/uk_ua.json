@@ -1,0 +1,11 @@
+{
+    "entity.humancompanions.knight": "Лицар",
+    "entity.humancompanions.archer": "Лучник",
+    "entity.humancompanions.arbalist": "Арбалетник",
+    "entity.humancompanions.axeguard": "Сокирник",
+    "container.humancompanions.companion_inventory": "Інвентар супутника",
+    "item.humancompanions.arbalist_spawn_egg": "Яйце призову арбалетника",
+    "item.humancompanions.archer_spawn_egg": "Яйце призову лучника",
+    "item.humancompanions.axeguard_spawn_egg": "Яйце призову сокирника",
+    "item.humancompanions.knight_spawn_egg": "Яйце призову лицаря"
+}

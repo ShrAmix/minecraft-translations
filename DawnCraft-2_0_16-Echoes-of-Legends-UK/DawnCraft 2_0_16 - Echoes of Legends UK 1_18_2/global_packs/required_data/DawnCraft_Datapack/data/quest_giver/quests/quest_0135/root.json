@@ -1,0 +1,12 @@
+{
+  "reputation": 15,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "Гей!"
+    },
+    "description": {
+      "text": "Oh hello, want to learn a new combat skill?"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "reputation": 7,
+  "icon": "minecraft:brewing_stand",
+  "start": {
+    "title": {
+      "text": "Гей!"
+    },
+    "description": {
+      "text": "Traveller! Up for an adventure?"
+    }
+  }
+}

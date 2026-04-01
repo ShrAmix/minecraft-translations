@@ -1,0 +1,18 @@
+{
+    "lambdynlights.menu.light_sources": "Джерела динамічного освітлення",
+    "lambdynlights.menu.title": "Налаштування LambDynamicLights",
+    "lambdynlights.menu.canvas.1": "При використанні Canvas рекомендується вимкнути динамічне освітлення сутностей!",
+    "lambdynlights.menu.canvas.2": "На даний момент при використанні Canvas динамічне освітлення є ресурсозатратним!",
+    "lambdynlights.option.light_sources.block_entities": "Сутності-блоки",
+    "lambdynlights.option.light_sources.entities": "Сутності",
+    "lambdynlights.option.light_sources.water_sensitive_check": "Перевірка на знаходження у воді",
+    "lambdynlights.option.mode": "Динамічне освітлення",
+    "lambdynlights.tooltip.block_entities": "Вмикає динамічне освітлення сутностей-блоків.",
+    "lambdynlights.tooltip.creeper_lighting": "Встановлює режим динамічного освітлення у Кріперів.\n- %s вимикає динамічне освітлення Кріперів.\n- %s встановлює постійну яскравість.\n- %s встановлює динамічну яскравість.",
+    "lambdynlights.tooltip.entities": "Вмикає динамічне освітлення сутностей. Примітка: освітлення гравців активне завжди.",
+    "lambdynlights.tooltip.mode.1": "Вмикає динамічне освітлення. Наприклад, якщо увімкнено, гравець, що тримає смолоскип у руці, буде підсвічувати область навколо себе.",
+    "lambdynlights.tooltip.mode.2": "%s та %s будуть трохи відставати, але зводять до мінімуму оновлення освітлення.",
+    "lambdynlights.tooltip.mode.3": "%s - це плавне динамічне освітлення.",
+    "lambdynlights.tooltip.tnt_lighting": "Встановлює режим динамічного освітлення у Динаміту.\n- %s вимикає динамічне освітлення Динаміту.\n- %s встановлює постійну яскравість.\n- %s встановлює динамічну яскравість.",
+    "lambdynlights.tooltip.water_sensitive": "Вмикає перевірку джерел світла на знаходження у воді. Це означає, що деякі предмети не будуть випромінювати світло при зануренні у воду."
+}

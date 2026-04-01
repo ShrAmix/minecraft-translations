@@ -1,0 +1,44 @@
+{
+    "parent": "quest_giver:quest_0109_01b",
+    "reputation": 6,
+    "icon": "minecraft:iron_sword",
+    "start": {
+        "title": {
+            "text": "Знову привіт!"
+        },
+        "description": {
+            "text": "Якщо ти готовий врятувати дитину, дай мені аркуш паперу, і я намалюю тобі карту."
+        }
+    },
+    "complete": {
+        "title": {
+            "text": "Ось."
+        },
+        "description": {
+            "text": "Ці негідники облаштували там базу. Дитина, мабуть, досі у них... Будь ласка, поспішай. Поверни її нам!"
+        }
+    },
+    "tasks": [
+        {
+            "item": {
+                "item": "minecraft:paper"
+            },
+            "id": "quest_giver:gift",
+            "amount": 1
+        }
+    ],
+    "rewards": [
+        {
+            "command": "/dc addWaypoint @p quest_giver:pillager_base \"Rescue Request - Pillager Base\"",
+            "id": "quest_giver:command"
+        },
+        {
+            "command": "/loot give @p loot minecraft:guard2",
+            "id": "quest_giver:command"
+        },
+        {
+            "command": "/gamestage add @p guard2 true",
+            "id": "quest_giver:command"
+        }
+    ]
+}

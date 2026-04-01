@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 14,
+  "icon": "minecraft:book",
+  "start": {
+    "title": {
+      "text": "Прохання принести"
+    },
+    "description": {
+      "text": "Чи міг би ти допомогти мені дістати 4 мішечки чорнила кальмара?"
+    }
+  }
+}

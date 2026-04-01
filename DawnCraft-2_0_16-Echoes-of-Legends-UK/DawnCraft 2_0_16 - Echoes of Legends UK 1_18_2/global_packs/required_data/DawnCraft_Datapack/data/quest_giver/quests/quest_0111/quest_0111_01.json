@@ -1,0 +1,44 @@
+{
+    "parent": "quest_giver:quest_0111_01b",
+    "reputation": 13,
+    "icon": "minecraft:iron_sword",
+    "start": {
+        "title": {
+            "text": "Знову привіт!"
+        },
+        "description": {
+            "text": "Принеси мені аркуш паперу, і я покажу тобі на ньому, де це знаходиться."
+        }
+    },
+    "complete": {
+        "title": {
+            "text": "Ось."
+        },
+        "description": {
+            "text": "Тримай, це досить легко помітити, коли підійдеш ближче. Удачі, і принеси мені все, що з нього випаде."
+        }
+    },
+    "tasks": [
+        {
+            "item": {
+                "item": "minecraft:paper"
+            },
+            "id": "quest_giver:gift",
+            "amount": 1
+        }
+    ],
+    "rewards": [
+        {
+            "command": "/dc addWaypoint @p quest_giver:giant_hideout \"Extermination Request - The Giant\"",
+            "id": "quest_giver:command"
+        },
+        {
+            "command": "/loot give @p loot minecraft:guard4",
+            "id": "quest_giver:command"
+        },
+        {
+            "command": "/gamestage add @p guard4 true",
+            "id": "quest_giver:command"
+        }
+    ]
+}

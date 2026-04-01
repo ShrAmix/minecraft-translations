@@ -1,0 +1,13 @@
+{
+    "parent": "quest_giver:root",
+    "reputation": 12,
+    "icon": "minecraft:iron_helmet",
+    "start": {
+        "title": {
+            "text": "Дякую, що вислухали."
+        },
+        "description": {
+            "text": "Дякую, що вислухали. Моя плавильна піч ламається... Чи можете ви $(red)створити$() нову і віддати її мені?"
+        }
+    }
+}

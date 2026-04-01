@@ -1,0 +1,12 @@
+{
+  "reputation": 10,
+  "icon": "minecraft:wooden_sword",
+  "start": {
+    "title": {
+      "text": "Іди сюди!"
+    },
+    "description": {
+      "text": "Іди сюди! Поговоримо?"
+    }
+  }
+}

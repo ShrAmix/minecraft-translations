@@ -1,0 +1,40 @@
+{
+    "parent": "quest_giver:quest_0032_01b",
+    "reputation": 0,
+    "icon": "minecraft:beef",
+    "start": {
+        "title": {
+            "text": "Маленька допомога"
+        },
+        "description": {
+            "text": "Гей, ти маєш ніж? Пам'ятай, він має бути зроблений із заліза."
+        }
+    },
+    "complete": {
+        "title": {
+            "text": "Виконано"
+        },
+        "description": {
+            "text": "Чудова робота! Гарний ніж, дякую."
+        }
+    },
+    "tasks": [
+        {
+            "item": {
+                "item": "farmersdelight:iron_knife"
+            },
+            "id": "quest_giver:gift",
+            "amount": 1
+        }
+    ],
+    "rewards": [
+        {
+            "command": "/advancement grant @p only custom:trade_butcher",
+            "id": "quest_giver:command"
+        },
+        {
+            "command": "/addreputation reputation:villager @p 2",
+            "id": "quest_giver:command"
+        }
+    ]
+}

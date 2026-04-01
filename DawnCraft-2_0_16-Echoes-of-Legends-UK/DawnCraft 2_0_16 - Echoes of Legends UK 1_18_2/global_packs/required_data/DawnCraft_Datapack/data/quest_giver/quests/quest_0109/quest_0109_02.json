@@ -1,0 +1,37 @@
+{
+    "parent": "quest_giver:quest_0109_01",
+    "reputation": 6,
+    "icon": "minecraft:iron_sword",
+    "start": {
+        "title": {
+            "text": "Загублена дитина"
+        },
+        "description": {
+            "text": "Будь ласка, врятуйте дитину. Приведіть її додому."
+        }
+    },
+    "complete": {
+        "title": {
+            "text": "Загублена дитина: Виконано"
+        },
+        "description": {
+            "text": "Неймовірно! Ви справді це зробили! Чесно кажучи, я не був оптимістично налаштований щодо виживання дитини... Ось, я навчу вас нової навички — Метеоритний удар. Це єдиний спосіб, яким я можу вам віддячити."
+        }
+    },
+    "tasks": [
+        {
+            "id": "dawncraft:follow_quest",
+            "structure": "#minecraft:village"
+        }
+    ],
+    "rewards": [
+        {
+            "command": "/give @p epicfight:skillbook{skill:\"epicfight:meteor_slam\"}",
+            "id": "quest_giver:command"
+        },
+        {
+            "command": "/addreputation reputation:villager @p 2",
+            "id": "quest_giver:command"
+        }
+    ]
+}

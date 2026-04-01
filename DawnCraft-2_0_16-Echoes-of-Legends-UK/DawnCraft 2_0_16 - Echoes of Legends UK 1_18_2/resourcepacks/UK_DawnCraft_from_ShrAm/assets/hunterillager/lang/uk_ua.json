@@ -1,0 +1,12 @@
+{
+    "item.hunterillager.spawnegg_hunterillager": "Яйце призову єгеря",
+    "item.hunterillager.quivers": "Сагайдак",
+    "item.hunterillager.boomerang": "Бумеранг",
+    "item.hunterillager.quiver.desc": "Ви можете покласти стріли в сагайдак, натиснувши праву кнопку миші, тримаючи сагайдак і стріли.",
+    "entity.hunterillager.hunterillager": "Єгер",
+    "subtitles.hunterillager.laugh": "Єгер сміється",
+    "death.attack.hunterillager.boomerang": "%1$s був прибитий бумерангом %2$s",
+    "hunterillager.config.generateHunterHouse": "Генерувати будинок єгеря у верхньому світі",
+    "hunterillager.config.spawnHunterIllagerOnPatrol": "З'являти єгеря під час патрулювання",
+    "enchantment.hunterillager.bounce": "Відскок"
+}

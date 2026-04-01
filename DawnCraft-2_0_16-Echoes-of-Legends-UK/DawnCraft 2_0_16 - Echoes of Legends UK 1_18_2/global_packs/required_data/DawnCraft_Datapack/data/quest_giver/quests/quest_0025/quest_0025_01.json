@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0025_01b",
+  "reputation": 10,
+  "icon": "minecraft:iron_axe",
+  "start": {
+    "title": {
+      "text": "Завдання на знищення"
+    },
+    "description": {
+      "text": "Вбий Грифона, я добре заплачу тобі... Але будь обережний, прошу."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Дякую!"
+    },
+    "description": {
+      "text": "О, слава богам, ти повернувся! Ти так довго, і в мене лізли найстрашніші думки... Радий, що ти в порядку. Ось твоя нагорода. Ще раз дякую."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "simple_mobs:griffin_feather"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+      	"item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 5
+    },
+    {
+      "command": "/addreputation reputation:villager @p 2",
+      "id": "quest_giver:command"
+    }
+  ]
+}

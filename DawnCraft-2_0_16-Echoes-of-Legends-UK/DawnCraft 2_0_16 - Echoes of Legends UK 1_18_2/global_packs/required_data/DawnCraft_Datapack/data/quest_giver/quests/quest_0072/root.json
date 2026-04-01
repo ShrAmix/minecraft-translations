@@ -1,0 +1,12 @@
+{
+  "reputation": 5,
+  "icon": "minecraft:book",
+  "start": {
+    "title": {
+      "text": "Гей!"
+    },
+    "description": {
+      "text": "Greetings. Care to have a chat?"
+    }
+  }
+}

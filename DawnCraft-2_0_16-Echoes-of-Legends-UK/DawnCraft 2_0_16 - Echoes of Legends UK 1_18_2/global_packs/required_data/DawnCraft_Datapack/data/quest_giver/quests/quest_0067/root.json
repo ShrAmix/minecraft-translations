@@ -1,0 +1,12 @@
+{
+  "reputation": 24,
+  "icon": "minecraft:arrow",
+  "start": {
+    "title": {
+      "text": "Гей!"
+    },
+    "description": {
+      "text": "Adventurer, got time for a job?"
+    }
+  }
+}

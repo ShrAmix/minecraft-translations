@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:wooden_sword",
+  "start": {
+    "title": {
+      "text": "Привіт, молодий авантюристе!"
+    },
+    "description": {
+      "text": "Привіт, молодий авантюристе! Не міг би ти мені допомогти?"
+    }
+  }
+}

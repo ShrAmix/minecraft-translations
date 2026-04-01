@@ -1,0 +1,32 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 5,
+  "icon": "minecraft:crossbow",
+  "start": {
+    "title": {
+      "text": "Добровільне вигнання"
+    },
+    "description": {
+      "text": "Є для тебе додаткове завдання: переможи Капітана піліжерів! Пам'ятай випити молоко, перш ніж повертатися... Уб'ю тебе, якщо приведеш цих прокляних піліжерів до нас!"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Добровільне вигнання: виконано"
+    },
+    "description": {
+      "text": "Молодець. Стій... Ти ж випив молоко, так?"
+    }
+  },
+  "tasks": [{
+    "id": "dawncraft:advancement",
+    "advancement": "minecraft:adventure/voluntary_exile"
+  }],
+  "rewards": [{
+    "id": "quest_giver:item",
+    "item": {
+      "item": "minecraft:emerald",
+      "count": 2
+    }
+  }]
+}

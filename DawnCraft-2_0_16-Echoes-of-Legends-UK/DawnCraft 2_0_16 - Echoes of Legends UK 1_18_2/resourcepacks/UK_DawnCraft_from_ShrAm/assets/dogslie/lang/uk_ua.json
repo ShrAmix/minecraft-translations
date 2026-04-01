@@ -1,0 +1,14 @@
+{
+    "config.dogslie.prop.dogsSpawnLying.name": "Собаки з'являються лежачи",
+    "config.dogslie.prop.dogsSpawnLying.desc": "Чи з'являються собаки у світі лежачи, якщо вони вже сидять.",
+    "config.dogslie.prop.timeBeforeLie.name": "Час до того, як лягти",
+    "config.dogslie.prop.timeBeforeLie.desc": "Час, який собака має просидіти (у тіках), перш ніж лягти.",
+    "config.dogslie.prop.rangeBeforeGettingUp.name": "Радіус для підйому",
+    "config.dogslie.prop.rangeBeforeGettingUp.desc": "Відстань до цілі, при наближенні якої собака встане (у блоках).",
+    "config.dogslie.prop.getsUpTo.name": "Встає перед...",
+    "config.dogslie.prop.getsUpTo.desc": "Перед ким собака встає.\n0 = Ні перед ким\n1 = Власник\n2 = Гравці\n3 = Будь-яка жива істота",
+    "config.dogslie.prop.enabledPoses.name": "Увімкнені пози лежання",
+    "config.dogslie.prop.enabledPoses.desc": "Увімкнені пози для лежання. Якщо мод не знайде сумісних поз, він випадковим чином обере один набір.",
+    "config.dogslie.prop.attemptModWolfSupport.name": "Спроба підтримки вовків з модів",
+    "config.dogslie.prop.attemptModWolfSupport.desc": "Дозволити моду спробувати додати підтримку для вовків з інших модів? (Все ще не підтримує Doggy Talents)"
+}

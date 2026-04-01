@@ -1,0 +1,19 @@
+{
+    "item.darkersouls.dragonslayer_swordspear": "Меч-спис Драконовбивці",
+    "item.darkersouls.dragonslayer_spear": "Спис Драконовбивці",
+    "item.darkersouls.storm_curved_sword": "Штормовий вигнутий меч",
+    "item.darkersouls.lightning": "Спис блискавки",
+    "item.darkersouls.crown_of_tempest": "Корона бурі",
+    "item.darkersouls.nameless_king_chestplate": "Золотий нагрудник",
+    "item.darkersouls.nameless_king_leggings": "Шати бурі",
+    "item.darkersouls.golden_greaves": "Золоті наголінники",
+    "item.darkersouls.great_belfry": "Великий дзвін",
+    "item.darkersouls.nameless_king_spawn_egg": "Яйце призову Безіменного короля",
+    "entity.darkersouls.nameless_king": "Безіменний король",
+    "entity.darkersouls.lightning_projectile": "Блискавка",
+    "entity.darkersouls.wind_no_collision": "Вітер",
+    "itemGroup.darksoulsentities": "Darker Souls - Сутності",
+    "itemGroup.darksoulsweapons": "Darker Souls - Зброя",
+    "itemGroup.darksoulsarmour": "Darker Souls - Обладунки",
+    "itemGroup.darksoulsmagic": "Darker Souls - Закляття"
+}

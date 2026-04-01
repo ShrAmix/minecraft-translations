@@ -1,0 +1,16 @@
+{
+    "category.spyglass-improvements": "Покращення підзорної труби",
+    "key.spyglass-improvements.use": "Використати підзорну трубу",
+    "options.spyglass-improvements.zoomQuantity": "Кроки масштабування: %s",
+    "options.spyglass-improvements.hideSettingsButton": "Приховати кнопку налаштувань: %s",
+    "options.spyglass-improvements.hideSettingsButton.tooltip": "Приховати кнопку налаштувань у меню Minecraft. Ви все ще зможете відкрити цей екран через Mod Menu",
+    "options.spyglass-improvements.showCrosshair": "Показувати приціл: %s",
+    "options.spyglass-improvements.smoothCamera": "Плавна камера: %s",
+    "options.spyglass-improvements.spyglassOverlay": "Накладання підзорної труби: %s",
+    "options.spyglass-improvements.spyglassOverlay.Default": "Стандартне",
+    "options.spyglass-improvements.spyglassOverlay.Clear": "Чисте",
+    "options.spyglass-improvements.spyglassOverlay.Circle": "Коло",
+    "options.spyglass-improvements.spyglassOverlay.None": "Відсутнє",
+    "options.spyglass-improvements.title": "Налаштування покращення підзорної труби",
+    "options.spyglass-improvements.reset": "Скинути конфігурацію"
+}

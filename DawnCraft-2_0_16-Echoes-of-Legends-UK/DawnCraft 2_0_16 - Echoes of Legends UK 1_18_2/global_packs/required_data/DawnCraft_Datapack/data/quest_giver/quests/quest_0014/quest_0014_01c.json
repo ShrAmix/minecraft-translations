@@ -1,0 +1,44 @@
+{
+  "parent": "quest_giver:quest_0014_01b",
+  "reputation": 5,
+  "icon": "minecraft:crossbow",
+  "start": {
+    "title": {
+      "text": "Пошук піліжерів"
+    },
+    "description": {
+      "text": "Думав, ти авантюрист... Добре. Принеси мені аркуш паперу. Я покажу тобі місцезнаходження найближчого табору піліжерів, який нам відомий."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Карту отримано"
+    },
+    "description": {
+      "text": "Ось тобі. Щоправда, піліжерів можна знайти і ближче. Ці хлопці кишать скрізь."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/dc addWaypoint @p #custom:pillager_camp \"Main Quest - Pillager Camp\"",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/loot give @p loot minecraft:pillager1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p guildmaster1 true",
+      "id": "quest_giver:command"
+    }
+  ]
+}

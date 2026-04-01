@@ -1,0 +1,13 @@
+{
+    "parent": "quest_giver:root",
+    "reputation": 0,
+    "icon": "minecraft:beef",
+    "start": {
+        "title": {
+            "text": "Маленька допомога"
+        },
+        "description": {
+            "text": "Добрий чоловіче! Чи не міг би ти дістати мені $(red)залізний ніж$()? Мій щойно зламався..."
+        }
+    }
+}

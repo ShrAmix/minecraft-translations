@@ -1,0 +1,30 @@
+{
+  "parent": "quest_giver:quest_0001_01b",
+  "reputation": 5,
+  "icon": "minecraft:iron_ingot",
+  "start": {
+    "title": {
+      "text": "Принеси мені щось!"
+    },
+    "description": {
+      "text": "Привіт! У тебе вже є $(red)4 залізних зливки$() для мене?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Дякую!"
+    },
+    "description": {
+      "text": "Дякую! Тепер я нарешті зможу зробити броню для того стражника... Він не давав мені спокою через це! Зараз у мене нічого немає для тебе, але я клянусь, що колись віддячу!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:iron_ingot"
+      },
+      "id": "quest_giver:gift",
+      "times": 4
+    }
+  ]
+}

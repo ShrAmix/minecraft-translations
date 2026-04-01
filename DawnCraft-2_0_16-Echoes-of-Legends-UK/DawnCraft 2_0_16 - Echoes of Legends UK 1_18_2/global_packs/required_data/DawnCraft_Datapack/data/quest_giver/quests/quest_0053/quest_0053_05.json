@@ -1,0 +1,13 @@
+{
+    "parent": "quest_giver:quest_0053_04",
+    "reputation": 0,
+    "icon": "minecraft:wheat_seeds",
+    "start": {
+        "title": {
+            "text": "Ну що?"
+        },
+        "description": {
+            "text": "Ну... Чому ти все ще тут? Очікуєш на якусь винагороду?"
+        }
+    }
+}

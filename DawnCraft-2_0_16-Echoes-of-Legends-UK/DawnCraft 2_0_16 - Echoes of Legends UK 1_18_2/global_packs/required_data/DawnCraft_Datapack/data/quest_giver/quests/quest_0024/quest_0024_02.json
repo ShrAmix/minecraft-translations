@@ -1,0 +1,33 @@
+{
+  "parent": "quest_giver:quest_0024_01",
+  "reputation": 6,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "Загублена дитина"
+    },
+    "description": {
+      "text": "Будь ласка, врятуй дитину і приведи її назад сюди."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Загублена дитина: виконано"
+    },
+    "description": {
+      "text": "Ти справжній герой, авантюристе. Ми ніколи не забудемо того, що ти для нас зробив. Ось, я навчу тебе нової бойової навички — Жнива смерті."
+    }
+  },
+  "tasks": [
+    {
+      "id": "dawncraft:follow_quest",
+      "structure": "#minecraft:village"
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/give @p epicfight:skillbook{skill:\"epicfight:death_harvest\"}",
+      "id": "quest_giver:command"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0005_01b",
+  "reputation": 4,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "Ну що?"
+    },
+    "description": {
+      "text": "Ти вже дістав $(red)8 кісток$()?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Дякую!"
+    },
+    "description": {
+      "text": "Чудово! Тепер мої врожаї будуть рости швидше, ніж у інших фермерів! Хаха! Ну, дякую, добрий чоловіче, ось тобі смарагд."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:bone"
+      },
+      "id": "quest_giver:gift",
+      "times": 8
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/addreputation reputation:villager @p 3",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}

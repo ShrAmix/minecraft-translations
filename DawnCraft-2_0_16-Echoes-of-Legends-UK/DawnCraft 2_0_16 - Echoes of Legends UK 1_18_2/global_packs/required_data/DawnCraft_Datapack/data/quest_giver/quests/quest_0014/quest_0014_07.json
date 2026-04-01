@@ -1,0 +1,48 @@
+{
+  "parent": "quest_giver:quest_0014_06",
+  "reputation": 10,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "Шлях до хранителів ока"
+    },
+    "description": {
+      "text": "Наступний хранитель ока — нежить. Нежить із безліччю хитрощів у рукаві, якщо бути точним... Він оточений своїми прихвоснями, тож тобі може бути важко до нього дістатися."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Шлях до хранителів ока"
+    },
+    "description": {
+      "text": "Лорд скелетів — мабуть, найпотужніший нежить, якого я коли-небудь бачив. Дивуюся, що ти зміг його здолати. Гаразд, подивимося... Наступне око охороняє відомий Святий Лицар. Не впевнений, що навіть тобі це під силу. Так чи інакше, я дам тобі його місцезнаходження. Будь обережний."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:magical_eye"
+      },
+      "id": "quest_giver:item_pickup",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/dc addWaypoint @p custom:sentinel_tree \"Main Quest - Guardian Tree\"",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/loot give @p loot minecraft:guildmaster5",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/advancement grant @p only simple_mobs:skeleton_lord_quest_complete",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p guildmaster7 true",
+      "id": "quest_giver:command"
+    }
+  ]
+}

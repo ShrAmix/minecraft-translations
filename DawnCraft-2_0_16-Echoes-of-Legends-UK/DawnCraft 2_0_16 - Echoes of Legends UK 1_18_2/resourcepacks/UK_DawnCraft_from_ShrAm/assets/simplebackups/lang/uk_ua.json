@@ -1,0 +1,7 @@
+{
+    "simplebackups.backup_started": "Створення резервної копії розпочато...",
+    "simplebackups.backup_finished": "Резервну копію створено за %s (%s | %s)",
+    "simplebackups.commands.only_modified": "Створюються не лише змінені файли, будь ласка, перевірте ваш файл конфігурації",
+    "simplebackups.commands.is_merging": "Операція об'єднання вже виконується",
+    "simplebackups.commands.finished": "Об'єднання резервних копій успішно завершено"
+}

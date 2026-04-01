@@ -1,0 +1,43 @@
+{
+    "parent": "quest_giver:quest_0035_01b",
+    "reputation": 35,
+    "icon": "minecraft:beef",
+    "start": {
+        "title": {
+            "text": "Заточування ножа"
+        },
+        "description": {
+            "text": "Ти вже приніс $(red)5 каменів глибинного сланцю$()? Моє лезо зовсім затупилося."
+        }
+    },
+    "complete": {
+        "title": {
+            "text": "Виконано"
+        },
+        "description": {
+            "text": "Гарна робота! Як я і сподівався, у цих каменях є як грубі, так і дрібні зерна. Дуже дякую! Тримай, це твоя винагорода."
+        }
+    },
+    "tasks": [
+        {
+            "item": {
+                "item": "minecraft:deepslate"
+            },
+            "id": "quest_giver:gift",
+            "times": 5
+        }
+    ],
+    "rewards": [
+        {
+            "item": {
+                "item": "minecraft:emerald"
+            },
+            "id": "quest_giver:item",
+            "times": 2
+        },
+        {
+            "command": "/addreputation reputation:villager @p 1",
+            "id": "quest_giver:command"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "entity.dragonmounts.dragon": "Дракон",
+    "dragon_breed.dragonmounts.aether": "Ефірний дракон",
+    "dragon_breed.dragonmounts.fire": "Вогняний дракон",
+    "dragon_breed.dragonmounts.end": "Дракон Краю",
+    "dragon_breed.dragonmounts.forest": "Лісовий дракон",
+    "dragon_breed.dragonmounts.ghost": "Примарний дракон",
+    "dragon_breed.dragonmounts.ice": "Крижаний дракон",
+    "dragon_breed.dragonmounts.nether": "Пекельний дракон",
+    "dragon_breed.dragonmounts.water": "Водяний дракон",
+    "item.dragonmounts.spawn_egg": "Яйце призову: %s",
+    "block.dragonmounts.dragon_egg": "Яйце дракона: %s",
+    "block.dragonmounts.dragon_egg.remaining_time": "Вилупиться через %s секунд.",
+    "block.dragonmounts.dragon_egg.change_breeds": "Творчий режим: взаємодія з драконом змінить його породу на породу цього яйця.",
+    "key.dragonmounts.flight_descent": "Спуск під час польоту"
+}

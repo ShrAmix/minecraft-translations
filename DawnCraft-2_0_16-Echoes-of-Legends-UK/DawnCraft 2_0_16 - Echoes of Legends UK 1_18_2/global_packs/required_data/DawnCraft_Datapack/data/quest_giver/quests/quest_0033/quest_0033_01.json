@@ -1,0 +1,50 @@
+{
+    "parent": "quest_giver:quest_0033_01b",
+    "reputation": 7,
+    "icon": "minecraft:beef",
+    "start": {
+        "title": {
+            "text": "Екзотичне м'ясо"
+        },
+        "description": {
+            "text": "Ти дістав$(red) м'ясо та шкуру кенгуру$()?"
+        }
+    },
+    "complete": {
+        "title": {
+            "text": "Мазл Тов!"
+        },
+        "description": {
+            "text": "Ах... ось яке воно, м'ясо кенгуру. Справді ніжний шматочок... А от шкура не така хороша, як звичайна шкіра, яку ми використовуємо. Але як трофей — непогано... Дуже дякую, мандрівнику. У мене небагато чого є, щоб віддячити... Тримай ці шматочки яловичини. Туша щойно надійшла, тож м'ясо свіже!"
+        }
+    },
+    "tasks": [
+        {
+            "item": {
+                "item": "alexsmobs:kangaroo_meat"
+            },
+            "id": "quest_giver:gift",
+            "amount": 1
+        },
+        {
+            "item": {
+                "item": "alexsmobs:kangaroo_hide"
+            },
+            "id": "quest_giver:gift",
+            "amount": 1
+        }
+    ],
+    "rewards": [
+        {
+            "item": {
+                "item": "minecraft:beef"
+            },
+            "id": "quest_giver:item",
+            "times": 4
+        },
+        {
+            "command": "/addreputation reputation:villager @p 2",
+            "id": "quest_giver:command"
+        }
+    ]
+}

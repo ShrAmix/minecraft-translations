@@ -1,0 +1,45 @@
+{
+  "parent": "quest_giver:quest_0027_01b",
+  "reputation": 20,
+  "icon": "minecraft:iron_ingot",
+  "start": {
+    "title": {
+      "text": "Полювання на духів"
+    },
+    "description": {
+      "text": "Ще не вдалося вбити $(red)5 одержимих обладунків$()? Ну, старайся більше, хаха!"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Ось."
+    },
+    "description": {
+      "text": "Хаха, ти справді це зробив! Ти безумець, але мені це подобається! Ось, візьми свою нагороду, ти її заслужив!"
+    }
+  },
+  "tasks": [
+    {
+      "entity": "dannys_expansion:hollow_armor",
+      "id": "quest_giver:kill",
+      "times": 5
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 5
+    },
+    {
+      "command": "/addreputation reputation:villager @p 2",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/advancement grant @p only custom:trade_armorer",
+      "id": "quest_giver:command"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+    "key.waterdripsound.category": "Загальне",
+    "config.waterdripsound.general": "Налаштування звуків крапель",
+    "config.waterdripsound.enable": "Увімкнути",
+    "config.waterdripsound.volume": "Гучність",
+    "config.waterdripsound.dripChance": "Шанс краплі",
+    "config.waterdripsound.useDripstoneSounds": "Використовувати звуки сталактитів",
+    "tooltip.config.waterdripsound.useDripstoneSounds": "Якщо увімкнено, використовує звуки крапель води/лави\nзі сталактитів, додані у версії 1.17.\nЯкщо ні, використовує звуки зі старіших\nверсій мода.",
+    "config.waterdripsound.soundCategory": "Категорія звуку"
+}

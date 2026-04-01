@@ -1,0 +1,44 @@
+{
+    "parent": "quest_giver:quest_0038_01b",
+    "reputation": 13,
+    "icon": "minecraft:map",
+    "start": {
+        "title": {
+            "text": "Дослідження!"
+        },
+        "description": {
+            "text": "Повертайся до мене, коли відвідаєш ці 3 біоми: Стародавні піски, Вулканічні піки, Біла меса"
+        }
+    },
+    "complete": {
+        "title": {
+            "text": "Виконано"
+        },
+        "description": {
+            "text": "Дякую за твої детальні пояснення. Думаю, я зможу намалювати їх на основі твого опису. Ось, візьми свою винагороду."
+        }
+    },
+    "tasks": [
+        {
+            "id": "dawncraft:advancement",
+            "advancement": "custom:traveller"
+        }
+    ],
+    "rewards": [
+        {
+            "item": {
+                "item": "minecraft:emerald"
+            },
+            "id": "quest_giver:item",
+            "times": 6
+        },
+        {
+            "command": "/addreputation reputation:villager @p 2",
+            "id": "quest_giver:command"
+        },
+        {
+            "command": "/advancement grant @p only custom:trade_cartographer",
+            "id": "quest_giver:command"
+        }
+    ]
+}

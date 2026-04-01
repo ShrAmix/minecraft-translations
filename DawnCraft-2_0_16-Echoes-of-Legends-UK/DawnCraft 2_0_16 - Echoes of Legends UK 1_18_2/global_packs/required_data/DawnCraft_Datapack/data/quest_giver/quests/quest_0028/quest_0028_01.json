@@ -1,0 +1,37 @@
+{
+    "parent": "quest_giver:quest_0028_01b",
+    "reputation": 0,
+    "icon": "minecraft:oak_sapling",
+    "start": {
+        "title": {
+            "text": "Туманна гора"
+        },
+        "description": {
+            "text": "Ой, ти вже знайшов той містичний біом $(red)Туманна гора$()?"
+        }
+    },
+    "complete": {
+        "title": {
+            "text": "Ось воно що..."
+        },
+        "description": {
+            "text": "Ось воно що... Чесно кажучи, це досить розчаровує. Я думав, що в Туманних горах живуть дракони... Ну що ж, принаймні тепер я знаю, що це міф. Дякую."
+        }
+    },
+    "tasks": [
+        {
+            "id": "dawncraft:advancement",
+            "advancement": "custom:magical_spring"
+        }
+    ],
+    "rewards": [
+        {
+            "command": "/advancement grant @p only custom:trade_armorer",
+            "id": "quest_giver:command"
+        },
+        {
+            "command": "/addreputation reputation:villager @p 3",
+            "id": "quest_giver:command"
+        }
+    ]
+}

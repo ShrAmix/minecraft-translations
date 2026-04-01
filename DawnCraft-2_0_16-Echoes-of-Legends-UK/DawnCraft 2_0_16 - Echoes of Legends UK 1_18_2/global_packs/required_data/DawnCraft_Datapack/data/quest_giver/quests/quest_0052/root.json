@@ -1,0 +1,12 @@
+{
+  "reputation": 1,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "Гей!"
+    },
+    "description": {
+      "text": "Ey fella! Give me a hand would ya?"
+    }
+  }
+}

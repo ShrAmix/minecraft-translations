@@ -1,0 +1,36 @@
+{
+    "parent": "quest_giver:quest_0035_02b",
+    "reputation": 35,
+    "icon": "minecraft:beef",
+    "start": {
+        "title": {
+            "text": "Інциндіум"
+        },
+        "description": {
+            "text": "Пам'ятай, Попелясті пустки в Незері. Повертайся до мене, як тільки побуваєш там."
+        }
+    },
+    "complete": {
+        "title": {
+            "text": "Завершено"
+        },
+        "description": {
+            "text": "Це захопливо... Дякую, що розповів мені про те місце. Ось твоя винагорода. Ну, йди вже... Мені треба прийняти важливе рішення."
+        }
+    },
+    "tasks": [
+        {
+            "id": "dawncraft:advancement",
+            "advancement": "custom:scarlet_rot"
+        }
+    ],
+    "rewards": [
+        {
+            "item": {
+                "item": "minecraft:emerald"
+            },
+            "id": "quest_giver:item",
+            "times": 5
+        }
+    ]
+}

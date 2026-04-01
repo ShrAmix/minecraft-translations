@@ -1,0 +1,9 @@
+{
+    "message.followme.follow": "%1$s тепер іде за вами.",
+    "message.followme.unfollow": "%1$s більше не йде за вами.",
+    "message.followme.followingplayer": "%1$s вже йде за %2$s.",
+    "text.followme.following": "Йде за",
+    "key.followme.follow.desc": "Почати/зупинити переслідування",
+    "key.followme.stop.desc": "Зупинити всіх, хто йде за вами",
+    "key.followme.category": "Follow Me"
+}

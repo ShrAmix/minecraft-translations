@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:poppy",
+  "start": {
+    "title": {
+      "text": "Гей!"
+    },
+    "description": {
+      "text": "Чи можеш дістати мені $(red)1 Душебур$()? Його можна знайти у Вимірі Нетер."
+    }
+  }
+}

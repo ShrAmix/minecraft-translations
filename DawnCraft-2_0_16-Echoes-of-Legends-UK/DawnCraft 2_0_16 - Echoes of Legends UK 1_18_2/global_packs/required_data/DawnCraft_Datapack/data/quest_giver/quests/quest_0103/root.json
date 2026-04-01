@@ -1,0 +1,12 @@
+{
+  "reputation": 3,
+  "icon": "minecraft:bow",
+  "start": {
+    "title": {
+      "text": "Гей!"
+    },
+    "description": {
+      "text": "Can you help me gather ingredients for animal lure?"
+    }
+  }
+}

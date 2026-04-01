@@ -1,0 +1,5 @@
+{
+    "gamerule.useAggroFix": "Використовувати систему агро",
+    "enchantment.aggrofix.aggronizing": "Провокація",
+    "gamerule.useAggroFix.description": "Вмикає або вимикає вдосконалену механіку керування агресією (агро) істот."
+}

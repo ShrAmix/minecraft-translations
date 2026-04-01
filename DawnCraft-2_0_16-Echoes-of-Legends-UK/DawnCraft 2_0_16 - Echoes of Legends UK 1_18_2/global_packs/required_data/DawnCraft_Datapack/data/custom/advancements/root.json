@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Подібно до душ",
+            "color": "black",
+            "bold": true
+        },
+        "description": {
+            "text": "Переміг рейд відьом."
+        },
+        "icon": {
+            "item": "minecraft:stone_sword"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone_sword.png"
+    },
+    "criteria": {
+        "Start": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

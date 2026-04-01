@@ -1,0 +1,12 @@
+{
+  "reputation": 6,
+  "icon": "minecraft:log",
+  "start": {
+    "title": {
+      "text": "Гей!"
+    },
+    "description": {
+      "text": "Гей, хлопче, чи можеш дістати мені $(red)колоду дерева магогані$()?"
+    }
+  }
+}

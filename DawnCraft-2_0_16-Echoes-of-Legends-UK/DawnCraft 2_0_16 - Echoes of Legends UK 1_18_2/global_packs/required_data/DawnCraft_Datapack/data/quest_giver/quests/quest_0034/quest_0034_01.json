@@ -1,0 +1,47 @@
+{
+    "parent": "quest_giver:root",
+    "reputation": 5,
+    "icon": "minecraft:pumpkin",
+    "start": {
+        "title": {
+            "text": "Фарширований гарбуз"
+        },
+        "description": {
+            "text": "Ви вже приготували $(yellow)фарширований гарбуз$()? Не хвилюйтеся, я розумію, що це потребує часу!"
+        }
+    },
+    "complete": {
+        "title": {
+            "text": "Готово"
+        },
+        "description": {
+            "text": "Як чудово пахне! Дуже дякую, цього вистачить, щоб годувати мою сім'ю кілька днів."
+        }
+    },
+    "tasks": [
+        {
+            "item": {
+                "item": "farmersdelight:stuffed_pumpkin_block"
+            },
+            "id": "quest_giver:gift",
+            "amount": 1
+        }
+    ],
+    "rewards": [
+        {
+            "item": {
+                "item": "minecraft:emerald"
+            },
+            "id": "quest_giver:item",
+            "times": 1
+        },
+        {
+            "command": "/addreputation reputation:villager @p 1",
+            "id": "quest_giver:command"
+        },
+        {
+            "command": "/advancement grant @p only custom:trade_butcher",
+            "id": "quest_giver:command"
+        }
+    ]
+}

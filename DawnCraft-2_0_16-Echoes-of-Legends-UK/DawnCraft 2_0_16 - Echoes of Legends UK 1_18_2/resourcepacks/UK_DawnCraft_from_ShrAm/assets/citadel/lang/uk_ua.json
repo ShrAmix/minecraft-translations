@@ -1,0 +1,20 @@
+{
+    "item.citadel.debug": "Налагоджувач Citadel",
+    "item.citadel.citadel_book": "Книга Citadel",
+    "item.citadel.effect_item": "Ефект зілля",
+    "item.citadel.fancy_item": "Вишуканий предмет",
+    "book.citadel_book.root": "Книга Citadel!!!",
+    "book.citadel_book.link_example": "Приклад посилання",
+    "book.citadel_book.hover_text_pillager_example": "Посилання на сутності — це маленькі, милі кнопки!",
+    "citadel.gui.patreon_rewards_option": "Налаштування Patreon Citadel...",
+    "citadel.gui.patreon_customization": "Налаштування Patreon Citadel",
+    "citadel.gui.orbit_dist": "Відстань обертання",
+    "citadel.gui.orbit_speed": "Швидкість обертання",
+    "citadel.gui.orbit_height": "Висота обертання",
+    "citadel.gui.reset": "Скинути",
+    "citadel.gui.follower_type": "Тип: ",
+    "citadel.follower.none": "Немає",
+    "citadel.follower.citadel": "Космічна станція",
+    "citadel.follower.citadel_red": "Космічна станція (червона)",
+    "citadel.follower.citadel_gray": "Космічна станція (сіра)"
+}

@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:arrow",
+  "start": {
+    "title": {
+      "text": "Гей!"
+    },
+    "description": {
+      "text": "Can you help me get something?"
+    }
+  }
+}

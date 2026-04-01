@@ -1,0 +1,9 @@
+{
+    "cull-less-leaves.title": "Cull Less Leaves",
+    "cull-less-leaves.option.enabled": "Увімкнено",
+    "cull-less-leaves.option.depth": "Кількість шарів",
+    "cull-less-leaves.option.depth.tooltip": "Кількість шарів листя перед видаленням їх внутрішньої частини.\n1 - виглядає найгірше (найшвидше)\n2 - рекомендовано\n4 - виглядає найкраще (найповільніше)",
+    "cull-less-leaves.sodium.option.enabled": "Cull Leaves",
+    "cull-less-leaves.sodium.option.enabled.description": "Активує мод Cull Less Leaves.",
+    "cull-less-leaves.sodium.option.depth": "Видимі шари листя"
+}

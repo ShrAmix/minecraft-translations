@@ -1,0 +1,13 @@
+{
+    "parent": "quest_giver:root",
+    "reputation": 5,
+    "icon": "minecraft:wheat_seeds",
+    "start": {
+        "title": {
+            "text": "Ну що?"
+        },
+        "description": {
+            "text": "Наше спорядження трохи поламалося... як гадаєш, зможеш дістати нам $(red)залізну мотику$()?"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "reputation": 10,
+  "icon": "minecraft:white_wool",
+  "start": {
+    "title": {
+      "text": "Гей!"
+    },
+    "description": {
+      "text": "Привіт! Чи не міг би ти принести мені відро молока? Дуже хочеться."
+    }
+  }
+}

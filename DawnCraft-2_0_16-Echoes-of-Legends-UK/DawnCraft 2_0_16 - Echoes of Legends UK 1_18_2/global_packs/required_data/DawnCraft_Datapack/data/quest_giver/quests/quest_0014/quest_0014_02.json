@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:quest_0014_01",
+  "reputation": 10,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "Шлях до хранителів ока"
+    },
+    "description": {
+      "text": "Добре, схоже, ти готовий до пригоди! Готовий знайти своє перше око?"
+    }
+  }
+}

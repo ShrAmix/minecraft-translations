@@ -1,0 +1,9 @@
+{
+    "title.dcclasses.screen": "Класи",
+    "button.dcclasses.confirm": "Підтвердити",
+    "button.dcclasses.select": "Вибрати",
+    "text.dcclasses.attributes": "Атрибути",
+    "text.dcclasses.items": "Предмети",
+    "text.dcclasses.slot": "Слот: %s",
+    "text.dcclasses.skills": "Навички"
+}

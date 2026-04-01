@@ -1,0 +1,5 @@
+{
+    "badwithernocookiereloaded.general.tooltip": "Глобальні базові звуки та події, які можна скасувати",
+    "badwithernocookiereloaded.xtra.tooltip": "Додаткові локалізовані звуки, які можна скасувати",
+    "badwithernocookiereloaded.localized settings.silenceus": "Приклад: entity.sheep.step - використовуйте /listen для інших звуків"
+}

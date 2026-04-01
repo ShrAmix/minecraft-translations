@@ -1,0 +1,23 @@
+{
+    "fastload.screen.buildingTerrain.building": "Побудова клієнтських чанків",
+    "fastload.screen.buildingTerrain.preparing": "Генерація серверних чанків",
+    "fastload.buildingTerrain.starting": "Запуск сесії",
+    "fastload.screen.buildingTerrain.template": "Виконано / Ціль",
+    "fastload.screen.config": "Налаштування Fastload",
+    "fastload.button.debug": "Режим налагодження",
+    "fastload.button.debug.tooltip": "Чи варто виводити налагоджувальну інформацію в логи?",
+    "fastload.button.instant_load": "Миттєве завантаження",
+    "fastload.button.instant_load.tooltip": "Ви нетерплячі? Ненавидите екрани завантаження? Просто увімкніть це, завантажте світ, і ви пошкодуєте. -_-",
+    "fastload.button.local_render_chunk_radius": "Локальний радіус",
+    "fastload.button.local_render_chunk_radius.tooltip": "Радіус чанків у колі, що мають відображатися під час побудови ландшафту Fastload для одиночної гри.",
+    "fastload.button.local_render_chunk_radius.min": "Вимкнено",
+    "fastload.button.local_render_chunk_radius.max": "Божевілля",
+    "fastload.button.server_render_chunk_radius": "Серверний радіус",
+    "fastload.button.server_render_chunk_radius.tooltip": "Радіус чанків у колі, що мають відображатися під час побудови ландшафту Fastload для серверів.",
+    "fastload.button.server_render_chunk_radius.min": "Вимкнено",
+    "fastload.button.server_render_chunk_radius.max": "Божевілля",
+    "fastload.button.chunk_try_limit": "Ліміт спроб чанків",
+    "fastload.button.chunk_try_limit.tooltip": "Скільки разів поспіль одна й та сама кількість чанків може бути повернута перед припиненням попереднього рендерингу",
+    "fastload.button.chunk_try_limit.min": "ПК NASA",
+    "fastload.button.chunk_try_limit.max": "Равлик"
+}

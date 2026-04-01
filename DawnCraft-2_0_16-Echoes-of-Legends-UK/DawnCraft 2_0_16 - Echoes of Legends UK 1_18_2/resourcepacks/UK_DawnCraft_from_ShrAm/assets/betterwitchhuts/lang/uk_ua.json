@@ -1,0 +1,6 @@
+{
+    "text.autoconfig.betterwitchhuts-fabric-1_18.title": "Кращі хатини відьом YUNG'а",
+    "text.autoconfig.betterwitchhuts-fabric-1_18.option.general.disableVanillaWitchHuts": "Вимкнути ванільні хатини відьом",
+    "text.autoconfig.betterwitchhuts-fabric-1_18.option.general.disableVanillaWitchHuts.@Tooltip": "Чи слід вимикати ванільні хатини відьом.",
+    "Use /locate betterwitchhuts:witch_hut instead!": "Використовуйте /locate betterwitchhuts:witch_hut замість цього!"
+}

@@ -1,0 +1,30 @@
+{
+  "parent": "quest_giver:quest_0014_01",
+  "reputation": 10,
+  "icon": "minecraft:emerald",
+  "start": {
+    "title": {
+      "text": "Вже зроблено!"
+    },
+    "description": {
+      "text": "О? Ти вже переміг хранителя ока до того, як я дав тобі карту? Гм... Тоді покажи мені саме те око, яке він впустив. Підніми його і поклади знову... Не запитуй чому!"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Кінець шляху"
+    },
+    "description": {
+      "text": "Мені більше нічого тобі сказати, друже. Слідуй своєму покликанню."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:corrupted_eye"
+      },
+      "id": "quest_giver:item_pickup",
+      "times": 1
+    }
+  ]
+}

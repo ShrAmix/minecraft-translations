@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0009_01b",
+  "reputation": 14,
+  "icon": "minecraft:book",
+  "start": {
+    "title": {
+      "text": "Прохання принести"
+    },
+    "description": {
+      "text": "Будь ласка, повертайся, коли зберeш $(red)4 мішечки чорнила$()."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Дякую!"
+    },
+    "description": {
+      "text": "Велике дякую. На жаль, я виявив, що запас паперу теж закінчується... Як думаєш, чи міг би ти допомогти нам дістати зараз 10 аркушів паперу? Ми незабаром поповнимо запаси, але будемо дуже вдячні за твою допомогу."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:ink_sac"
+      },
+      "id": "quest_giver:gift",
+      "times": 4
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/addreputation reputation:villager @p 1",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+    "entity.piglinproliferation.piglin_alchemist": "Піглін-алхімік",
+    "item.piglinproliferation.piglin_alchemist_spawn_egg": "Яйце спавну пігліна-алхіміка",
+    "subtitles.entity.piglin_alchemist.prepared_to_throw_potion": "Піглін-алхімік збирається кинути зілля!",
+    "subtitles.entity.piglin_alchemist.walk": "Дзенькіт зілля",
+    "subtitles.entity.piglin_alchemist.idle": "Піглін-алхімік бурчить",
+    "subtitles.entity.piglin_alchemist.hurt": "Піглін-алхімік зазнає шкоди",
+    "subtitles.entity.piglin_alchemist.admire": "Піглін-алхімік милується",
+    "subtitles.entity.piglin_alchemist.jealous": "Піглін-алхімік заздрісно пирхає",
+    "subtitles.entity.piglin_alchemist.retreat": "Піглін-алхімік відступає",
+    "subtitles.entity.piglin_alchemist.death": "Піглін-алхімік помирає",
+    "subtitles.entity.piglin_alchemist.celebrate": "Піглін-алхімік святкує",
+    "subtitles.entity.piglin_alchemist.angry": "Піглін-алхімік сердито пирхає",
+    "subtitles.entity.piglin_alchemist.conversion": "Піглін-алхімік перетворюється на зомбі-пігліна",
+    "subtitles.entity.piglin_alchemist.step": "Піглін-алхімік крокує",
+    "subtitles.arrow.regenhealingarrowhit": "Стріла зцілює"
+}

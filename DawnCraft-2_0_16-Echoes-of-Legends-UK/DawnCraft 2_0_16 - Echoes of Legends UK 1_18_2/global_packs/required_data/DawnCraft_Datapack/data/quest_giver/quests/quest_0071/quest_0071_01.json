@@ -1,0 +1,44 @@
+{
+    "parent": "quest_giver:root",
+    "reputation": 40,
+    "icon": "minecraft:book",
+    "start": {
+        "title": {
+            "text": "Повернення цінного предмета"
+        },
+        "description": {
+            "text": "Будь ласка, принеси мені аркуш паперу, щоб я міг намалювати тобі карту."
+        }
+    },
+    "complete": {
+        "title": {
+            "text": "Ось."
+        },
+        "description": {
+            "text": "Вибач за клопіт. Ось місце, куди я хочу, щоб ти вирушив. Там є книга, яка належала мені. Колись це був храм, наповнений вченими з усього виміру, але я не знаю, що з ним зараз. Будь ласка, будь обережним і принеси мені мою книгу."
+        }
+    },
+    "tasks": [
+        {
+            "item": {
+                "item": "minecraft:paper"
+            },
+            "id": "quest_giver:gift",
+            "times": 1
+        }
+    ],
+    "rewards": [
+        {
+            "command": "/dc addWaypoint @p custom:librarian_ruin \"Librarian's Request\"",
+            "id": "quest_giver:command"
+        },
+        {
+            "command": "/loot give @p loot minecraft:librarian1",
+            "id": "quest_giver:command"
+        },
+        {
+            "command": "/gamestage add @p librarian1 true",
+            "id": "quest_giver:command"
+        }
+    ]
+}

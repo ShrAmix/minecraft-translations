@@ -1,0 +1,17 @@
+{
+    "block.zensummoning.altar": "Вівтар призову",
+    "itemGroup.zensummoning": "Zen Summoning",
+    "chat.zensummoning.success": "Вівтар приємно гуде.",
+    "chat.zensummoning.busy": "Вівтар зайнятий.",
+    "chat.zensummoning.no_match": "Вівтар не знає, чого ви бажаєте.",
+    "chat.zensummoning.unsatisfied": "Вівтар незадоволений.",
+    "chat.zensummoning.invalid_ingredient": "Це недійсний інгредієнт.",
+    "chat.zensummoning.full": "Вівтар заповнений.",
+    "chat.zensummoning.unsatisfied_hand": "Вівтар незадоволений тим, що ви тримаєте в руках.",
+    "chat.zensummoning.unknown_error": "Сталася невідома помилка, і очікуваний призов більше не може бути виконаний.",
+    "jei.zensummoning.recipe.altar": "Вівтар призову",
+    "jei.zensummoning.catalyst.lore": "{\"text\":\"Натисніть Shift+права кнопка миші з каталізатором, коли всі предмети будуть на вівтарі, щоб почати\", \"color\":\"dark_aqua\"}",
+    "jei.zensummoning.recipe.altar.isCatalystConsumed": "Споживає каталізатор: %1$s",
+    "jei.zensummoning.recipe.altar.weight": "Вага: %f",
+    "jei.zensummoning.recipe.altar.entity": "%1$dx%2$s"
+}

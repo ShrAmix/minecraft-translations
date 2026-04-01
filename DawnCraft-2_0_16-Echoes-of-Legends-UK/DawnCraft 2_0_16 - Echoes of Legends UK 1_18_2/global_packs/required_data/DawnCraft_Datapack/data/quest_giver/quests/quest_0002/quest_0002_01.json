@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0002_01b",
+  "reputation": 0,
+  "icon": "minecraft:rabbit_foot",
+  "start": {
+    "title": {
+      "text": "Послуга"
+    },
+    "description": {
+      "text": "Ну що, у тебе є лапка кроля?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Чудово!"
+    },
+    "description": {
+      "text": "Чудово! У мене немає чим особливо заплатити... Прийми це смажене баранину, щойно приготовлену!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:rabbit_foot"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+      	"item": "minecraft:cooked_mutton"
+	},
+      "id": "quest_giver:item",
+      "times": 1
+    },
+    {
+      "command": "/addreputation reputation:villager @p 2",
+      "id": "quest_giver:command"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:quest_0001_01",
+  "reputation": 5,
+  "icon": "minecraft:wooden_sword",
+  "start": {
+    "title": {
+      "text": "Власне кажучи..."
+    },
+    "description": {
+      "text": "Власне кажучи... Я знаю, як відплатити тобі. Чи можеш принести мені аркуш паперу, щоб я намалював тобі карту?"
+    }
+  }
+}

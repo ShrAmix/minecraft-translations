@@ -1,0 +1,5 @@
+{
+    "enchantlimiter.points": "Очки зачарування: %s",
+    "enchantlimiter.tip": "Вартість: %1$s + %2$s * %3$s = %4$s",
+    "enchantlimiter.shift": "Утримуйте SHIFT для перегляду індивідуальної вартості..."
+}
