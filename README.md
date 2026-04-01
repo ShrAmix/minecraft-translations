@@ -9,8 +9,8 @@
 
 | Зборка | Версія | Статус |
 |--------|--------|--------|
-| [DawnCraft — Echoes of Legends](./DawnCraft-2_0_16-Echoes-of-Legends-UK/) | 2.0.16 / 1.18.2 | 🔄 В процесі |
-
+| [DawnCraft — Echoes of Legends](./DawnCraft-2_0_16-Echoes-of-Legends-UK/) | 2.0.16 / 1.18.2 | Зроблена |
+| [All of Create_UK](./All of Create_UK_1.21.1-v1.6/) | v1.6 / 1.21.1 | Зроблена |
 ---
 
 ## 🔧 Як встановити переклад
@@ -30,28 +30,8 @@
 
 | Платформа | Посилання | Коментар |
 |-----------|-----------|----------|
-| ☕ Buy Me a Coffee | [buymeacoffee.com/YOUR_NAME](https://buymeacoffee.com/YOUR_NAME) | Разовий донат, найпростіший спосіб |
-| 💙 Ko-fi | [ko-fi.com/YOUR_NAME](https://ko-fi.com/YOUR_NAME) | Без комісії на разові донати |
-| 💳 Monobank (Україна) | `YOUR_CARD_NUMBER` | Картка Монобанку |
-| 💸 PayPal | [paypal.me/YOUR_NAME](https://paypal.me/YOUR_NAME) | Міжнародний переказ |
+| 💙 Monobank | [Подякувати за переклад](https://send.monobank.ua/jar/92MXAT5BCP) | Без комісії на разові донати |
 
-> **Як замінити посилання:** Зареєструйся на buymeacoffee.com та ko-fi.com,
-> потім заміни `YOUR_NAME` на свій нікнейм, а `YOUR_CARD_NUMBER` — на номер картки.
-> Детальніше — дивись [DONATE_SETUP.md](./DONATE_SETUP.md)
-
----
-
-## 📁 Структура репозиторію
-
-```
-minecraft-translations/
-├── README.md                          ← цей файл
-├── DONATE_SETUP.md                    ← як налаштувати донат-посилання
-├── .gitignore
-└── DawnCraft-2_0_16-Echoes-of-Legends-UK/
-    ├── README.md                      ← опис перекладу зборки
-    └── ... (файли перекладу)
-```
 
 ---
 
