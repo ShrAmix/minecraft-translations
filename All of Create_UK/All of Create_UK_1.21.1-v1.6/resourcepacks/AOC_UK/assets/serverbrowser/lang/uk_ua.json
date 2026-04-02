@@ -1,0 +1,10 @@
+{
+  "serverbrowser.button.next_page": "Далі: %s",
+  "serverbrowser.server.official": "Офіційний",
+  "serverbrowser.button.prev_page": "Назад",
+  "serverbrowser.button.favorite": "Обране",
+  "serverbrowser.button.register": "Зареєструвати сервер",
+  "serverbrowser.error.unreachable_website": "Наразі не вдалося підключитися до вебсайту",
+  "serverbrowser.button.history": "Історія (в розробці)",
+  "serverbrowser.button.filter": "Фільтрувати сервери"
+}

@@ -1,0 +1,17 @@
+{
+  "block.createtransmission.brass_encased_transmission_chain": "Латунний ланцюговий передавач",
+  "createtransmission.ponder.encasing.text_1": "Ланцюгові передачі також можна помістити в корпус!",
+  "createtransmission.ponder.usage.text_1": "Корпусні ланцюгові приводи можна використовувати для передачі обертальної потужності між конвеєрами.",
+  "createtransmission.ponder.usage.text_5": "Горизонтально...",
+  "createtransmission.ponder.usage.header": "Передача обертальної сили за допомогою ланцюгових передач",
+  "createtransmission.ponder.usage.text_3": "Як альтернативу можна використовувати ланцюгові передачі!\nВони тонкі і працюють лише на конвеєрах.",
+  "createtransmission.ponder.usage.text_4": "Вони можуть живити конвеєр у різних конфігураціях.",
+  "createtransmission.ponder.encasing.header": "Корпусування ланцюгових передач",
+  "block.createtransmission.transmission_chain": "Ланцюгова передача",
+  "createtransmission.ponder.usage.text_6": "...під прямим кутом...",
+  "createtransmission.ponder.usage.text_7": "...і вертикально.",
+  "createtransmission.ponder.encasing.text_2": "Гайковий ключ можна використовувати для зняття корпусу.",
+  "createtransmission.ponder.usage.text_2": "Але вони громіздкі...",
+  "block.createtransmission.andesite_encased_transmission_chain": "Андезитовий ланцюговий передавач",
+  "creativeTab.createtransmission.main": "Create: Transmission"
+}
