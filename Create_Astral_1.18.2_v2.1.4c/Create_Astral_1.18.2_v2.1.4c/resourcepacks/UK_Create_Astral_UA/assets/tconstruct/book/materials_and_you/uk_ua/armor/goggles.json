@@ -1,0 +1,20 @@
+{
+  "tool": "tconstruct:travelers_helmet",
+  "text": [
+    {
+      "text": "Окуляри, гідні короля, або лемінгів, або королівського лемінга."
+    },
+    {
+      "text": "Добра пара окулярів забезпечує безпечніші пригоди, кращий зір і можливість стати королем.",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "Low Armor",
+    "Low Durability",
+    "Great in snow",
+    "3 Upgrade Slots",
+    "2 Defense Slots",
+    "1 Ability Slot"
+  ]
+}

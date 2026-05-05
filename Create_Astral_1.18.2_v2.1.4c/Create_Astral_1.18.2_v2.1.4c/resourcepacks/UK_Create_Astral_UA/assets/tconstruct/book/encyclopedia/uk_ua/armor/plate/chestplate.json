@@ -1,0 +1,15 @@
+{
+  "tool": "tconstruct:plate_chestplate",
+  "text": [
+    {
+      "text": "Пластина броні для грудей — захисна броня з високим рівнем захисту та низькою кількістю слотів для вдосконалення і високою кількістю слотів для оборони."
+    }
+  ],
+  "properties": [
+    "480 Durability",
+    "+7 Armor",
+    "1 Upgrade Slots",
+    "4 Defense Slots",
+    "1 Ability Slot"
+  ]
+}

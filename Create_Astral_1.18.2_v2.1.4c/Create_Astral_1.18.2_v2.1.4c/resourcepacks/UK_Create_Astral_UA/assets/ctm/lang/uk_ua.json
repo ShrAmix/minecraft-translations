@@ -1,0 +1,7 @@
+{
+  "screen.ctm.config.title": "Налаштування CTM",
+  "options.ctm.disable_ctm": "Вимкнути CTM: %s",
+  "options.ctm.disable_ctm.tooltip": "Вимкнути всі з'єднані текстури.",
+  "options.ctm.connect_inside_ctm": "З'єднати всередині CTM: %s",
+  "options.ctm.connect_inside_ctm.tooltip": "Виберіть, чи відключати внутрішній кут на блоці CTM. https://imgur.com/eUywLZ4"
+}

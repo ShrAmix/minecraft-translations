@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:leaping",
+  "text": [
+    {
+      "text": "Приготуйся до стрибка за зірки, і якщо ти не можеш їх досягти, піднімися на гору, а потім спробуй досягти їх."
+    }
+  ],
+  "effects": [
+    "Increases jump height and safe fall height",
+    "Multiple levels, each level increases jump and fall damage height further",
+    "Requires 1 upgrade slot per level"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "tool": "tconstruct:flint_and_brick",
+  "text": [
+    {
+      "text": "Пісок і цегла — доступний інструмент, ефективний для розпалювання вогню."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "На відміну від більшості інших інструментів, його виготовляють на станції або столі для кування."
+    }
+  ],
+  "properties": [
+    "Creates fires",
+    "Starts with fiery 1",
+    "Repaired using seared or scorched bricks"
+  ]
+}

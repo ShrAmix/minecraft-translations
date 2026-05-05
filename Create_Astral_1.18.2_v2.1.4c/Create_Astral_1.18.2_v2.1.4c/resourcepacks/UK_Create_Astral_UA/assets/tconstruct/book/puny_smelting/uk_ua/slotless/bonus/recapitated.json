@@ -1,0 +1,12 @@
+{
+  "modifier_id": "tconstruct:recapitated",
+  "text": [
+    {
+      "text": "Отже, спочатку ти хочеш відрубати їм голови, а тепер хочеш їх повернути? Хто ти такий? Франкенштейн?"
+    }
+  ],
+  "effects": [
+    "Adds an Upgrade Slot",
+    "Single Use"
+  ]
+}

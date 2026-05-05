@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:sweeping_edge",
+  "text": [
+    {
+      "text": "Збільшує кількість шкоди, завданої ударом палиці. Прилад надає 50% основної шкоди на рівні 1, 67% на рівні 2, 75% на рівні 3 та 80% на рівні 4."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Can apply levels incrementally",
+    "Maximum of 4 levels",
+    "Requires 1 upgrade slot per level"
+  ]
+}

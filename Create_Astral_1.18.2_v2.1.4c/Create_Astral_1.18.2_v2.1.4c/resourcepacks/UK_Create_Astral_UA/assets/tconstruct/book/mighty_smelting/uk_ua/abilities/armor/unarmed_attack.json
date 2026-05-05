@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:unarmed",
+  "text": [
+    {
+      "text": "Всі займаються бойовими мистецтвами Кунг-фу."
+    }
+  ],
+  "effects": [
+    "Increases unarmed damage",
+    "Single level",
+    "Requires 1 ability slot"
+  ]
+}

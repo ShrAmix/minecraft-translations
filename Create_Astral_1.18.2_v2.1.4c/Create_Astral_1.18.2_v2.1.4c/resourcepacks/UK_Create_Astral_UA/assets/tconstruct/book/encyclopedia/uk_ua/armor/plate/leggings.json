@@ -1,0 +1,15 @@
+{
+  "tool": "tconstruct:plate_leggings",
+  "text": [
+    {
+      "text": "Пластинні легінги — захисні легінги з високою захистом та низькою кількістю слотів для вдосконалення і високою кількістю слотів для захисту."
+    }
+  ],
+  "properties": [
+    "450 Durability",
+    "+5 Armor",
+    "1 Upgrade Slots",
+    "4 Defense Slots",
+    "1 Ability Slot"
+  ]
+}

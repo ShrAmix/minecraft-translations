@@ -1,0 +1,15 @@
+{
+  "modifier_id": "tconstruct:snowdrift",
+  "text": [
+    {
+      "text": "Подивись на снігового голема. Хіба він не такий крутий, залишаючи сліди з снігу? Ти не бажаєш мати можливість залишати сліди зі снігу теж?"
+    }
+  ],
+  "effects": [
+    "Creates snow as you walk",
+    "Does not work in warm biomes",
+    "Area boosted by expanded",
+    "Maximum of 1 level",
+    "Requires 1 ability slot"
+  ]
+}

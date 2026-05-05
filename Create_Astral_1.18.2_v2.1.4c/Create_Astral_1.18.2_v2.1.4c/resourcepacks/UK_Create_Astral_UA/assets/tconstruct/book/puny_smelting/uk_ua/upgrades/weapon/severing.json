@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:severing",
+  "text": [
+    {
+      "text": "Хто б міг знати, що можна повністю відірвати голови з тіла за допомогою добре розміщених вибухів? Просто трохи з верху."
+    }
+  ],
+  "effects": [
+    "Enemies drop their heads",
+    "Multiple levels, each level increases decapitation chance further",
+    "Requires 1 Upgrade Slot per level"
+  ]
+}

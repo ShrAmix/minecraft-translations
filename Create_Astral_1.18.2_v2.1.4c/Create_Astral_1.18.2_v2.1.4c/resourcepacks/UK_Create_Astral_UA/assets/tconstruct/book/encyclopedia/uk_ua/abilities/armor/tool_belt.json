@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:tool_belt",
+  "text": [
+    {
+      "text": "Дозволяє обмінювати перші 4 слоти панелі швидкого доступу за допомогою взаємодії з штанами. Кожен наступний рівень додає додатковий слот, доки не досягнеться максимуму 9 слотів на рівні 6."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "First level requires 1 ability slot",
+    "Max 6 levels",
+    "Different recipe each level"
+  ]
+}

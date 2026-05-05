@@ -1,0 +1,17 @@
+{
+  "tool": "tconstruct:hand_axe",
+  "text": [
+    {
+      "text": "Ручний топір — це інструмент для точного різання, ефективний при обробці деревини, рослин і листя."
+    },
+    {
+      "text": "Розширювачі збільшують радіус кола топора.",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "+6 Attack Damage",
+    "0.9 Attack Speed",
+    "Strips wood"
+  ]
+}

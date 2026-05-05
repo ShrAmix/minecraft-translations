@@ -1,0 +1,18 @@
+{
+  "tool": "tconstruct:slime_helmet",
+  "text": [
+    {
+      "text": "Я виявив, що ендерслайм можна використовувати для імітації ефектів монстрів за допомогою правильного фокусу, наприклад, черепа."
+    },
+    {
+      "text": "Черепи, які я перевірив, описані в наступному розділі книги.",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "High Durability",
+    "5 Upgrade Slots",
+    "0 Defense Slots",
+    "1 Ability Slot"
+  ]
+}

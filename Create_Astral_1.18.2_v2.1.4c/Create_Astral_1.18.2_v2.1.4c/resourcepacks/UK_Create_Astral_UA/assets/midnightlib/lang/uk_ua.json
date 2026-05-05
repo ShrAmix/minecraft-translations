@@ -1,0 +1,17 @@
+{
+  "midnightlib.overview.title": "Огляд MidnightConfig",
+  "midnightlib.midnightconfig.title": "Налаштування MidnightLib",
+  "midnightlib.midnightconfig.midnightlib_description": "§nMidnightLib",
+  "midnightlib.midnightconfig.config_screen_list": "Включити список екранів налаштувань",
+  "midnightlib.midnightconfig.enum.ConfigButton.TRUE": "§aПравда",
+  "midnightlib.midnightconfig.enum.ConfigButton.FALSE": "§cХибно",
+  "midnightlib.midnightconfig.enum.ConfigButton.MODMENU": "§bМеню модів",
+  "midnightlib.midnightconfig.background_texture": "Текстура фону екранів налаштувань",
+  "midnightlib.midnightconfig.midnighthats_description": "§nMidnightHats",
+  "midnightlib.midnightconfig.special_hats": "Включити капелюхи-спонсори",
+  "midnightlib.modrinth": "Modrinth",
+  "midnightlib.curseforge": "CurseForge",
+  "midnightlib.wiki": "Вікі",
+  "modmenu.descriptionTranslation.midnightlib": "Загальна бібліотека для модів команди MidnightDust. Надає API налаштувань, автоматичну інтеграцію з іншими модами, загальні утиліти та косметику.",
+  "modmenu.summaryTranslation.midnightlib": "Загальна бібліотека для модів команди MidnightDust."
+}

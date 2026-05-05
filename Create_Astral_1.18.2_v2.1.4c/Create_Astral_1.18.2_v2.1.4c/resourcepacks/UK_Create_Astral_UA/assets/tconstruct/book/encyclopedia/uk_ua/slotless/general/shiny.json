@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:shiny",
+  "text": [
+    {
+      "text": "Зробить інструмент світитися, ніби він зачарований. Це все, просто декоративне."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Single use",
+    "Slotless"
+  ]
+}

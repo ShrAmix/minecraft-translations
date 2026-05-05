@@ -1,0 +1,18 @@
+{
+  "modifier_id": "tconstruct:wetting",
+  "text": [
+    {
+      "text": "Відсікає невелику кількість рідини (зазвичай від 10 МБ до 50 МБ) при пошкодженні, щоб застосувати ефекти, такі як вогонь, зцілення або усунення статусних ефектів."
+    },
+    {
+      "text": "Легінси можна заповнити рідиною, взаємодіючи з резервуаром або відводом, тримаючи їх.",
+      "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 1 level",
+    "Requires 1 ability slot",
+    "Fill by using tool on a fluid tank"
+  ]
+}

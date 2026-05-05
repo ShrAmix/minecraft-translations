@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:path_maker",
+  "text": [
+    {
+      "text": "Ти втомився від того, що забуваєш дорогу додому? Чому б не залишити постійну стежку? Потрапляй по землі під час ходьби і ніколи не забудь, де ти був!"
+    }
+  ],
+  "effects": [
+    "Creates paths as you walk",
+    "Area boosted by expanded",
+    "Maximum of 1 level",
+    "Requires 1 ability slot"
+  ]
+}

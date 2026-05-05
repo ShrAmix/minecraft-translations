@@ -1,0 +1,8 @@
+{
+  "custommachinerycreate.requirement.contraption.info.speed.input": "Вимога швидкості: %s обертів за хвилину",
+  "custommachinerycreate.requirement.contraption.info.speed.output": "Швидкість виводу: %s обертів за хвилину",
+  "custommachinerycreate.requirement.contraption.info.stress.input": "Вплив стресу: %sx обертів за хвилину",
+  "custommachinerycreate.requirement.contraption.info.stress.output": "Здатність до стресу: %sx обертів за хвилину",
+  "custommachinerycreate.requirement.contraption.error.speed.input": "Недостатня швидкість обертання: потрібно %s обертів за хвилину, але знайдено %s обертів за хвилину",
+  "custommachinerycreate.requirement.contraption.error.stress.input": "Машина перевантажена!"
+}

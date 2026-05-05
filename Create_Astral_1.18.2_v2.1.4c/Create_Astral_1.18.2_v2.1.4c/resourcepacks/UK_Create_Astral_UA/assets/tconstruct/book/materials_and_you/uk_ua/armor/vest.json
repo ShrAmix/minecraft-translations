@@ -1,0 +1,20 @@
+{
+  "tool": "tconstruct:travelers_chestplate",
+  "text": [
+    {
+      "text": "Не забудь закрити ярлик, не хочу, щоб ти ходив з ним назовні."
+    },
+    {
+      "text": "Пластини для грудей, дуже важливі для захисту твоїх важливих органів грудної клітки. І виглядають дуже круто при цьому.",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "Low Armor",
+    "Low Durability",
+    "Great in snow",
+    "3 Upgrade Slots",
+    "2 Defense Slots",
+    "1 Ability Slot"
+  ]
+}

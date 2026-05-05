@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:projectile_protection",
+  "text": [
+    {
+      "text": "Це не захистить ваші коліна від стріл, що змушує вас відмовитися від пригод і стати охоронцем."
+    }
+  ],
+  "effects": [
+    "Decreases damages from projectiles",
+    "Can apply levels incrementally",
+    "Requires 1 defense slot"
+  ]
+}

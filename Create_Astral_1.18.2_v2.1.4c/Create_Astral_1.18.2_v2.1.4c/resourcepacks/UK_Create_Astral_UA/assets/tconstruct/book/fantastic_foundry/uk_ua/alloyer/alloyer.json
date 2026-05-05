@@ -1,0 +1,12 @@
+{
+  "title": "Злиття металів",
+  "image": {
+    "file": "tconstruct:book/images/alloyer.png"
+  },
+  "text": [
+    {
+      "text": "Наперед, сплави!",
+      "paragraph": true
+    }
+  ]
+}

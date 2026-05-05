@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:frost_walker",
+  "text": [
+    {
+      "text": "Отримати здатність ходити по воді. Ну, не зовсім, але це дуже близько."
+    }
+  ],
+  "effects": [
+    "Water freezes as you walk",
+    "Area boosted by expanded",
+    "Maximum of 1 level",
+    "Requires 1 ability slot"
+  ]
+}

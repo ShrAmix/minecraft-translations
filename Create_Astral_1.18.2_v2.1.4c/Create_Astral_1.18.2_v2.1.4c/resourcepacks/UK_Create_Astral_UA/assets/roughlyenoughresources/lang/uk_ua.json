@@ -1,0 +1,19 @@
+{
+  "rer.worldgen.category": "Генерація світу",
+  "rer.loot.category": "Лут блоків",
+  "rer.entity.loot.category": "Лут істот",
+  "rer.condition.or": "%s або %s",
+  "rer.condition.invert": "не %s",
+  "rer.condition.enchantment": "з чарівним наданням %s",
+  "rer.condition.item": "з предметом %s",
+  "rer.condition.chance": "%s%",
+  "rer.condition.chance.looting": "%s% і більше при луті з пограбуванням",
+  "rer.condition.killedByPlayer": "коли вбито гравцем",
+  "rer.condition.onFire": "коли на вогні",
+  "rer.function.and": "%s + %s",
+  "rer.function.count": "Кількість: %s",
+  "rer.function.atLeast": "не менше %d",
+  "rer.function.atMost": "не більше %d",
+  "rer.function.bonus.enchant": "більше з чарівним наданням %s",
+  "rer.loot.range": "%d до %d"
+}

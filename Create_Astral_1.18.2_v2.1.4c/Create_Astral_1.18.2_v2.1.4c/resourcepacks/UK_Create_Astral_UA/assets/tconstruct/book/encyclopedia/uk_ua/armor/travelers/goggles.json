@@ -1,0 +1,16 @@
+{
+  "tool": "tconstruct:travelers_helmet",
+  "text": [
+    {
+      "text": "Туристичні окуляри — це збалансований шолом з низькою захистом та середніми слотами для оновлення і захисту."
+    }
+  ],
+  "properties": [
+    "110 Durability",
+    "+1 Armor",
+    "3 Upgrade Slots",
+    "2 Defense Slots",
+    "1 Ability Slot",
+    "Insulated"
+  ]
+}

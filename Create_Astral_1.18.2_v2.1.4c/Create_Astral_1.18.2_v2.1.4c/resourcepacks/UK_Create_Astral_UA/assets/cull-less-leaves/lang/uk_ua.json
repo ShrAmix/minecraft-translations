@@ -1,0 +1,9 @@
+{
+  "text.autoconfig.cull-less-leaves.title": "Менше видалення листя",
+  "text.autoconfig.cull-less-leaves.option.enabled": "Ввімкнено",
+  "text.autoconfig.cull-less-leaves.option.depth": "Глибина",
+  "text.autoconfig.cull-less-leaves.option.depth.@Tooltip": "Кількість шарів листя, перш ніж внутрішня частина листя буде видалена.\n1 = Найшвидше, але найменш привабливо.\n2 = Рекомендовано.\n4 = Найповільніше, але найбільш привабливо.",
+  "text.cull-less-leaves.sodium.option.enabled": "Видалити листя",
+  "text.cull-less-leaves.sodium.option.enabled.description": "Ввімкнення моду Менше видалення листя.",
+  "text.cull-less-leaves.sodium.option.depth": "Глибина видалення листя"
+}

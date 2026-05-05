@@ -1,0 +1,14 @@
+{
+  "title": "Інтерфейс Foundry",
+  "image": {
+    "file": "tconstruct:book/images/foundrygui.png",
+    "width": 161,
+    "height": 82
+  },
+  "text": [
+    {
+      "text": "Ваш базовий інтерфейс Foundry. Без більше, без менше.",
+      "paragraph": true
+    }
+  ]
+}

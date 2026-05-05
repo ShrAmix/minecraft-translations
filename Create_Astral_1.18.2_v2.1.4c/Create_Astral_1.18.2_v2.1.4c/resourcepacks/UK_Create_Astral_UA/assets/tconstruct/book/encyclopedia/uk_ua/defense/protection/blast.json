@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tconstruct:blast_protection",
+  "text": [
+    {
+      "text": "Надає +8% стійкості до пошкоджень від вибухів, таких як від креперів або ТНТ. Максимум 80% по всьому набору або 10 рівнів."
+    },
+    {
+      "text": "Зменшує відштовхування від вибухів на 15% за кожен рівень найвищого рівня деталі.",
+      "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Can apply levels incrementally",
+    "Requires 1 defense slot"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tconstruct:wetting",
+  "text": [
+    {
+      "text": "Все добре, якщо ви трохи змокнете, коли отримаєте травму. Чекайте, ви не додали цей модифікатор до своїх штанів?"
+    },
+    {
+      "text": "Використовуйте штани на резервуарі для заповнення рідиною.",
+      "paragraph": true
+    }
+  ],
+  "effects": [
+    "Applies fluid effects when damaged",
+    "Single level",
+    "Requires 1 ability slot"
+  ]
+}

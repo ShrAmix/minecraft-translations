@@ -1,0 +1,13 @@
+{
+  "fluid.astraladditions.sputum": "Спутум",
+  "item.yttr.raw_gadolinite": "Рава йтрій",
+  "item.yttr.ultrapure_wolfram": "Суперчистий уран",
+  "block.yttr.gadolinite": "Йтрій",
+  "block.yttr.raw_gadolinite_block": "Блок рави йтрію",
+  "block.yttr.deepslate_gadolinite": "Глибокий сланець йтрію",
+  "block.yttr.continuous_platform": "Структуровані призматичні кристали",
+  "block.yttr.centrifuge": "Центрифуга йтрію",
+  "advancements.yttr.obtain_xl_iron_ingot.desc": "Отримати великий залізний зливок шляхом плавлення рави йтрію",
+  "advancements.yttr.obtain_yttrium_ingot.desc": "Отримати інгот йтрію вибухом рави йтрію",
+  "fluid.yttr.core_lava": "Ядра лави"
+}

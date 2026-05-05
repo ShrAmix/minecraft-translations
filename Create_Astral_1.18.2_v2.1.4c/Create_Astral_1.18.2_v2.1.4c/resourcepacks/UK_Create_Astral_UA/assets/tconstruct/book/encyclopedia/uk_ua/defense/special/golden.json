@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:golden",
+  "text": [
+    {
+      "text": "Зроблює піглінів дружніми до тебе. Потрібно лише одне золоте частинка з усієї набору."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 1 level per piece",
+    "Requires 1 defense slot"
+  ]
+}

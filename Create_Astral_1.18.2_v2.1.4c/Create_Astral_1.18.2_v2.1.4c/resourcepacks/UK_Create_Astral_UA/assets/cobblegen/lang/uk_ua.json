@@ -1,0 +1,16 @@
+{
+  "cobblegen.generators.cobble": "Генератор граніту",
+  "cobblegen.generators.stone": "Генератор каменю",
+  "cobblegen.generators.basalt": "Генератор базальту",
+  "emi.category.cobblegen.fluid_interaction_cobble": "Генератор граніту",
+  "emi.category.cobblegen.fluid_interaction_stone": "Генератор каменю",
+  "emi.category.cobblegen.fluid_interaction_basalt": "Генератор базальту",
+  "cobblegen.info.weight": "Вага: ",
+  "cobblegen.info.minY": "Мінімальна Y: ",
+  "cobblegen.info.maxY": "Максимальна Y: ",
+  "cobblegen.info.dimensions": "Димензії",
+  "cobblegen.info.whitelistedDim": "Дозволені димензії:",
+  "cobblegen.info.blacklistedDim": "Заблоковані димензії:",
+  "cobblegen.dim.any": "будь-яка",
+  "cobblegen.dim.none": "ні одна"
+}

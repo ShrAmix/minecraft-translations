@@ -1,0 +1,22 @@
+{
+  "block.extended_drawers.double_drawer": "Двійний ящик",
+  "block.extended_drawers.quad_drawer": "Чотириярусний ящик",
+  "block.extended_drawers.single_drawer": "Ящик",
+  "block.extended_drawers.shadow_drawer": "Тіньовий ящик",
+  "block.extended_drawers.controller": "Пункт доступу до ящика",
+  "block.extended_drawers.connector": "Підключувач ящика",
+  "item.extended_drawers.t1_upgrade": "Покращення ящика I",
+  "item.extended_drawers.t2_upgrade": "Покращення ящика II",
+  "item.extended_drawers.t3_upgrade": "Покращення ящика III",
+  "item.extended_drawers.t4_upgrade": "Покращення ящика IV",
+  "item.extended_drawers.downgrade": "Зниження рівня ящика",
+  "item.extended_drawers.creative_upgrade": "Творче покращення ящика",
+  "item.extended_drawers.upgrade_frame": "Фрам для оновлення",
+  "item.extended_drawers.lock": "Замок для ящика",
+  "tooltip.extended_drawers.drawer_contents": "Зміст:",
+  "itemGroup.extended_drawers.main": "Розширені ящики",
+  "extended_drawer.drawer.upgrade_fail": "Не можна змінити покращення; занадто багато предметів.",
+  "book.extended_drawers.guide.name": "Розширення ящиків",
+  "book.extended_drawers.guide.landing_text": "Цей посібник проведе вас через усі кроки налаштування ефективних систем зберігання за допомогою ящиків, а також пояснить, як працює кожен предмет і блок у моді.",
+  "book.extended_drawers.guide.subtitle": "Версія 1.3.7"
+}

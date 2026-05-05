@@ -1,0 +1,16 @@
+{
+  "tool": "tconstruct:travelers_leggings",
+  "text": [
+    {
+      "text": "Шкарпетки мандрівника — це збалансований набір легінгів з середнім захистом та середніми слотами для покращення і захисту."
+    }
+  ],
+  "properties": [
+    "150 Durability",
+    "+4 Armor",
+    "3 Upgrade Slots",
+    "2 Defense Slots",
+    "1 Ability Slot",
+    "Insulated"
+  ]
+}

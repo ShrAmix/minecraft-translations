@@ -1,0 +1,15 @@
+{
+  "block.definedsblocks.elf_glass": "Скло ельфа",
+  "block.definedsblocks.flowery_mossier_stone_bricks": "Кам'яні цеглини з квітковим мохом",
+  "block.definedsblocks.flowery_mossy_coarse_dirt": "Рувна земля з квітковим мохом",
+  "block.definedsblocks.flowery_mossy_deepslate_bricks": "Кам'яні цеглини з глибокого сланцю з квітковим мохом",
+  "block.definedsblocks.flowery_mossy_deepslate_tiles": "Керамічна плитка з глибокого сланцю з квітковим мохом",
+  "block.definedsblocks.flowery_mossy_stone_bricks": "Кам'яні цеглини з квітковим мохом",
+  "block.definedsblocks.future_block": "Будівельний блок майбутнього",
+  "block.definedsblocks.mana_glass": "Скло манної енергії",
+  "block.definedsblocks.mossier_stone_bricks": "Кам'яні цеглини з мохом",
+  "block.definedsblocks.mossy_coarse_dirt": "Рувна земля з мохом",
+  "block.definedsblocks.mossy_deepslate_bricks": "Кам'яні цеглини зі сланцю з мохом",
+  "block.definedsblocks.mossy_deepslate_tiles": "Керамічна плитка зі сланцю з мохом",
+  "itemGroup.definedsblocks.general": "Блоки від Defined"
+}

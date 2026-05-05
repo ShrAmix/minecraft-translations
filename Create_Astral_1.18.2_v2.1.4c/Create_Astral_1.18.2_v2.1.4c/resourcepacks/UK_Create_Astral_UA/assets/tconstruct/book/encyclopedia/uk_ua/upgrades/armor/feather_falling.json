@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:feather_falling",
+  "text": [
+    {
+      "text": "Надає +12% опірності до пошкоджень від падіння на кожний рівень, до максимуму +48% при 5 рівнях."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Can apply levels incrementally",
+    "Maximum of 4 levels",
+    "Requires 1 upgrade slot per level"
+  ]
+}

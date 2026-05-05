@@ -1,0 +1,11 @@
+{
+  "text.autoconfig.numeralping.title": "Нумеральний пінг",
+  "text.autoconfig.numeralping.option.enabled": "Ввімкнено",
+  "text.autoconfig.numeralping.option.defaultPingColour": "Пінг < 150 кольорів",
+  "text.autoconfig.numeralping.option.levelOnePingColour": "Пінг < 300 кольорів",
+  "text.autoconfig.numeralping.option.levelTwoPingColour": "Пінг < 600 кольорів",
+  "text.autoconfig.numeralping.option.levelThreePingColour": "Пінг < 1000 кольорів",
+  "text.autoconfig.numeralping.option.levelFourPingColour": "Пінг ≥ 1000 кольорів",
+  "text.autoconfig.numeralping.option.levelFivePingColour": "Пінг, що перевищив час очікування, колір",
+  "text.autoconfig.numeralping.option.smallPing": "Малий пінг"
+}

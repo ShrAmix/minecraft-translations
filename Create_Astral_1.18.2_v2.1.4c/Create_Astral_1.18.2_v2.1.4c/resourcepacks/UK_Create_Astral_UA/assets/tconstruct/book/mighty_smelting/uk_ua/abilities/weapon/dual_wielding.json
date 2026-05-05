@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:dual_wielding",
+  "text": [
+    {
+      "text": "Дуелі стають більш честними з подвійним триманням зброї."
+    }
+  ],
+  "effects": [
+    "Allows you to dual wield your tools",
+    "Requires offhanded for two-handed tools",
+    "Single Level",
+    "Requires 1 Ability Slot"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "tool": "tconstruct:pickadze",
+  "text": [
+    {
+      "text": "Копальня (Pickadze) — багатофункціональний інструмент для копання з каменю та глини, ефективний при роботі з різними блоками, але не може використовувати рівні врожайності."
+    },
+    {
+      "text": "Розширювачі збільшують висоту копання, дозволяючи створювати ефективні сходи.",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "+0.5 Attack Damage",
+    "115% Attack Modifier",
+    "1.3 Attack Speed",
+    "75% Mining Modifier",
+    "130% Durability Modifier",
+    "Makes paths",
+    "Harvest level limited to wood"
+  ]
+}

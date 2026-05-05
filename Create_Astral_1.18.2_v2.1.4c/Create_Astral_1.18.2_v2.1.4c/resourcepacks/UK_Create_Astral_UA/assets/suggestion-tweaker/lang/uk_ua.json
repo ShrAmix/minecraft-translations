@@ -1,0 +1,11 @@
+{
+  "text.autoconfig.suggestion-tweaker.title": "Тюнер пропозицій",
+  "text.autoconfig.suggestion-tweaker.option.isCaseSensitive": "Ввімкнути чутливість до регістру",
+  "text.autoconfig.suggestion-tweaker.option.filteringMode": "Режим фільтрації",
+  "text.autoconfig.suggestion-tweaker.option.shouldHideSuggestionsWithPrefix": "Ввімкнути приховування пропозицій з певним префіксом",
+  "text.autoconfig.suggestion-tweaker.option.hidePrefix": "Специфічний префікс",
+  "suggestion-tweaker.filtering.strict": "Строгий",
+  "suggestion-tweaker.filtering.slightly_loose": "Досить вільний",
+  "suggestion-tweaker.filtering.loose": "Вільний",
+  "suggestion-tweaker.filtering.very_loose": "Дуже вільний"
+}

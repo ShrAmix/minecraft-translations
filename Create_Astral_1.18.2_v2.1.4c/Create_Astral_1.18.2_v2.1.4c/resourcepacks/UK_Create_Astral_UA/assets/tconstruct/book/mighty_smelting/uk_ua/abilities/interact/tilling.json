@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:tilling",
+  "text": [
+    {
+      "text": "Не марнуй діаманти на лопатку."
+    }
+  ],
+  "effects": [
+    "Allows you to till the ground with your tool",
+    "Single Level",
+    "Requires 1 Ability Slot"
+  ]
+}

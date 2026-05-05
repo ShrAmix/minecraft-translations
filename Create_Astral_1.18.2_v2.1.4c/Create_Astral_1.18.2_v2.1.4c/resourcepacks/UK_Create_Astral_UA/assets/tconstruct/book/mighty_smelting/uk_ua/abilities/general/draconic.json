@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:draconic",
+  "text": [
+    {
+      "text": "Пришло час вийти вперед у змаганні!"
+    }
+  ],
+  "effects": [
+    "Adds another ability slot",
+    "Single Level",
+    "Does not require an ability slot"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "block.extractinator.extractinator": "Екстрактор",
+  "block.extractinator.silt": "Глина",
+  "block.extractinator.slush": "Мокра глина",
+  "text.extractinator.drop_chance": "Шанс падіння: %s%%"
+}

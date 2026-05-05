@@ -1,0 +1,19 @@
+{
+  "tool": "tconstruct:slime_leggings",
+  "text": [
+    {
+      "text": "Слизькі оболонки є частиною захисту та зберігання, надаючи найкращі здібності шулкера."
+    },
+    {
+      "text": "Щоб створити ці дивовижні штани, виливайте ендер-слизьку на оболонку шулкера у відрі. Оболонку пізніше можна відновити за допомогою хорусу.",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "High Durability",
+    "No Armor or Defense Slots",
+    "5 Upgrade Slots",
+    "1 Ability Slot",
+    "Shulking"
+  ]
+}

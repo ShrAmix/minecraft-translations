@@ -1,0 +1,19 @@
+{
+  "block.createendertransmission.chunk_loader": "Завантажувач чанків",
+  "block.createendertransmission.energy_transmitter": "Передавач енергії",
+  "block.createendertransmission.fluid_transmitter": "Передавач рідин",
+  "block.createendertransmission.item_transmitter": "Передавач предметів",
+  "create.gui.transmitter.channel_title": "Мережа",
+  "createendertransmission.chunk_loader.loaded": "Завантажувач чанків завантажив %1$s чанків поруч",
+  "itemGroup.ender_transmission": "Створення Ender Transmission",
+  "transmitter.network.1": "1",
+  "transmitter.network.10": "10",
+  "transmitter.network.2": "2",
+  "transmitter.network.3": "3",
+  "transmitter.network.4": "4",
+  "transmitter.network.5": "5",
+  "transmitter.network.6": "6",
+  "transmitter.network.7": "7",
+  "transmitter.network.8": "8",
+  "transmitter.network.9": "9"
+}

@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tconstruct:haste",
+  "text": [
+    {
+      "text": "Додавання редстону до інструменту здається, збільшує його швидкість. Підвищення швидкості видобутку більш ефективне для повільніших інструментів."
+    },
+    {
+      "text": "Редстон. божевільна річ, чи не так?",
+      "paragraph": true
+    }
+  ],
+  "effects": [
+    "Increases mining speed",
+    "Multiple levels, each level increases speed a bit more",
+    "Requires 1 Upgrade Slot per level"
+  ]
+}

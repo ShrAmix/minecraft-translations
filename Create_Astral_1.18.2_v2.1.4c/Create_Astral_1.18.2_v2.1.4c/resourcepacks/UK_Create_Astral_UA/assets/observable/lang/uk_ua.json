@@ -1,0 +1,23 @@
+{
+  "screen.observable.profile": "Профіль",
+  "screen.observable.results": "Результати",
+  "key.observable.profile": "Показати екран профілю",
+  "category.observable.keybinds": "Спостережувані параметри",
+  "text.observable.profile_tps": "Профіль TPS",
+  "text.observable.profile_fps": "Профіль FPS",
+  "text.observable.sampler": "Профіль з семплером (додає навантаження)",
+  "text.observable.unimplemented": "Нереалізовано!",
+  "text.observable.unavailable": "Спостережуваний параметр не встановлено на сервері",
+  "text.observable.no_permissions": "У вас немає дозволів для запуску профілю",
+  "text.observable.error": "Помилка виконання дії: %s",
+  "text.observable.report": "Будь ласка, повідомте про це за адресою github.com/tasgon/observable/issues",
+  "text.observable.entity_not_found": "Об'єкт не знайдено в %s. Можливо, він помер або був видалений?",
+  "text.observable.results": "Результати",
+  "text.observable.overlay": "Надкладка",
+  "text.observable.docs": "Вікі",
+  "text.observable.discord": "Діскорд",
+  "text.observable.donate": "Підтримати",
+  "text.observable.profile_saved": "Профіль збережено в %s",
+  "text.observable.suggest": "Здається, ваш сервер працює повільно (TPS %s). %s для пошуку джерел затримки.",
+  "text.observable.suggest_action": "Розгляньте можливість використання Observable"
+}

@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:autosmelt",
+  "text": [
+    {
+      "text": "Пламені пекла корисні для підвищення температури."
+    }
+  ],
+  "effects": [
+    "Drops from all blocks are smelted if possible",
+    "Single Level",
+    "Requires 1 Ability Slot"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tool": "tconstruct:kama",
+  "text": [
+    {
+      "text": "Кама — це інструмент точного збирання врожаю, чудово підходить для обрізання рослин і стрижки тварин."
+    }
+  ],
+  "properties": [
+    "Interact with crops to harvest them",
+    "Shears blocks and animals",
+    "Effective on plants",
+    "AoE attack capabilities"
+  ]
+}

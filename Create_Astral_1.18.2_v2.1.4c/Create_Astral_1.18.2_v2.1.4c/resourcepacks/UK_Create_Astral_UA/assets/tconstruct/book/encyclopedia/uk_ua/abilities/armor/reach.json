@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:reach",
+  "text": [
+    {
+      "text": "Збільшує максимальну відстань, на яку цей інструмент може видобувати, розміщувати блоки та атакувати мобів, на 1 блок за рівень."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "No max level",
+    "Requires 1 ability slot per level"
+  ]
+}

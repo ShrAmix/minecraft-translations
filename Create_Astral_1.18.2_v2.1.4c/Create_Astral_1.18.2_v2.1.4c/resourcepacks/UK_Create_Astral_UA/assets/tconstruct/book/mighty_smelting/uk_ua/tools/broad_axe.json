@@ -1,0 +1,19 @@
+{
+  "tool": "tconstruct:broad_axe",
+  "text": [
+    {
+      "text": "Широкий топір — інструмент для рубання дерев з високою ефективністю. Він здатний знищити дерева одним ударом."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Оптимально підходить для швидкого вирубування лісів."
+    }
+  ],
+  "properties": [
+    "Advanced chopping tool",
+    "Able to destroy a whole tree in one chop",
+    "Able to strip a whole tree in one interaction"
+  ]
+}

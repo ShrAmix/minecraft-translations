@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:pockets",
+  "text": [
+    {
+      "text": "Єдине, що вам зараз потрібно, це кишеньковий калькулятор, щоб правильно підрахувати кількість кишень."
+    }
+  ],
+  "effects": [
+    "Adds more inventory space",
+    "Access with shift plus leggings interact",
+    "Multiple levels, each level gives +18 slots",
+    "Requires 1 ability slot"
+  ]
+}

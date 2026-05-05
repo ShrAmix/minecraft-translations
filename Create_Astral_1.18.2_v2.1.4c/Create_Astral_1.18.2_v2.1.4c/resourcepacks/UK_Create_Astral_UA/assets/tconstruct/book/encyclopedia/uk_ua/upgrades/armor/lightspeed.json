@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:lightspeed_armor",
+  "text": [
+    {
+      "text": "Надає +5% швидкість руху на рівень у добре освітлених зонах. Якщо зона не так добре освітлена, все ж буде надано деяке прискорення, але не таке значне"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Can apply levels incrementally",
+    "Maximum of 3 levels",
+    "Requires 1 upgrade slot per level"
+  ]
+}

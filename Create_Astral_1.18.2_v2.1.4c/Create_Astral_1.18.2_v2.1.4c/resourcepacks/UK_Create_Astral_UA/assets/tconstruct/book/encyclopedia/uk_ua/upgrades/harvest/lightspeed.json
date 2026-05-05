@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:lightspeed",
+  "text": [
+    {
+      "text": "Надає +1 швидкість видобутку на рівень при освітленості 5, +3 швидкості видобутку на рівень при освітленості 10 і +9 швидкості видобутку на рівень при освітленості 15."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Can apply levels incrementally",
+    "Maximum of 5 levels",
+    "Requires 1 upgrade slot per level"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tool": "tconstruct:pickadze",
+  "text": [
+    {
+      "text": "Правильна назва для цього інструменту була б копальня-маточок, але людям подобається знайоме."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Він може створювати шляхи до слави."
+    }
+  ],
+  "properties": [
+    "Creates paths",
+    "Mines stone blocks and similar",
+    "Breaks soft dirts and gravel",
+    "Harvest level limited to wood"
+  ]
+}

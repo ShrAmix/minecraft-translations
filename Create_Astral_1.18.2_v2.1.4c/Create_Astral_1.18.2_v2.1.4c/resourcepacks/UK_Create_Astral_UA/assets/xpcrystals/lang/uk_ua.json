@@ -1,0 +1,17 @@
+{
+  "block.xpcrystals.budding_xp_crystal": "Розвивальний кристал досвіду",
+  "block.xpcrystals.xp_crystal_block": "Кристал досвіду блок",
+  "block.xpcrystals.xp_crystal_cluster": "Кластер кристалів досвіду",
+  "block.xpcrystals.xp_crystal_med": "Середній кристал досвіду (розвиваючий)",
+  "block.xpcrystals.xp_crystal_small": "Малий кристал досвіду (розвиваючий)",
+  "block.xpcrystals.xp_syphon": "Сос досвіду",
+  "block.xpcrystals.soul": "Лікувальна душа",
+  "item.xpcrystals.xp_crystal": "Кристал досвіду",
+  "item.xpcrystals.soul_compound": "Згущення душі",
+  "item.xpcrystals.crystal_broth": "Кристалічний бульйон",
+  "item.xpcrystals.sticky_crystal_pudding": "Лепкий кристалічний пудинг",
+  "item.xpcrystals.soul_bucket": "Бак з лікувальною душею",
+  "item.xpcrystals.xp_boost_potion": "Фокусова чаша",
+  "fluid.xpcrystals.soul": "Лікувальна душа (рідина)",
+  "effect.xpcrystals.xp_boost": "Фокус"
+}

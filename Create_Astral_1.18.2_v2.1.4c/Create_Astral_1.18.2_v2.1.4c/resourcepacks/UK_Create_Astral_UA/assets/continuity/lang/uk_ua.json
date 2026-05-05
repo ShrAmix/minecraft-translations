@@ -1,0 +1,9 @@
+{
+  "options.continuity.title": "Налаштування безперервності",
+  "options.continuity.connected_textures": "Підключені текстури",
+  "options.continuity.connected_textures.tooltip": "Ввімкнути або вимкнути підключені текстури для блоків.",
+  "options.continuity.emissive_textures": "Емісивні текстури",
+  "options.continuity.emissive_textures.tooltip": "Включити або вимкнути емісивні текстури для блоків та предметних моделей.",
+  "options.continuity.custom_block_layers": "Персональні шари блоків",
+  "options.continuity.custom_block_layers.tooltip": "Включити або вимкнути персональні шари блоків."
+}

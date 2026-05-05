@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:haste_armor",
+  "text": [
+    {
+      "text": "Надає +10% швидкість видобутку на кожному рівні для всіх утримуваних інструментів."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Can apply levels incrementally",
+    "Maximum of 5 levels",
+    "Requires 1 upgrade slot per level"
+  ]
+}

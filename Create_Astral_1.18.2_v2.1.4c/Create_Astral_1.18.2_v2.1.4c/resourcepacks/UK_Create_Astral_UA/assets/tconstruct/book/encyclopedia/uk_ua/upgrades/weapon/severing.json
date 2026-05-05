@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:severing",
+  "text": [
+    {
+      "text": "Надає 5% шанс на рівень (плюс додаткові 5% на рівень удачі) для того, щоб моб впав з головою або іншими частинами тіла. Для рідкісних мобів, таких як боси, шанс подвоюється."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 5 levels",
+    "Requires 1 upgrade slot per level"
+  ]
+}

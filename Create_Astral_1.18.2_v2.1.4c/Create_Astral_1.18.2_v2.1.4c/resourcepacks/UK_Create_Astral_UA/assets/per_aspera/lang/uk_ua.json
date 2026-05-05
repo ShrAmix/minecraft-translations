@@ -1,0 +1,17 @@
+{
+  "per_aspera.msg.jet_suit_toggle": "Слухаємо костюм для реактивного руху",
+  "per_aspera.msg.thruster_boots_toggle": "Ввімкнено/вимкнено черевики з реактивними двигунами",
+  "per_aspera.msg.jet_suit_toggle_hover": "Ввімкнено/вимкнено режим зависання",
+  "per_aspera.msg.jet_suit_on": "вмикано",
+  "per_aspera.msg.jet_suit_off": "вимкнено",
+  "per_aspera.key_category": "Per Aspera",
+  "per_aspera.key.toggle_jet_suit": "Ввімкнути/вимкнути костюм для реактивного руху або черевики з реактивними двигунами",
+  "per_aspera.key.toggle_jet_suit_hover": "Ввімкнути/вимкнути режим зависання",
+  "item.per_aspera.jet_suit_flash_card": "Карточка костюма для реактивного руху",
+  "item.per_aspera.thruster_boots": "Черевики з реактивними двигунами",
+  "per_aspera.gui.jet_suit_customization.title": "Виберіть стиль частинок для вашого костюма для реактивного руху",
+  "per_aspera.gui.jet_suit_customization.soul_fire_flame": "Вогонь душі",
+  "per_aspera.gui.jet_suit_customization.end_rod": "Конечна паличка",
+  "per_aspera.gui.jet_suit_customization.bubble": "Пінки",
+  "per_aspera.hud.thruster_boots_charge": "Черевики з реактивними двигунами на %d%%"
+}

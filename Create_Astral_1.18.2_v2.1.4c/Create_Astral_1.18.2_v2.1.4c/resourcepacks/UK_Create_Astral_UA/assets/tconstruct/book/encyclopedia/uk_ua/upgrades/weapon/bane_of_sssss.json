@@ -1,0 +1,18 @@
+{
+  "modifier_id": "tconstruct:bane_of_sssss",
+  "text": [
+    {
+      "text": "Надає +2 шкоди на рівень проти артроподів та кріперів."
+    },
+    {
+      "text": "Крім артроподів та кріперів, застосовує повільність IV на 1 секунду, плюс можливий бонусний півсекунди на рівень.",
+      "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Can apply levels incrementally",
+    "Maximum of 5 levels",
+    "Requires 1 upgrade slot per level"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tconstruct:dragonborn",
+  "text": [
+    {
+      "text": "Надає +10% стійкості під час польоту. Максимум 80% для всього набору або 10 рівнів."
+    },
+    {
+      "text": "Збільшує шкоду атаки під час польоту на 10% за кожен рівень найвищого елемента набору.",
+      "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Can apply levels incrementally",
+    "Requires 1 defense slot"
+  ]
+}

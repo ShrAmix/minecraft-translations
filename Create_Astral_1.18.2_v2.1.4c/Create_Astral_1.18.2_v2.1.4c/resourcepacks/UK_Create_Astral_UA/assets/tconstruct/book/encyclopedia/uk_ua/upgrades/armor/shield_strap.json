@@ -1,0 +1,12 @@
+{
+  "modifier_id": "tconstruct:shield_strap",
+  "text": [
+    {
+      "text": "Додає +1 слот для додаткового спорядження на кожний рівень, що дозволяє змінювати предмет у додатковому слоті, взаємодіючи з штанами."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Requires 1 upgrade slot"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "tool": "tconstruct:mattock",
+  "text": [
+    {
+      "text": "Маточок — універсальний інструмент. Він ефективний для обробки дерев'яних брусів та ґрунту."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Він може допомогти створити ферму ваших мрій."
+    }
+  ],
+  "properties": [
+    "Tills dirt",
+    "Effective on dirt and logs",
+    "Extra knockback"
+  ]
+}

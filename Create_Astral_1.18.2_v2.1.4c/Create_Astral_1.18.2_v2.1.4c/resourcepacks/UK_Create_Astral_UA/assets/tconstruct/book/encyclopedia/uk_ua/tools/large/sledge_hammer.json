@@ -1,0 +1,20 @@
+{
+  "tool": "tconstruct:sledge_hammer",
+  "text": [
+    {
+      "text": "Следж-гавка — це широкий інструмент для копання, ефективний при роботі з каменем у діапазоні 3x3."
+    },
+    {
+      "text": "Розширювачі змінюють ширину та висоту по черзі.",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "+3 Attack Damage",
+    "135% Attack Modifier",
+    "0.75 Attack Speed",
+    "40% Mining Modifier",
+    "400% Durability Modifier",
+    "Smite II"
+  ]
+}

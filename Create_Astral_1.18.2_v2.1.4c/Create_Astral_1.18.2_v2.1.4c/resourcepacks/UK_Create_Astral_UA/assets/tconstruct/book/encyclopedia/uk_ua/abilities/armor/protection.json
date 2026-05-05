@@ -1,0 +1,12 @@
+{
+  "modifier_id": "tconstruct:protection",
+  "text": [
+    {
+      "text": "Надає +6% опірності всім типам ушкоджень на першому рівні та +4% на наступних рівнях. Максимальний показник - 80%, включаючи інші типи захисту."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Requires 1 ability slot per level"
+  ]
+}

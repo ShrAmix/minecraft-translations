@@ -1,0 +1,16 @@
+{
+  "modifier_id": "tconstruct:item_frame",
+  "text": [
+    {
+      "text": "Додає слоти до шолома, які будуть відображатися в інтерфейсі користувача при носінні."
+    },
+    {
+      "text": "Інвентар шолома можна відкрити, взаємодіючи з ним, тримаючи його в руках.",
+      "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Requires 1 upgrade slot per level"
+  ]
+}

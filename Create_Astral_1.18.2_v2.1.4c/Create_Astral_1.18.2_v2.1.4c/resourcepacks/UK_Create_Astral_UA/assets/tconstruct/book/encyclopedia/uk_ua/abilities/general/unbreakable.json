@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:unbreakable",
+  "text": [
+    {
+      "text": "Запобігає пошкодженню інструменту, крім як від спеціальних джерел пошкоджень, таких як смачні."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 1 level",
+    "Requires Reinforced V and the Netherite modifier",
+    "Requires 1 ability slot"
+  ]
+}

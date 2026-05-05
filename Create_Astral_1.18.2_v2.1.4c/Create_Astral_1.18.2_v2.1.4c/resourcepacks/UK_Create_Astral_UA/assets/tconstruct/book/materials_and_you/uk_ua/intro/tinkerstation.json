@@ -1,0 +1,14 @@
+{
+  "title": "Тинкер Станція",
+  "image": {
+    "file": "tconstruct:book/images/tinkerstation.png",
+    "width": 135,
+    "height": 72
+  },
+  "text": [
+    {
+      "text": "Покладіть це тут, а те там, і о, це неправильно. Краще продовжуйте тинкери.",
+      "paragraph": true
+    }
+  ]
+}

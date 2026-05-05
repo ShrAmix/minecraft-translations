@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:pathing",
+  "text": [
+    {
+      "text": "Якщо ви не можете знайти золоту цегляну дорогу, створіть власну дорогу з глини."
+    }
+  ],
+  "effects": [
+    "Allows you to make paths with your tools",
+    "Single Level",
+    "Requires 1 Ability Slot"
+  ]
+}

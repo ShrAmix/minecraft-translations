@@ -1,0 +1,20 @@
+{
+  "tool": "tconstruct:sledge_hammer",
+  "text": [
+    {
+      "text": "Свіжий молоток — це широкий інструмент для копання. Він видобуває блоки в широкому діапазоні і ефективний проти нежиття."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Він оптимальний для видобування великих ділянок і тривалих поїздок для копання."
+    }
+  ],
+  "properties": [
+    "Advanced mining tool",
+    "3x3 AoE Mining",
+    "Effective on stone and ores",
+    "Starts with Smite II"
+  ]
+}

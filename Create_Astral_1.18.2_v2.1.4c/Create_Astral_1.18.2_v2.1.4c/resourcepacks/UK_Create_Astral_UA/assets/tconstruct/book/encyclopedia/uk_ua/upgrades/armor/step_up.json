@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:step_up",
+  "text": [
+    {
+      "text": "Збільшує висоту, на яку гравець може стояти, на 0.5 блоків за рівень."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 2 levels",
+    "Requires 1 upgrade slot per level"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "config.citresewn.title": "Налаштування CIT Resewn",
+  "config.citresewn.configure": "Налаштувати",
+  "config.citresewn.enabled.title": "Ввімкнено",
+  "config.citresewn.enabled.tooltip": "Чи має CIT Resewn завантажувати та ін'єктувати cits з пакетів ресурсів",
+  "config.citresewn.mute_errors.title": "Придушити помилки під час завантаження",
+  "config.citresewn.mute_errors.tooltip": "Чи не має CIT Resewn записувати помилки cits",
+  "config.citresewn.mute_warns.title": "Придушити попередження під час завантаження",
+  "config.citresewn.mute_warns.tooltip": "Чи не має CIT Resewn записувати попередження cits",
+  "config.citresewn.broken_paths.title": "Дозволити пошкоджені шляхи в пакетах ресурсів",
+  "config.citresewn.broken_paths.tooltip": "Дозволяє завантаження пакетів з незаконними шляхами до ресурсів.\nМоже спричинити проблеми!",
+  "config.citresewn.cache_ms.title": "Кеш",
+  "config.citresewn.cache_ms.tooltip": "Як часто має оновлюватися кеш цит. \nВищі значення забезпечать кращу продуктивність.\nНизькі значення зроблять оновлення цит швидшими.\nREALTIME видалить кеш повністю, \nзробивши предмети перевіряти цит на кожному кадрі.",
+  "config.citresewn.cache_ms.ticks.0": "REALTIME",
+  "config.citresewn.cache_ms.ticks.1": "Кожен кадр",
+  "config.citresewn.cache_ms.ticks.any": "Кожні %s кадрів",
+  "pack.incompatible.broken_paths": "(Вмістить пошкоджені шляхи)",
+  "pack.incompatible.confirm.broken_paths": "Цей пакет містить пошкоджені шляхи, і підтримка їх може бути припинена в майбутньому. Зв'яжіться з автором пакета, щоб видалити це попередження. (~ CIT Resewn)"
+}

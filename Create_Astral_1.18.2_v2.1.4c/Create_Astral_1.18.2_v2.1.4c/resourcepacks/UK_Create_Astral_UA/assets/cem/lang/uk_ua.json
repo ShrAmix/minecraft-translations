@@ -1,0 +1,9 @@
+{
+  "modmenu.descriptionTranslation.cem": "Дозволяє завантажувати власні моделі в гру, визначені файлами .jem та .jpm у пакеті ресурсів.",
+  "config.cem.use_optifine_folder": "Використовувати папку Optifine?",
+  "config.cem.use_optifine_folder.description": "Це завантажить моделі CEM з\nassets/minecraft/optifine/cem,\nщо саме так і робить Optifine.\nДля застосування змін перезавантажте ресурси (F3 + T)!",
+  "config.cem.use_new_model_creation_fix": "Використовувати виправлення створення моделей?",
+  "config.cem.use_new_model_creation_fix.description": "Це запобігає тому, щоб Minecraft переміщував частини вашої моделі під час анімації. Це ламає кілька моделей, але виправляє інші. Будь ласка, використовуйте його, якщо можливо.\nДля застосування змін перезавантажте ресурси (F3 + T)!",
+  "config.cem.use_old_animations": "Використовувати старішу реалізацію анімації?",
+  "config.cem.use_old_animations.description": "Це відновлює поведінку анімації\nз версії CEM <=0.6.2. Вам, ймовірно, варто вимкнути це."
+}

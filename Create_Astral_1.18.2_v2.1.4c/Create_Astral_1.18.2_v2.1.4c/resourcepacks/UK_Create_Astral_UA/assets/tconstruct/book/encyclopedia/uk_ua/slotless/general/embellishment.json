@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tconstruct:embellishment",
+  "text": [
+    {
+      "text": "Дозволяє змінювати зовнішній вигляд броні з пластин та костюма з слизю."
+    },
+    {
+      "text": "Броня з пластин прикрашається металевими інготами, а костюм з слизю — блоками застиглої слизи.",
+      "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Multi-use",
+    "Slotless"
+  ]
+}

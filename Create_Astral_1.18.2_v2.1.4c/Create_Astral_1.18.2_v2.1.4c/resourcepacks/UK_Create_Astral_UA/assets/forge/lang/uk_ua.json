@@ -1,0 +1,5 @@
+{
+  "commands.forge.arguments.enum.invalid": "Елемент енумерації повинен бути одним з {0}, знайдено {1}",
+  "commands.config.getwithtype": "Налаштування для %s типу %s знайдено в %s",
+  "commands.config.noconfig": "Налаштування для %s типу %s не знайдено"
+}

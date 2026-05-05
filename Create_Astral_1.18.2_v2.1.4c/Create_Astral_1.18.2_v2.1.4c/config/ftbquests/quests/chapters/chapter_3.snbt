@@ -1,0 +1,3025 @@
+{
+	id: "3E0862BB5F2DDA3C"
+	group: ""
+	order_index: 4
+	filename: "chapter_3"
+	title: "Розділ 3: Пригоди в підземеллі"
+	icon: "create:fluid_tank"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [
+		{
+			x: 10.0d
+			y: -3.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "createastral:textures/item/questmoon.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 9.0d
+			y: 1.5d
+			width: 4.0d
+			height: 4.0d
+			rotation: 0.0d
+			image: "ad_astra:textures/painting/sun.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 12.0d
+			y: -5.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "minecraft:textures/particle/sga_a.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 13.5d
+			y: -5.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "minecraft:textures/particle/sga_n.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 14.5d
+			y: -5.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "minecraft:textures/particle/sga_e.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 15.5d
+			y: -5.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "minecraft:textures/particle/sga_w.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 12.0d
+			y: -1.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "minecraft:textures/particle/sga_e.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 13.0d
+			y: -1.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "minecraft:textures/particle/sga_a.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 14.0d
+			y: -1.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "minecraft:textures/particle/sga_r.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 15.0d
+			y: -1.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "minecraft:textures/particle/sga_t.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 16.0d
+			y: -1.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "minecraft:textures/particle/sga_h.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+	]
+	quests: [
+		{
+			title: "Знайти стародавню книгу"
+			x: -1.5d
+			y: 0.5d
+			subtitle: "Досліджуйте руїни та знайдіть приховану бібліотеку."
+			description: [
+				"Описання завдання 0 в розділі 3 глави"
+				""
+				"Друга деталь опису завдання 0"
+				""
+				"Інша інформація про завдання 0"
+				""
+				"Шосте речення в описі завдання 0"
+			]
+			dependencies: ["70799237323247B7"]
+			id: "6AEEE2B22E28945B"
+			tasks: [{
+				id: "5852E083EF17B463"
+				type: "item"
+				item: "create:fluid_tank"
+				count: 4L
+			}]
+			rewards: [{
+				id: "5689B7136BEB29FC"
+				type: "item"
+				item: "create:fluid_tank"
+				count: 4
+			}]
+		}
+		{
+			x: -3.0d
+			y: -0.5d
+			shape: "rsquare"
+			subtitle: "Вбивство дракона"
+			description: [
+				"Описання завдання 1 в розділі 3 глави"
+				""
+				"Друга деталь опису завдання 1"
+				"Третя інформація про завдання 1"
+				""
+				"П'ята деталь в описі завдання 1"
+				""
+				"Сьома інформація про завдання 1"
+				""
+				"Дев'ята деталь в описі завдання 1"
+				""
+				"Одиннадцята інформація про завдання 1"
+			]
+			dependencies: ["751CC4EF84A919C7"]
+			size: 1.5d
+			id: "0A34148EBAF329B3"
+			tasks: [
+				{
+					id: "3C8959799657F5E3"
+					type: "item"
+					item: "tconstruct:seared_melter"
+				}
+				{
+					id: "56C67F71E1B37C35"
+					type: "item"
+					item: "tconstruct:seared_heater"
+				}
+			]
+			rewards: [
+				{
+					id: "6CAB1338A11F9FAE"
+					type: "item"
+					item: {
+						id: "mcdw:axe_firebrand"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "4181C74522A01AE6"
+					type: "item"
+					item: "minecraft:coal"
+					count: 32
+				}
+				{
+					id: "54E402E4A13AA237"
+					type: "item"
+					item: "tconstruct:seared_brick"
+					count: 16
+				}
+			]
+		}
+		{
+			x: -3.0d
+			y: 1.0d
+			subtitle: "Відновлення рівноваги"
+			description: [
+				"Описання завдання 2 в розділі 3 глави"
+				""
+				"Друга деталь опису завдання 2"
+				""
+				"Четверта інформація про завдання 2"
+			]
+			dependencies: ["1F79F4D01B219D7E"]
+			id: "751CC4EF84A919C7"
+			tasks: [{
+				id: "19A59A4A0A2A5541"
+				type: "item"
+				item: "tconstruct:seared_brick"
+				count: 32L
+			}]
+			rewards: [
+				{
+					id: "7000E291741C9F53"
+					type: "item"
+					item: "tconstruct:puny_smelting"
+				}
+				{
+					id: "3669235DA0D6813F"
+					type: "item"
+					item: "minecraft:bricks"
+					count: 32
+				}
+			]
+		}
+		{
+			x: 0.5d
+			y: -0.5d
+			shape: "rsquare"
+			subtitle: "Секретна кімната в глибині"
+			description: [
+				"Описання завдання 3 в розділі 3 глави"
+				""
+				"Друга деталь опису завдання 3"
+				""
+				"Четверта інформація про завдання 3"
+				""
+				"Шосте речення в описі завдання 3"
+				""
+				"Восьма інформація про завдання 3"
+				""
+				"Десята деталь в описі завдання 3"
+			]
+			dependencies: [
+				"62DAEDF65FB2226B"
+				"0A34148EBAF329B3"
+			]
+			id: "70799237323247B7"
+			tasks: [
+				{
+					id: "10C300B57E40F356"
+					type: "item"
+					item: "create:fluid_pipe"
+					count: 8L
+				}
+				{
+					id: "03ED82015AE3D467"
+					type: "item"
+					item: "create:mechanical_pump"
+				}
+			]
+			rewards: [{
+				id: "1BC7927E26233E37"
+				type: "item"
+				item: "minecraft:copper_ingot"
+				count: 16
+			}]
+		}
+		{
+			title: "Магічний артефакт"
+			icon: "minecraft:lava_bucket"
+			x: -4.5d
+			y: 3.0d
+			shape: "pentagon"
+			subtitle: "Знайдіть чотири стародавні камені та активуйте їх."
+			description: [
+				"Описання завдання 4 в розділі 3 глави"
+				""
+				"Друга деталь опису завдання 4"
+				""
+				"Четверта інформація про завдання 4"
+				""
+				"&eВи повинні знайти та активувати стародавній артефакт, прихований у глибоких печерах."
+				""
+				"&6Зберіть 10 рідкісних мінералів з різних куточків світу."
+				""
+				"&eСтворіть потужний еліксир, використовуючи інгредієнти, знайдені під час пошуків."
+				""
+				"&6Подорожуйте до віддаленого острова та встановіть зв'язок з місцевим племенем."
+				""
+				"&eЗахопіть та доставте цінний артефакт до безпечного місця, уникаючи ворожих істот."
+				""
+				"&6Розгадайте таємницю стародавнього коду, щоб відкрити прихований скарб."
+				""
+				"&eСтворіть та налаштуйте складну систему захисту для захисту вашої бази."
+			]
+			hide_dependency_lines: true
+			dependencies: ["7354F2BFB2591ECF"]
+			hide: true
+			size: 3.0d
+			min_width: 300
+			id: "1F79F4D01B219D7E"
+			tasks: [{
+				id: "3209A6ED527120C7"
+				type: "checkmark"
+				title: "Подорож до піраміди"
+			}]
+			rewards: [{
+				id: "2347ADEAFB518BEC"
+				type: "xp"
+				xp: 150
+			}]
+		}
+		{
+			x: 5.0d
+			y: -2.0d
+			subtitle: "Захист від зомбі"
+			description: [
+				"&6Знайдіть та дослідіть три таємничі руїни, приховані в лісі."
+				""
+				"&eЗберіть 5 унікальних рослинних зразків для створення еліксиру невидимості."
+			]
+			dependencies: ["557684C7D7B955B8"]
+			id: "17041A495A41EEFD"
+			tasks: [{
+				id: "2D468975DA98C2B7"
+				type: "item"
+				item: "create:spout"
+			}]
+		}
+		{
+			title: "Збройний майстер"
+			x: 4.0d
+			y: 0.5d
+			subtitle: "Створіть потужну зброю для майбутніх битв."
+			description: [
+				"&6Створіть механізм, який автоматично збирає ресурси з навколишнього середовища."
+				""
+				"&eПодолайте серію пасток та лабіринтів, щоб знайти прихований скарб."
+				""
+				"&6Встановіть зв'язок з підземними істотами та отримайте їхню допомогу."
+			]
+			dependencies: ["557684C7D7B955B8"]
+			id: "2D86CC26B4A2E07A"
+			tasks: [
+				{
+					id: "00BB2093C329A339"
+					type: "item"
+					item: "create:item_drain"
+				}
+				{
+					id: "5B9EBCD9FBA69E37"
+					type: "item"
+					item: "create:hose_pulley"
+				}
+				{
+					id: "3690497AC6692040"
+					type: "item"
+					item: "create:portable_fluid_interface"
+				}
+			]
+		}
+		{
+			x: -4.5d
+			y: -1.0d
+			subtitle: "Скарби піратів"
+			description: [
+				"&eСтворіть портал до іншого виміру та досліджуйте його таємниці."
+				""
+				"&6Зберіть 8 різних типів магічних кристалів для створення потужного артефакту."
+				""
+				"&eРозгадайте загадку стародавнього пророцтва, щоб відкрити портал до наступного світу."
+				""
+				"&6Захопіть та доставте магічний артефакт до його законного власника."
+			]
+			dependencies: ["0A34148EBAF329B3"]
+			id: "6D5301A68808F8E8"
+			tasks: [{
+				id: "590F0D26EB4E4101"
+				type: "item"
+				item: "tconstruct:seared_faucet"
+			}]
+		}
+		{
+			title: "Піратська карта"
+			x: -5.5d
+			y: -2.0d
+			shape: "rsquare"
+			description: [
+				"&eСтворіть систему захисту, яка використовує природні елементи для відбиття атак."
+				""
+				"&6Знайдіть та дослідіть чотири стародавні гробниці, приховані в горах."
+				""
+				"&eРозгадайте таємницю стародавнього ритуалу для відродження забутого бога."
+				""
+				"&6Створіть та налаштуйте механізм, який автоматично вирощує їжу для вашої бази."
+			]
+			dependencies: ["6D5301A68808F8E8"]
+			id: "1519A1EA2CFA6FB1"
+			tasks: [
+				{
+					id: "782BA71DB02EEEEC"
+					type: "item"
+					item: "tconstruct:seared_basin"
+				}
+				{
+					id: "08C5A5228375128B"
+					type: "item"
+					item: "tconstruct:seared_table"
+				}
+			]
+			rewards: [{
+				id: "5FCAC2FEAE3BBD14"
+				type: "item"
+				item: "tconstruct:ingot_sand_cast"
+				count: 3
+			}]
+		}
+		{
+			title: "Знайти скарб на безлюдному острові"
+			x: 5.0d
+			y: -4.5d
+			subtitle: "Досліджуйте острів та розгадайте таємниці піратів."
+			description: [
+				"&eЗнайдіть та дослідіть підземний лабіринт, прихований під містом."
+				""
+				"&6Створіть карту, яка відстежує рух ворожих істот у вашому регіоні."
+				""
+				"&eРозгадайте таємницю стародавнього артефакту, щоб отримати доступ до прихованих знань."
+			]
+			dependencies: ["267CD8D04921402E"]
+			id: "33B14FCDB52879E4"
+			tasks: [{
+				id: "720A3210935826F3"
+				type: "item"
+				item: {
+					id: "explorerscompass:explorerscompass"
+					Count: 1b
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "31FB455D6634DC34"
+				type: "item"
+				item: "minecraft:map"
+			}]
+		}
+		{
+			title: "Зустріч з ельфами"
+			x: 11.0d
+			y: -2.0d
+			shape: "hexagon"
+			subtitle: "Допоможіть ельфам у їхній місії та отримайте нагороду."
+			description: ["Опис завдання 10 в розділі 3"]
+			dependencies: [
+				"4D7BFA8973D61425"
+				"343B8B2BF76B1D3B"
+			]
+			dependency_requirement: "one_completed"
+			size: 1.25d
+			id: "624026189BBACBB0"
+			tasks: [
+				{
+					id: "74883FDF073BAA11"
+					type: "item"
+					item: {
+						id: "ad_astra:space_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "002C4845E15DA8FC"
+					type: "item"
+					item: {
+						id: "ad_astra:space_suit"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "6EA32D5F59598E8F"
+					type: "item"
+					item: {
+						id: "ad_astra:space_pants"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "7DD27DF3C6C33A85"
+					type: "item"
+					item: {
+						id: "ad_astra:space_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "2158B503350C965A"
+				type: "item"
+				item: {
+					id: "minecraft:potion"
+					Count: 1b
+					tag: {
+						Potion: "minecraft:night_vision"
+					}
+				}
+				count: 3
+			}]
+		}
+		{
+			title: "Темний ліс"
+			x: 11.0d
+			y: -5.0d
+			shape: "hexagon"
+			subtitle: "Пройдіть через небезпечний ліс та знайдіть прихований храм."
+			description: [
+				"Перший опис завдання 11 в розділі 3"
+				""
+				"Другий опис завдання 11 в розділі 3"
+				""
+				"Третій опис завдання 11 в розділі 3"
+				""
+				"Четвертий опис завдання 11 в розділі 3"
+				""
+				"П'ятий опис завдання 11 в розділі 3"
+				""
+				"Шостий опис завдання 11 в розділі 3"
+				"Сьомий опис завдання 11 в розділі 3"
+				"Восьмий опис завдання 11 в розділі 3"
+			]
+			dependencies: [
+				"00F3EA4A8FB5B11B"
+				"08BC73F24043BB91"
+			]
+			size: 1.25d
+			id: "0A71AC65808AFBE5"
+			tasks: [{
+				id: "2DBDDF4C51DE3879"
+				type: "item"
+				item: "createastral:shimmering_stone"
+				count: 10L
+			}]
+			rewards: [{
+				id: "64CA01C1E20C102F"
+				type: "item"
+				item: "createastral:shimmering_stone"
+				count: 4
+			}]
+		}
+		{
+			title: "Храм забутих таємниць"
+			x: 10.5d
+			y: -3.5d
+			shape: "hexagon"
+			subtitle: "Розгадайте загадки та відкрийте стародавні знання."
+			dependencies: ["00F3EA4A8FB5B11B"]
+			size: 1.25d
+			id: "33F13EB2C45C36B3"
+			tasks: [{
+				id: "0C1658CB1EAE88C0"
+				type: "item"
+				item: {
+					id: "createastral:astral_conduit"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "763A441926286C68"
+				type: "item"
+				item: "minecraft:enchanted_golden_apple"
+			}]
+		}
+		{
+			x: 9.5d
+			y: -1.0d
+			subtitle: "Битва з босом: Король зомбі"
+			description: [
+				"Опис завдання 13 в розділі 3"
+				""
+				"{ftbquests.chapter.chapter_3.quests13.description2}"
+			]
+			dependencies: ["343B8B2BF76B1D3B"]
+			optional: true
+			id: "4D7BFA8973D61425"
+			tasks: [{
+				id: "773F68FCB1D6F848"
+				type: "item"
+				item: "ad_astra:oxygen_loader"
+			}]
+		}
+		{
+			x: 8.0d
+			y: -2.0d
+			subtitle: "Знайдіть слабке місце та переможіть могутнього ворога."
+			description: [
+				"Перший опис завдання 14 в розділі 3"
+				""
+				"Другий опис завдання 14 в розділі 3"
+				"Третій опис завдання 14 в розділі 3"
+				""
+				"Четвертий опис завдання 14 в розділі 3"
+				""
+				"П'ятий опис завдання 14 в розділі 3"
+			]
+			dependencies: ["267CD8D04921402E"]
+			id: "343B8B2BF76B1D3B"
+			tasks: [
+				{
+					id: "16EB4FE518665789"
+					type: "item"
+					item: {
+						id: "custommachinery:custom_machine_item"
+						Count: 1b
+						tag: {
+							machine: "createastral:electrolyser"
+						}
+					}
+				}
+				{
+					id: "7E98FDE54891D542"
+					type: "item"
+					item: "createastral:copper_heating_coil"
+					count: 8L
+				}
+				{
+					id: "166ADE0858E12086"
+					type: "item"
+					item: "create:copper_casing"
+					count: 17L
+				}
+			]
+		}
+		{
+			x: 3.5d
+			y: -2.5d
+			shape: "gear"
+			subtitle: "Скарби стародавніх цивілізацій"
+			description: [
+				"Перший опис завдання 15 в розділі 3"
+				""
+				"{ftbquests.chapter.chapter_3.quests15.description2}"
+				""
+				"{ftbquests.chapter.chapter_3.quests15.description4}"
+			]
+			dependencies: [
+				"0F4C452C9C9AB1B8"
+				"17041A495A41EEFD"
+			]
+			id: "32B9EAE28E1C5D7A"
+			tasks: [{
+				id: "059E87732C2699DC"
+				type: "item"
+				item: "create:electron_tube"
+			}]
+			rewards: [{
+				id: "1A4E57DF864AD13C"
+				type: "item"
+				item: "minecraft:redstone"
+				count: 24
+			}]
+		}
+		{
+			x: 5.0d
+			y: -3.5d
+			subtitle: "Розкрийте таємниці минулого та знайдіть приховані скарби."
+			description: [
+				"Опис завдання 16 в розділі 3"
+				""
+				"Другий опис завдання 16 в розділі 3"
+				""
+				"{ftbquests.chapter.chapter_3.quests16.description4}"
+			]
+			dependencies: ["32B9EAE28E1C5D7A"]
+			id: "267CD8D04921402E"
+			tasks: [{
+				id: "799B7B25F4911437"
+				type: "item"
+				item: "phonos:redstone_chip"
+			}]
+			rewards: [{
+				id: "6CD1183CC7833669"
+				type: "item"
+				item: {
+					id: "create:schematic"
+					Count: 1b
+					tag: {
+						Anchor: {
+							Z: 0
+							X: 0
+							Y: 0
+						}
+						Owner: "Laskyyy"
+						Deployed: 0b
+						Rotation: "NONE"
+						File: "[AstralExamples] Electrolyzer.nbt"
+						Mirror: "NONE"
+						Bounds: [
+							7
+							6
+							7
+						]
+					}
+				}
+			}]
+		}
+		{
+			title: "Загадка стародавнього храму"
+			x: 2.0d
+			y: -2.0d
+			shape: "rsquare"
+			subtitle: "Знайдіть прихований храм і розгадайте його таємниці."
+			description: [
+				"Опис завдання 17 в розділі 3"
+				""
+				"&eВи повинні знайти та активувати стародавній артефакт, прихований у руїнах."
+				""
+				"&6Знайдіть три ключі, заховані в різних місцях, щоб відкрити таємну кімнату."
+				""
+				"Використовуйте &eмагічний кристал&6, щоб активувати портал до наступного світу."
+				"&cЗберіть інгредієнти для зілля, яке надасть вам тимчасову невразливість."
+				""
+				"Подолайте хижаків, що охороняють вхід до стародавнього храму."
+				""
+				"&aЗнайдіть прихований скарб у глибині підземелля, обережно уникнувши пасток."
+				"Виконайте ритуал, щоб викликати духів предків і отримати їхнє благословення."
+			]
+			dependencies: ["70799237323247B7"]
+			id: "0F4C452C9C9AB1B8"
+			tasks: [{
+				id: "1BC2FEBA428BF095"
+				type: "item"
+				item: "tconstruct:molten_rose_gold_bucket"
+			}]
+			rewards: [
+				{
+					id: "44A1974D27454D3A"
+					type: "item"
+					item: "minecraft:rose_bush"
+					count: 8
+				}
+				{
+					id: "4B1BB47C65D49F9B"
+					type: "item"
+					item: "minecraft:golden_apple"
+				}
+			]
+		}
+		{
+			title: "Зберіть артефакти"
+			icon: "ad_astra:moon_globe"
+			x: 13.0d
+			y: -3.5d
+			shape: "gear"
+			subtitle: "Відшукайте та зберіть стародавні артефакти, щоб розкрити таємницю."
+			description: ["&eДослідіть загадкову книгу та розшифруйте її таємниці, щоб знайти приховану карту."]
+			dependencies: [
+				"33F13EB2C45C36B3"
+				"624026189BBACBB0"
+				"0A71AC65808AFBE5"
+			]
+			size: 3.0d
+			id: "15B9947ABCCB882F"
+			tasks: [{
+				id: "26E0A4319968F290"
+				type: "dimension"
+				title: "Дослідження руїн"
+				dimension: "ad_astra:moon"
+			}]
+			rewards: [
+				{
+					id: "22851C938DEDAC0C"
+					type: "item"
+					item: "create:copper_casing"
+					count: 16
+				}
+				{
+					id: "5D27118D63A5CD0A"
+					type: "item"
+					item: "create:mechanical_pump"
+					count: 4
+				}
+				{
+					id: "3966251160BAE42E"
+					type: "item"
+					item: "create:smart_fluid_pipe"
+					count: 8
+				}
+				{
+					id: "03904FD8E92DC544"
+					type: "item"
+					item: "create:fluid_tank"
+					count: 4
+				}
+				{
+					id: "00C16FE426CF56A9"
+					type: "item"
+					item: "techreborn:rubber"
+					count: 8
+				}
+			]
+		}
+		{
+			title: "Відновлення магічного кристала"
+			x: 7.0d
+			y: -3.5d
+			subtitle: "Знайдіть фрагменти кристала та зібрати їх, щоб відновити його силу."
+			description: [
+				"Знайдіть та зберіть п'ять різних типів мінералів для створення потужного вибухового пристрою."
+				""
+				"&6Перетворіть зібрані мінерали на етеричні кришталі, щоб відкрити шлях до наступного етапу."
+			]
+			min_required_dependencies: 1
+			dependencies: ["267CD8D04921402E"]
+			dependency_requirement: "one_completed"
+			id: "00F3EA4A8FB5B11B"
+			tasks: [{
+				id: "1BE3D8C8806EA239"
+				type: "item"
+				item: "kubejs:shimmer_bucket"
+			}]
+			rewards: [{
+				id: "31F9BBCBD48F1BFA"
+				type: "item"
+				item: {
+					id: "minecraft:potion"
+					Count: 1b
+					tag: {
+						Potion: "minecraft:healing"
+					}
+				}
+				count: 3
+			}]
+		}
+		{
+			x: 5.0d
+			y: -0.5d
+			subtitle: "Магічна сила на межі зникнення!"
+			description: [
+				"Знайдіть та знищте зловісні істоти, що ховаються в тіні лісу."
+				""
+				"Використовуйте &eмагічний лук&6 для полювання на рідкісних тварин і отримання цінних матеріалів."
+				""
+				"&cЗберіть інгредієнти для зілля, що забезпечує тимчасову невидимість, та використовуйте його обережно."
+				""
+				"Відкрийте таємну печеру та знайдіть прихований скарб, захищений магічними бар'єрами."
+			]
+			dependencies: [
+				"70799237323247B7"
+				"41926BDF2F7890F6"
+			]
+			id: "557684C7D7B955B8"
+			tasks: [{
+				id: "6CC8E342EABC3432"
+				type: "item"
+				item: "create:copper_casing"
+			}]
+		}
+		{
+			title: "Подорож до вершини"
+			x: -1.0d
+			y: -2.0d
+			shape: "rsquare"
+			description: ["&eЗнайдіть та активуйте стародавні рунні камені, щоб відкрити портал до іншого виміру."]
+			dependencies: ["70799237323247B7"]
+			id: "5A1B85C3323DDBD1"
+			tasks: [{
+				id: "57BB6CFDC8C9F731"
+				type: "item"
+				item: "kubejs:compound_mixture_bucket"
+			}]
+			rewards: [{
+				id: "0C0EDF94D00BFA3B"
+				type: "item"
+				item: "create:andesite_alloy"
+				count: 16
+			}]
+		}
+		{
+			title: "Зберіть інгредієнти для еліксиру"
+			x: -4.0d
+			y: -3.5d
+			subtitle: "Відшукайте рідкісні рослини та створіть потужний еліксир."
+			description: [
+				"Дослідіть старовинну карту та визначте місцезнаходження загубленого міста."
+				""
+				"&6Подолайте небезпечні перешкоди на шляху до міста та знайдіть його таємниці."
+			]
+			dependencies: ["1519A1EA2CFA6FB1"]
+			id: "5042E544D3181FAC"
+			tasks: [{
+				id: "622223D1E4140C47"
+				type: "item"
+				item: {
+					id: "tconstruct:tinkers_anvil"
+					Count: 1b
+					tag: {
+						texture: "createastral:bronze_block"
+					}
+				}
+			}]
+		}
+		{
+			title: "Битва з тінню"
+			x: -5.5d
+			y: -4.375d
+			subtitle: "Станьте сильнішими, щоб перемогти темного ворога."
+			dependencies: [
+				"5042E544D3181FAC"
+				"7856BCA1DB363174"
+			]
+			size: 1.25d
+			min_required_tasks: 1
+			id: "68FDC2C761EF6BC0"
+			tasks: [
+				{
+					id: "1C272BE87714B7EB"
+					type: "item"
+					item: {
+						id: "tconstruct:hammer_head"
+						Count: 1b
+						tag: {
+							Material: "tconstruct:bronze"
+						}
+					}
+					match_nbt: true
+				}
+				{
+					id: "5BBF1C4CAF0AEEF0"
+					type: "item"
+					item: {
+						id: "tconstruct:broad_axe_head"
+						Count: 1b
+						tag: {
+							Material: "tconstruct:bronze"
+						}
+					}
+					match_nbt: true
+				}
+				{
+					id: "50862D4CC58352D9"
+					type: "item"
+					item: {
+						id: "tconstruct:broad_blade"
+						Count: 1b
+						tag: {
+							Material: "tconstruct:bronze"
+						}
+					}
+					match_nbt: true
+				}
+			]
+			rewards: [{
+				id: "7EF43D1201B1F35A"
+				type: "item"
+				item: "minecraft:redstone_block"
+				count: 5
+			}]
+		}
+		{
+			title: "Захист стародавнього знання"
+			icon: "minecraft:blue_dye"
+			x: -4.0d
+			y: -4.5d
+			subtitle: "Захистіть стародавні сувої від злодіїв."
+			description: [
+				"Знайдіть та зберіть чотири стародавні скарби, заховані в різних куточках світу."
+				""
+				"&eВикористовуйте зібрані артефакти для створення потужного чарівного інструменту."
+				""
+				"Знайдіть та перемагайте легендарних істот, щоб отримати їхню силу та мудрість."
+			]
+			dependencies: ["5042E544D3181FAC"]
+			optional: true
+			id: "1717E5063CC231DD"
+			tasks: [
+				{
+					id: "0BF6EB8118C0A5AD"
+					type: "item"
+					item: "minecraft:lapis_block"
+					count: 4L
+				}
+				{
+					id: "45ACDF07F7369A1E"
+					type: "item"
+					item: "minecraft:blue_dye"
+				}
+			]
+		}
+		{
+			title: "Скарби забутого міста"
+			icon: "minecraft:diamond"
+			x: -4.0d
+			y: -5.5d
+			subtitle: "Досліджуйте місто та знайдіть приховані скарби."
+			dependencies: ["1717E5063CC231DD"]
+			optional: true
+			id: "1C10D7A2828DE436"
+			tasks: [
+				{
+					id: "16168BDE7ED0509A"
+					type: "item"
+					item: "minecraft:lapis_block"
+					count: 4L
+				}
+				{
+					id: "2508A6165CEAA162"
+					type: "item"
+					item: "minecraft:diamond"
+				}
+			]
+		}
+		{
+			title: "Відновлення балансу"
+			icon: "minecraft:deepslate_diamond_ore"
+			x: -4.0d
+			y: -6.5d
+			subtitle: "Знайдіть джерело хаосу та відновіть гармонію в світі."
+			dependencies: ["1C10D7A2828DE436"]
+			optional: true
+			id: "25085C910155E06D"
+			tasks: [
+				{
+					id: "5C84001C06B8BE8F"
+					type: "item"
+					item: "minecraft:lapis_block"
+					count: 4L
+				}
+				{
+					id: "0D2ACD60E744E17F"
+					type: "item"
+					icon: "minecraft:diamond_block"
+					item: "minecraft:diamond_block"
+				}
+			]
+		}
+		{
+			title: "Сила стародавніх богів"
+			x: 7.5d
+			y: -5.0d
+			subtitle: "Викличте духів богів, щоб отримати їхню допомогу."
+			description: [
+				"&eДослідіть загадковий острів та розкрийте його таємниці, щоб знайти прихований скарб."
+				""
+				"Використовуйте свої навички виживання, щоб подолати небезпечні умови острова."
+			]
+			hide_dependency_lines: true
+			dependencies: ["557684C7D7B955B8"]
+			id: "586FA45ED205784F"
+			tasks: [{
+				id: "74C312D1BA7AE516"
+				type: "structure"
+				icon: {
+					id: "ftbquests:custom_icon"
+					Count: 1b
+					tag: {
+						Icon: "createdeco:textures/block/palettes/decal/pink_decal.png"
+					}
+				}
+				structure: "astralrails:shimmer_lake"
+			}]
+		}
+		{
+			x: 2.5d
+			y: -4.0d
+			subtitle: "Таємниця розкрита, але небезпека все ще загрожує..."
+			description: ["&6Знайдіть та активуйте чотири стародавні руни, щоб відкрити шлях до фінального випробування."]
+			dependencies: ["0F4C452C9C9AB1B8"]
+			id: "069634A427DE403F"
+			tasks: [{
+				id: "363C22605DD3C4ED"
+				type: "item"
+				item: "reinfchest:gold_chest"
+			}]
+		}
+		{
+			title: "Останній опір"
+			x: 0.5d
+			y: -2.0d
+			shape: "rsquare"
+			description: ["Ви повинні знайти та активувати стародавній артефакт, прихований у глибині руїн."]
+			dependencies: ["70799237323247B7"]
+			id: "0E939F8167F47710"
+			tasks: [{
+				id: "48920459D1BBDA83"
+				type: "item"
+				item: "tconstruct:molten_bronze_bucket"
+			}]
+			rewards: [{
+				id: "591B68F92188CBBC"
+				type: "item"
+				item: "create:cogwheel"
+				count: 16
+			}]
+		}
+		{
+			icon: "tconstruct:gear_cast"
+			x: 0.5d
+			y: -3.0d
+			subtitle: "Зберіть союзників та зупиніть темну силу."
+			description: [
+				"Знайдіть три магічні камені та помістіть їх у правильному порядку на вівтарі."
+				"Використовуйте свій розум, щоб розгадати загадку, яка відкриє таємний прохід."
+				""
+				"Зберіть інгредієнти для еліксиру та приготуйте його, дотримуючись точних інструкцій."
+			]
+			dependencies: ["0E939F8167F47710"]
+			id: "15069E711021763F"
+			tasks: [
+				{
+					id: "243CAF3164E51094"
+					type: "item"
+					item: "tconstruct:gear_cast"
+				}
+				{
+					id: "62FF8DAC8FB23C0A"
+					type: "item"
+					item: "tconstruct:coin_cast"
+				}
+			]
+		}
+		{
+			title: "Епічна битва за майбутнє"
+			icon: "techreborn:sap"
+			x: -2.0d
+			y: 3.0d
+			subtitle: "Бійтеся за світ у вирішальній битві."
+			description: [
+				"Подолайте серію пасток у підземеллі, використовуючи свою спритність і логіку."
+				""
+				"Знайдіть прихований ключ, досліджуючи кожний куточок стародавнього храму."
+				""
+				"Візьміть участь у дуелі з досвідченим воїном, щоб довести свою майстерність."
+				""
+				"Відкрийте таємний сховище, використовуючи кодовий замок, який ви знайшли раніше."
+			]
+			dependencies: ["1F79F4D01B219D7E"]
+			id: "1FAC54D118F09831"
+			tasks: [
+				{
+					id: "4C432F24E70A5F96"
+					type: "item"
+					item: {
+						id: "techreborn:treetap"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "1EA6B47A0A9AABFF"
+					type: "item"
+					item: "techreborn:sap"
+					count: 4L
+				}
+			]
+		}
+		{
+			title: "Завдання 32: Відкриття таємниці стародавнього храму"
+			x: 0.5d
+			y: 3.0d
+			shape: "rsquare"
+			subtitle: "Знайдіть прихований храм і розкрийте його секрети."
+			description: [
+				"Знайдіть і зібрати всі частини стародавнього механізму."
+				""
+				"Засуньте механізми в правильному порядку, щоб активувати приховану функцію."
+			]
+			dependencies: ["1FAC54D118F09831"]
+			size: 1.5d
+			id: "62DAEDF65FB2226B"
+			tasks: [{
+				id: "744B5A4CE8D4DBD4"
+				type: "item"
+				item: "techreborn:rubber"
+				count: 4L
+			}]
+			rewards: [
+				{
+					id: "4ABE03E4C2915C68"
+					type: "item"
+					item: "techreborn:rubber_sapling"
+					count: 3
+				}
+				{
+					id: "16303BAD67F66A52"
+					type: "item"
+					item: "minecraft:bone_meal"
+					count: 8
+				}
+				{
+					id: "170B70DA7CA1B561"
+					type: "item"
+					item: "minecraft:dried_kelp"
+					count: 6
+				}
+			]
+		}
+		{
+			x: 1.0d
+			y: 4.5d
+			subtitle: "Отримайте ключ до таємничої кімнати."
+			description: [
+				"Візьміть участь у змаганні з риболовлі та приручіть найпотужнішу рибу."
+				""
+				"Знайдіть і зберіть рідкісні квіти, щоб створити унікальний букет."
+				""
+				"Використовуйте свої навички кування, щоб створити потужну зброю для майбутніх пригод."
+				""
+				"Розгадайте карту та знайдіть прихований скарб на незвіданому острові."
+			]
+			dependencies: ["62DAEDF65FB2226B"]
+			id: "710C81D7DE6C7FCB"
+			tasks: [{
+				id: "69CD74B242D4D7D4"
+				type: "item"
+				item: "create:belt_connector"
+			}]
+			rewards: [{
+				id: "111A04CC66B24879"
+				type: "item"
+				item: "create:belt_connector"
+				count: 3
+			}]
+		}
+		{
+			title: "Магічна книга: Розшифруйте стародавні тексти"
+			x: -1.0d
+			y: 4.5d
+			subtitle: "Дослідіть старовинні сувої та розгадайте таємниці магічної книги."
+			description: [
+				"Знайдіть і знищте всіх ворожих монстрів, що ховаються в темряві."
+				""
+				"Використовуйте свої знання про магію, щоб створити захисний заклинання для свого будинку."
+			]
+			dependencies: ["62DAEDF65FB2226B"]
+			id: "13B2095F8EE6B4D3"
+			tasks: [{
+				id: "716518D91561DEFD"
+				type: "item"
+				item: "reinfchest:iron_chest"
+				count: 2L
+			}]
+		}
+		{
+			title: "Зберіть інгредієнти для еліксиру"
+			x: 5.0d
+			y: 3.0d
+			subtitle: "Пошукайте рідкісні трави та мінерали, щоб створити потужний еліксир."
+			description: [
+				"Знайдіть і зберіть всі частини стародавнього свитка, щоб розкрити його таємниці."
+				""
+				"Розгадайте загадку, щоб відкрити портал до іншого виміру."
+				""
+				"Візьміть участь у битві з босом, який охороняє стародавній артефакт."
+				""
+				"Знайдіть і активуйте магічні кристали, щоб відновити рівновагу в світі."
+			]
+			dependencies: ["62DAEDF65FB2226B"]
+			id: "41926BDF2F7890F6"
+			tasks: [
+				{
+					id: "116A1C6B3FAAAE36"
+					type: "item"
+					item: "create:brass_hand"
+				}
+				{
+					id: "605FB50C0F3B8331"
+					type: "item"
+					item: "create:deployer"
+				}
+				{
+					id: "60B18C380C155DC8"
+					type: "item"
+					item: "create:polished_rose_quartz"
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 4.5d
+			subtitle: "Знайдіть прихований скарб у занедбаному замку."
+			description: [
+				"Створіть потужний еліксир, який надасть вам надзвичайні здібності."
+				""
+				"Використовуйте свої навички кулінарії, щоб приготувати вишукану страву для королівської родини."
+				""
+				"{ftbquests.chapter.chapter_3.quests36.description4}"
+			]
+			dependencies: ["62DAEDF65FB2226B"]
+			id: "18159A0691993E5B"
+			tasks: [{
+				id: "781EE507F4A75175"
+				type: "item"
+				item: "create:andesite_funnel"
+			}]
+			rewards: [
+				{
+					id: "6DAF91C21A5DA98B"
+					type: "item"
+					item: "create:andesite_funnel"
+					count: 2
+				}
+				{
+					id: "0C291F267BE7E3C7"
+					type: "item"
+					item: "create:depot"
+					count: 2
+				}
+			]
+		}
+		{
+			title: "Битва з босами: Захист фортеці"
+			x: -2.0d
+			y: 4.5d
+			shape: "gear"
+			subtitle: "Станьте на захист фортеці від нападу могутніх босів."
+			description: [
+				"Ти повинен знайти та активувати стародавній артефакт, прихований у глибоких печерах."
+				"Для цього тобі знадобиться подолати небезпечних монстрів і розгадати таємничі загадки."
+				"Знайди три ключі, які відкривають шлях до артефакту, досліджуючи стародавні руїни."
+				"Кожен ключ захований у різних місцях і охороняється потужними ворогами."
+				"Використовуй свої навички та стратегію, щоб перемогти їх і зібрати всі ключі."
+				"Коли ти матимеш усі ключі, слідуй вказівкам, щоб активувати артефакт."
+				""
+				"Успішне завершення цього завдання принесе тобі цінну нагороду та наблизить тебе до перемоги."
+			]
+			dependencies: ["62DAEDF65FB2226B"]
+			id: "22F037A9108D116A"
+			tasks: [{
+				id: "52B4D82C0E3E59E2"
+				type: "item"
+				item: "create:goggles"
+			}]
+			rewards: [{
+				id: "65E2D30DE201400C"
+				type: "item"
+				item: "create:stressometer"
+				count: 3
+			}]
+		}
+		{
+			title: "Пошук артефактів: Подорож до підземелля"
+			icon: "create:mechanical_bearing"
+			x: 4.0d
+			y: 7.0d
+			subtitle: "Дослідіть темні тунелі та знайдіть стародавні артефакти."
+			description: [
+				"Ти повинен створити потужний еліксир, використовуючи рідкісні інгредієнти, знайдені в джунглях."
+				""
+				"Досліджуй небезпечні тропічні ліси та борись з екзотичними монстрами, щоб знайти необхідні компоненти."
+				""
+				"Змішай інгредієнти в правильному порядку, дотримуючись стародавнього рецепту."
+				""
+				"Твій еліксир повинен мати неймовірну силу, здатну перемогти найсильніших ворогів."
+			]
+			dependencies: [
+				"38814494AB07C2D8"
+				"0C3A39AC4C3D10A2"
+			]
+			id: "6C28C7FB221EA517"
+			tasks: [
+				{
+					id: "52F6062C88CED3FD"
+					type: "item"
+					item: "create:mechanical_bearing"
+				}
+				{
+					id: "2F151B54216622AA"
+					type: "item"
+					item: "create:linear_chassis"
+					count: 9L
+				}
+			]
+		}
+		{
+			title: "Ремонт корабля: Повернення додому"
+			x: 5.0d
+			y: 6.5d
+			subtitle: "Відремонтуйте пошкоджений корабель, щоб повернутися на батьківщину."
+			description: [
+				"Знайди та знищив таємничу мережу порталів, які загрожують стабільності світу."
+				""
+				"Ці портали, приховані в різних місцях, можуть переносити тебе в небезпечні виміри."
+				""
+				"Ти повинен відстежити їх розташування та знищити, щоб запобігти катастрофі."
+			]
+			dependencies: ["6C28C7FB221EA517"]
+			id: "1A683B56285B7DFC"
+			tasks: [
+				{
+					id: "7F67736E31940425"
+					type: "item"
+					item: "create:mechanical_harvester"
+					count: 3L
+				}
+				{
+					id: "3491CF51E22F4893"
+					type: "item"
+					item: "minecraft:kelp"
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 6.5d
+			shape: "diamond"
+			subtitle: "Знайдіть ключ до порталу в глибоких печерах."
+			description: [
+				"Приєднуйся до епічної битви проти могутнього дракона, який тероризує місцеве населення."
+				"Підготуйся до жорстокого бою, зібравши потужну зброю та броню."
+				""
+				"Перемога над драконом принесе мир у ці землі та забезпечить тобі славу героя."
+			]
+			dependencies: ["1A683B56285B7DFC"]
+			id: "600FB959B71E4B18"
+			tasks: [{
+				id: "72CCE7A23842964A"
+				type: "item"
+				item: "minecraft:dried_kelp"
+				count: 64L
+			}]
+			rewards: [{
+				id: "60F5D6526E49A3AE"
+				type: "xp"
+				xp: 50
+			}]
+		}
+		{
+			title: "Подорож до іншого світу: Відкриття порталу"
+			icon: "create:mechanical_saw"
+			x: 5.0d
+			y: 7.5d
+			subtitle: "Зберіть компоненти для відкриття міжвимірного порталу."
+			description: [
+				"Досліджуй стародавні тексти, щоб розкрити таємниці забутого цивілізації."
+				""
+				"Ці тексти містять цінні знання та пророцтва, які можуть змінити хід гри."
+				""
+				"Розшифруй приховані повідомлення та знайди приховані скарби, щоб отримати перевагу над ворогами."
+				"Твої відкриття можуть відкрити нові шляхи та можливості для подальшого прогресу."
+				"Не зупиняйся, доки не розгадаєш усі таємниці, приховані в цих стародавніх сувоях."
+				"{ftbquests.chapter.chapter_3.quests41.description7}"
+				""
+				"Описання завдання 41 у розділі 3: Знайдіть та активуйте стародавній артефакт, прихований у руїнах."
+			]
+			dependencies: ["6C28C7FB221EA517"]
+			id: "34F33F38F8BF2B22"
+			tasks: [
+				{
+					id: "49E6527651CCE3DC"
+					type: "item"
+					item: "create:mechanical_saw"
+					count: 3L
+				}
+				{
+					id: "62981EAB9C89DAA5"
+					type: "item"
+					item: "create:deployer"
+					count: 3L
+				}
+				{
+					id: "6D29FA1DC53B868D"
+					type: "item"
+					title: "Дослідження магічних кришталів"
+					item: {
+						id: "itemfilters:tag"
+						Count: 1b
+						tag: {
+							value: "minecraft:saplings"
+						}
+					}
+				}
+			]
+		}
+		{
+			title: "Зберіть ресурси для створення порталу"
+			x: 6.0d
+			y: 7.5d
+			shape: "diamond"
+			subtitle: "Пошук рідкісних матеріалів для створення стабільного порталу."
+			description: ["Завдання 42: Зберіть 10 рідкісних мінералів і принесіть їх до дослідника в лабораторії."]
+			dependencies: ["34F33F38F8BF2B22"]
+			id: "726EED16A080CFC4"
+			tasks: [{
+				id: "351C7D49A9C4EFD9"
+				type: "item"
+				title: "Підготовка до подорожі"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "minecraft:logs_that_burn"
+					}
+				}
+				count: 128L
+			}]
+			rewards: [{
+				id: "5DB68D341AF2C9FE"
+				type: "xp"
+				xp: 50
+			}]
+		}
+		{
+			title: "Перешкоди на шляху: Захист порталу"
+			icon: "create:zinc_ingot"
+			x: -1.5d
+			y: 7.0d
+			shape: "diamond"
+			subtitle: "Захистіть портал від ворожих істот, щоб завершити подорож."
+			description: [
+				"Завдання 43, частина 1: Пройдіть через лабіринт з пастками та знайдіть вихід на інший рівень."
+				""
+				"Завдання 43, частина 2: Зберіть всі фрагменти стародавньої карти та розшифруйте її, щоб знайти приховане місце."
+				""
+				"Завдання 43, частина 4: Використовуйте код, отриманий з карти, щоб відкрити секретну кімнату та отримати нагороду."
+			]
+			dependencies: ["38814494AB07C2D8"]
+			id: "60906B723CCE6D10"
+			tasks: [
+				{
+					id: "675B16F2461B1576"
+					type: "item"
+					item: "minecraft:red_sand"
+				}
+				{
+					id: "56B00DC3D1BC24B5"
+					type: "item"
+					title: "Фінальна битва: Зустріч з лідером"
+					item: "create:zinc_nugget"
+					count: 512L
+				}
+				{
+					id: "6BA9DBE5AF20FDBD"
+					type: "item"
+					title: "Отримання нагороди"
+					item: "minecraft:dead_bush"
+					count: 256L
+				}
+			]
+			rewards: [
+				{
+					id: "1E91B41BA3BD511D"
+					type: "xp"
+					xp: 150
+				}
+				{
+					id: "6AA0A2B5F940888D"
+					type: "item"
+					item: "reinfchest:gold_chest"
+					count: 2
+				}
+			]
+		}
+		{
+			title: "Загадка стародавнього храму"
+			icon: "minecraft:iron_ingot"
+			x: -1.0d
+			y: 6.5d
+			shape: "diamond"
+			subtitle: "Знайдіть прихований храм і розгадайте його таємниці."
+			description: [
+				"Завдання 44, частина 1: Знайдіть та знищіть всіх ворожих істот у темному лісі."
+				""
+				"Завдання 44, частина 2: Зберіть інгредієнти для зілля, яке збільшує швидкість руху, і використовуйте його, щоб швидко дістатися до мети."
+				""
+				"Завдання 44, частина 4: Доставте важливий вантаж до бази перед тим, як сонце сіде."
+			]
+			dependencies: ["38814494AB07C2D8"]
+			id: "6E9F3AA80AB398EB"
+			tasks: [
+				{
+					id: "3F5CCBB3ED3D2522"
+					type: "item"
+					item: "minecraft:gravel"
+				}
+				{
+					id: "7DCBBC12F5319CA3"
+					type: "item"
+					title: "Дослідження карти"
+					item: "minecraft:iron_nugget"
+					count: 256L
+				}
+				{
+					id: "4D471D33779993B0"
+					type: "item"
+					title: "Знайдіть вхід до храму"
+					item: "minecraft:flint"
+					count: 256L
+				}
+			]
+			rewards: [
+				{
+					id: "10719D7A6E2844CD"
+					type: "xp"
+					xp: 250
+				}
+				{
+					id: "1ED80F8AF9CB8D91"
+					type: "item"
+					item: "reinfchest:iron_chest"
+					count: 2
+				}
+			]
+		}
+		{
+			title: "Скарби стародавніх цивілізацій"
+			icon: "minecraft:clay_ball"
+			x: -1.0d
+			y: 7.5d
+			shape: "diamond"
+			subtitle: "Відкрийте схованки та зібрати цінні артефакти."
+			description: [
+				"Завдання 45, частина 1: Пройдіть через серію водних перешкод без використання будь-яких засобів плавання."
+				""
+				"Завдання 45, частина 2: Знайдіть та активуйте чотири стародавні статуї, щоб відкрити портал до іншого виміру."
+				""
+				"Завдання 45, частина 4: Перейдіть через портал і досліджуйте новий світ, збираючи унікальні ресурси."
+				""
+				"Завдання 45, частина 6: Поверніться з ресурсами та створіть предмет, який допоможе у майбутніх завданнях."
+			]
+			dependencies: ["38814494AB07C2D8"]
+			id: "3B80A4FBF7D2AB7B"
+			tasks: [
+				{
+					id: "50EC05071089BC85"
+					type: "item"
+					item: "minecraft:sand"
+				}
+				{
+					id: "610B0EA58C74E70E"
+					type: "item"
+					item: "minecraft:dripstone_block"
+				}
+				{
+					id: "0E85B9A7C227F319"
+					type: "item"
+					title: "Розгадайте механізм захисту"
+					item: "minecraft:clay_ball"
+					count: 1024L
+				}
+			]
+			rewards: [
+				{
+					id: "3842F6EA9589983F"
+					type: "xp"
+					xp: 250
+				}
+				{
+					id: "5C5E71C77D96C277"
+					type: "item"
+					title: "Скарбниця знань"
+					item: "minecraft:brick"
+					count: 518
+				}
+				{
+					id: "3DCFB22D892B3251"
+					type: "item"
+					item: "create:item_vault"
+					count: 8
+				}
+				{
+					id: "5F8AF4A3119F37A3"
+					type: "item"
+					title: "Легендарна зброя"
+					item: "minecraft:glass"
+					count: 256
+				}
+			]
+		}
+		{
+			title: "Битва з охоронцями"
+			x: 0.0d
+			y: 4.5d
+			subtitle: "Переможіть могутніх охоронців храму."
+			description: [
+				"Завдання 46, частина 1: Розгадайте загадку, відшифровану з стародавнього манускрипту, щоб знайти прихований скарб."
+				""
+				"Завдання 46, частина 2: Використовуйте карту, отриману з манускрипту, щоб знайти та досліджувати покинуте місто."
+			]
+			dependencies: ["62DAEDF65FB2226B"]
+			id: "42817242953BD9CA"
+			tasks: [{
+				id: "28DBB8ADEE366629"
+				type: "item"
+				item: "create:andesite_tunnel"
+			}]
+			rewards: [{
+				id: "1A6B2424FFD9E72F"
+				type: "item"
+				item: "create:andesite_funnel"
+				count: 2
+			}]
+		}
+		{
+			title: "Таємниця стародавнього письма"
+			icon: "create:mechanical_arm"
+			x: 1.5d
+			y: 7.0d
+			shape: "gear"
+			subtitle: "Розшифруйте давні тексти та розкрийте приховану інформацію."
+			description: [
+				"Завдання 47, частина 1: Зберіть всі частини розбитого магічного кристала та зібрати його разом."
+				""
+				"Завдання 47, частина 2: Використовуйте кристал для активації стародавнього механізму захисту та зупиніть ворожу армію."
+				"Завдання 47, частина 3: Дослідіть підземелля, де ховається головний ворог, і знайдіть його слабке місце."
+				"Завдання 47, частина 4: Переможіть ворога та отримайте нагороду, яка допоможе у фінальній битві."
+				""
+				"Завдання 47, частина 6: Підготуйтеся до вирішальної битви, зібравши всі необхідні ресурси та зброю."
+				""
+				"Завдання 47, частина 8: Переможіть фінального боса та завершіть главу, ставши справжнім героєм Minecraft."
+				""
+				"Завдання 47, частина 10: Відкрийте нові можливості та досліджуйте світ після перемоги над фінальним босом."
+				""
+				"Завдання 47, частина 12: Досліджуйте приховані куточки світу та знайдіть нові виклики для продовження вашої пригоди."
+			]
+			dependencies: [
+				"18159A0691993E5B"
+				"710C81D7DE6C7FCB"
+			]
+			size: 2.0d
+			id: "38814494AB07C2D8"
+			tasks: [{
+				id: "645496942E14E974"
+				type: "checkmark"
+				title: "Дослідження сувоїв"
+			}]
+			rewards: [{
+				id: "61C410A110D3AE8F"
+				type: "item"
+				item: "create:builders_tea"
+				count: 3
+			}]
+		}
+		{
+			icon: "create:track"
+			x: 6.0d
+			y: 4.0d
+			shape: "diamond"
+			subtitle: "Знайдіть ключ до наступного етапу."
+			description: [
+				"{ftbquests.chapter.chapter_3.quests48.description0}"
+				""
+				"Опис завдання 48 з розділу 3: ..."
+				""
+				"Інструкції для виконання завдання 48: ..."
+				""
+				"Нагорода за завершення завдання 48: ..."
+			]
+			dependencies: ["41926BDF2F7890F6"]
+			optional: true
+			id: "1BC8A4F925705AAD"
+			tasks: [{
+				id: "6F02CB1D80713CD7"
+				type: "advancement"
+				advancement: "create:track_crafting_factory"
+				criterion: ""
+			}]
+			rewards: [
+				{
+					id: "4C5AE91F594F0018"
+					type: "item"
+					title: "Ключ до таємниці"
+					item: "create:metal_girder"
+					count: 128
+				}
+				{
+					id: "401A83960EF72587"
+					type: "item"
+					item: "create:railway_casing"
+					count: 64
+				}
+				{
+					id: "662CA2DF7E8E981D"
+					type: "item"
+					item: "create:steam_whistle"
+					count: 16
+				}
+			]
+		}
+		{
+			title: "Сила стародавніх артефактів"
+			icon: "create:mechanical_drill"
+			x: 1.5d
+			y: 10.5d
+			subtitle: "Використовуйте їхню силу для подолання перешкод."
+			description: [
+				"Початок завдання 49: ..."
+				"Крок 1: ..."
+				""
+				"Знайдіть та взаємодійте з об'єктом X:"
+				"Виконайте дію Y для активації завдання:"
+				"Зберіть N предметів:"
+				"Перенесіть предмети до точки O:"
+				""
+				"Взаємодійте з блоком P для завершення:"
+				""
+				"Завдання виконано! Отримайте свою нагороду:"
+				"Новий виклик: ..."
+				""
+				"Виконайте наступні дії:"
+				"Завдання завершено!"
+			]
+			dependencies: ["4642949B43A4F838"]
+			min_width: 300
+			id: "1C084F85AD4E24BE"
+			tasks: [
+				{
+					id: "1571406F47294F05"
+					type: "item"
+					item: "create:mechanical_drill"
+					count: 10L
+				}
+				{
+					id: "5D4430517959C1F2"
+					type: "item"
+					item: "create:mechanical_plough"
+				}
+				{
+					id: "0A6C0CDF02203960"
+					type: "item"
+					item: "minecraft:rail"
+					count: 10L
+				}
+				{
+					id: "63817FFBBE80F012"
+					type: "item"
+					item: "create:deployer"
+					count: 12L
+				}
+				{
+					id: "131149FC94F26B5D"
+					type: "item"
+					item: "minecraft:barrel"
+					count: 6L
+				}
+				{
+					id: "7245BE06ED335906"
+					type: "item"
+					item: "create:cart_assembler"
+				}
+				{
+					id: "088881225D79D449"
+					type: "item"
+					item: "minecraft:furnace_minecart"
+				}
+				{
+					id: "7F63AE8AEA18E596"
+					type: "item"
+					item: "create:linear_chassis"
+					count: 24L
+				}
+			]
+			rewards: [
+				{
+					id: "602415334344E919"
+					type: "item"
+					title: "Сила духів"
+					item: "minecraft:cobblestone"
+					count: 192
+				}
+				{
+					id: "27AE8A781FEE8E1C"
+					type: "item"
+					title: "Легендарний щит"
+					item: "minecraft:cobbled_deepslate"
+					count: 192
+				}
+				{
+					id: "30E0650FC87968AC"
+					type: "item"
+					item: "create:white_seat"
+				}
+				{
+					id: "72281C48ED17B5E1"
+					type: "item"
+					title: "Мантія невидимості"
+					item: "minecraft:torch"
+					count: 128
+				}
+			]
+		}
+		{
+			x: 1.5d
+			y: 9.5d
+			subtitle: "Таємниці розкриті, але небезпека все ще загрожує."
+			description: [
+				"Знайдіть приховану печеру:"
+				""
+				"Входи до печери позначені спеціальними блоками:"
+			]
+			dependencies: [
+				"38814494AB07C2D8"
+				"0C3A39AC4C3D10A2"
+			]
+			id: "4642949B43A4F838"
+			tasks: [{
+				id: "27DED2EFB8738FD3"
+				type: "item"
+				item: "create:cart_assembler"
+			}]
+		}
+		{
+			title: "Фінальна битва: Відновлення рівноваги"
+			x: 2.625d
+			y: 8.25d
+			subtitle: "Зупиніть стародавню загрозу назавжди."
+			description: [
+				"Вхід до підземелля:"
+				""
+				"Пройдіть через лабіринт і знайдіть скарб:"
+				""
+				"Відкрийте секретну кімнату, використовуючи код: ..."
+			]
+			dependencies: ["38814494AB07C2D8"]
+			size: 0.75d
+			id: "0C3A39AC4C3D10A2"
+			tasks: [
+				{
+					id: "084292B4BAFB17C5"
+					type: "item"
+					item: {
+						id: "create:super_glue"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "5F0EFBB34AA3233E"
+					type: "item"
+					item: "create:portable_storage_interface"
+					count: 4L
+				}
+			]
+		}
+		{
+			title: "Загадка стародавнього храму"
+			x: 7.0d
+			y: 7.0d
+			shape: "diamond"
+			subtitle: "Знайдіть прихований храм і розгадайте його таємниці."
+			description: ["Зберіть всі фрагменти карти:"]
+			min_required_dependencies: 1
+			dependencies: [
+				"600FB959B71E4B18"
+				"726EED16A080CFC4"
+			]
+			dependency_requirement: "one_completed"
+			size: 1.5d
+			min_required_tasks: 1
+			id: "3A20912CB1E34B1A"
+			tasks: [
+				{
+					id: "15435C852622B0D4"
+					type: "item"
+					title: "Дослідження карти"
+					item: "minecraft:dried_kelp_block"
+					count: 256L
+				}
+				{
+					id: "54E59B27898C5A60"
+					type: "item"
+					title: "Знайти вхід до храму"
+					item: "minecraft:charcoal"
+					count: 640L
+				}
+				{
+					id: "0F07739CD62649E1"
+					type: "item"
+					item: "minecraft:lava_bucket"
+					count: 8L
+				}
+			]
+			rewards: [
+				{
+					id: "58854B481FB82C82"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "07CFD2ABB319227F"
+					type: "item"
+					item: "create:belt_connector"
+					count: 16
+				}
+				{
+					id: "5F660F683872155B"
+					type: "item"
+					item: "create:andesite_funnel"
+					count: 16
+				}
+				{
+					id: "04A4EC3F014A203C"
+					type: "item"
+					item: "create:andesite_alloy"
+					count: 16
+				}
+				{
+					id: "4C7B87DD983B4A8E"
+					type: "item"
+					item: "create:andesite_casing"
+					count: 16
+				}
+			]
+		}
+		{
+			title: "Скарби піратів"
+			x: -7.0d
+			y: -3.5d
+			subtitle: "Відшукайте скарб, прихований піратами на безлюдному острові."
+			description: [
+				"Відкрийте карту в інвентарі:"
+				""
+				"Знайдіть прихований острів на карті:"
+				"Досягніть острова та завершіть завдання."
+				"Описання завдання 53 у розділі 3: Зберіть 10 алмазів і принесіть їх до Ендера."
+				""
+				"Ви повинні знайти алмази в шахтах або скарбах, щоб виконати це завдання."
+			]
+			dependencies: ["1519A1EA2CFA6FB1"]
+			id: "7856BCA1DB363174"
+			tasks: [{
+				id: "61061313B1FF9DC3"
+				type: "item"
+				title: "{ftbquests.chapter.chapter_3.quests53.tasks0.title}"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "tconstruct:casts/gold"
+					}
+				}
+			}]
+		}
+		{
+			title: "Битва з морськими монстрами"
+			x: -8.0d
+			y: -3.5d
+			subtitle: "Захистіть свій корабель від небезпечних істот, що мешкають у морі."
+			dependencies: ["7856BCA1DB363174"]
+			id: "346D47B32354428D"
+			tasks: [
+				{
+					id: "6D740F628F501950"
+					type: "item"
+					item: "tconstruct:ingot_cast"
+				}
+				{
+					id: "3B7ACD8D61366E17"
+					type: "item"
+					item: "tconstruct:nugget_cast"
+				}
+				{
+					id: "1DD5FD54F75F49DF"
+					type: "item"
+					item: "tconstruct:gem_cast"
+				}
+				{
+					id: "22FCD426F6CF0CCC"
+					type: "item"
+					item: "tconstruct:rod_cast"
+				}
+				{
+					id: "47B9DF4AEA196ACD"
+					type: "item"
+					item: "tconstruct:repair_kit_cast"
+				}
+				{
+					id: "7D74EC7D91008FF6"
+					type: "item"
+					item: "tconstruct:plate_cast"
+				}
+				{
+					id: "24DF774F47BF9B29"
+					type: "item"
+					item: "tconstruct:gear_cast"
+				}
+				{
+					id: "4563C09EB62E983A"
+					type: "item"
+					item: "tconstruct:coin_cast"
+				}
+				{
+					id: "5C086CC09D13AAC0"
+					type: "item"
+					item: "tconstruct:wire_cast"
+				}
+				{
+					id: "6BC3D4A7D3295523"
+					type: "item"
+					item: "tconstruct:pick_head_cast"
+				}
+				{
+					id: "4B68A4BCAD6B56EE"
+					type: "item"
+					item: "tconstruct:small_axe_head_cast"
+				}
+				{
+					id: "4405AE360F8A468F"
+					type: "item"
+					item: "tconstruct:small_blade_cast"
+				}
+				{
+					id: "1B4F36B259DE109C"
+					type: "item"
+					item: "tconstruct:hammer_head_cast"
+				}
+				{
+					id: "2EA04C4C429B67F9"
+					type: "item"
+					item: "tconstruct:broad_blade_cast"
+				}
+				{
+					id: "02F15F721DDE410B"
+					type: "item"
+					item: "tconstruct:broad_axe_head_cast"
+				}
+				{
+					id: "42093463ADB255E1"
+					type: "item"
+					item: "tconstruct:tool_binding_cast"
+				}
+				{
+					id: "754A415787F18A60"
+					type: "item"
+					item: "tconstruct:round_plate_cast"
+				}
+				{
+					id: "03CD9AD088E5A7EC"
+					type: "item"
+					item: "tconstruct:large_plate_cast"
+				}
+				{
+					id: "65CED805D00C9ACA"
+					type: "item"
+					item: "tconstruct:tool_handle_cast"
+				}
+				{
+					id: "37A421D3C2F38122"
+					type: "item"
+					item: "tconstruct:tough_handle_cast"
+				}
+				{
+					id: "4C74F64272F8159D"
+					type: "item"
+					item: "astraladditions:ring_gold_cast"
+				}
+			]
+			rewards: [
+				{
+					id: "526DC221F6058122"
+					type: "item"
+					item: "minecraft:gold_block"
+					count: 3
+				}
+				{
+					id: "3FB772F1AD3CDC58"
+					type: "item"
+					item: "minecraft:diamond"
+				}
+			]
+		}
+		{
+			title: "Таємниця зниклого дослідника"
+			icon: "minecraft:diamond_block"
+			x: -4.0d
+			y: -7.5d
+			subtitle: "Розгадайте таємницю зникнення відважного дослідника в джунглях."
+			dependencies: ["25085C910155E06D"]
+			optional: true
+			id: "3F331B0DAE1062E8"
+			tasks: [
+				{
+					id: "6357813BD979AC3C"
+					type: "item"
+					item: "minecraft:lapis_block"
+					count: 64L
+				}
+				{
+					id: "37108F9E11F62C54"
+					type: "item"
+					item: "minecraft:diamond_block"
+					count: 4L
+				}
+			]
+			rewards: [
+				{
+					id: "67867CF7F86A799D"
+					type: "item"
+					item: "adoptafloppa:the_dog_item"
+				}
+				{
+					id: "377F84C6D97AF79A"
+					type: "item"
+					item: "adoptafloppa:amazon_delivery"
+				}
+			]
+		}
+		{
+			title: "Збірка інгредієнтів"
+			icon: "create:sail_frame"
+			x: -7.0d
+			y: 2.0d
+			subtitle: "Знайдіть і зібрати рідкісні інгредієнти для створення потужного еліксиру."
+			description: [
+				"Завдання 56: Створіть портал до будь-якого іншого виміру та подорожуйте через нього."
+				""
+				"Це завдання вимагає від вас знань про створення порталів та дослідження інших світів."
+			]
+			dependencies: ["1F79F4D01B219D7E"]
+			id: "7DA20A39EC1DE7EA"
+			tasks: [
+				{
+					id: "04A9735CAD1B5944"
+					type: "item"
+					item: "create:windmill_bearing"
+				}
+				{
+					id: "3A80619C9D9E33DD"
+					type: "item"
+					item: "create:white_sail"
+					count: 8L
+				}
+				{
+					id: "0461E6CC382D1811"
+					type: "advancement"
+					advancement: "create:windmill"
+					criterion: ""
+				}
+			]
+			rewards: [{
+				id: "7807C96EAD96A936"
+				type: "item"
+				item: "create:white_sail"
+				count: 16
+			}]
+		}
+		{
+			title: "Битва з босами"
+			x: 3.0d
+			y: 4.5d
+			subtitle: "Стійте проти могутніх босів, що охороняють стародавні руїни."
+			description: [
+				"Завдання 57: Переможіть Ендер-Дракона та поверніться живим."
+				""
+				"Ви повинні підготуватися до битви, зібрати потужну зброю та броню, щоб перемогти дракона."
+				""
+				"Описання завдання: Після перемоги над драконом поверніться до Ендера з його серцем."
+				""
+				"Це складне завдання, яке вимагає від вас майстерності в бою та стратегічного мислення."
+				""
+				"Якщо ви не впораєтеся, спробуйте ще раз, і пам'ятайте про важливість командної роботи."
+			]
+			dependencies: ["18159A0691993E5B"]
+			id: "59E7FEA861328505"
+			tasks: [{
+				id: "40AF0D2869E8C2D3"
+				type: "item"
+				item: "create:item_vault"
+			}]
+		}
+		{
+			title: "Відновлення рівноваги"
+			icon: "minecraft:lava_bucket"
+			x: 2.5d
+			y: 0.5d
+			shape: "rsquare"
+			subtitle: "Виправте збій у магічній системі, щоб відновити гармонію в світі."
+			description: [
+				"Завдання 58: Знайдіть та активуйте всі стародавні артефакти в Енді."
+				""
+				""
+				"Ці артефакти мають потужну магію, і їх активація може відкрити нові можливості."
+				""
+				""
+				"Досліджуйте стародавні руїни та розгадайте таємниці, щоб знайти ці цінні предмети."
+			]
+			dependencies: ["70799237323247B7"]
+			id: "35C34E4EA8292D24"
+			tasks: [
+				{
+					id: "2DB076A46654E115"
+					type: "item"
+					item: "minecraft:pointed_dripstone"
+					count: 4L
+				}
+				{
+					id: "492F1ADD022A43F8"
+					type: "item"
+					item: "minecraft:cauldron"
+					count: 4L
+				}
+			]
+			rewards: [{
+				id: "4E619525E3DF0B31"
+				type: "item"
+				item: "minecraft:lava_bucket"
+				count: 4
+			}]
+		}
+		{
+			x: -0.5d
+			y: 1.0d
+			description: [
+				"Завдання 59: Створіть машину часу та подорожуйте в минуле."
+				""
+				"Це складне завдання, яке вимагає розуміння механік часу та створення складних пристроїв."
+				"Подорожі в часі можуть мати несподівані наслідки, тож будьте обережні."
+			]
+			dependencies: ["70799237323247B7"]
+			id: "31E69CA962A58692"
+			tasks: [{
+				id: "5B411729AAD16009"
+				type: "item"
+				item: "create:smart_fluid_pipe"
+			}]
+		}
+		{
+			x: 3.5d
+			y: -3.5d
+			subtitle: "Розкрийте приховану історію стародавньої цивілізації."
+			description: [
+				"Завдання 60: Знайдіть прихований храм у дикій природі та розкрийте його таємниці."
+				""
+				"Храм може містити цінні скарби та знання, але він добре захований."
+				"Досліджуйте навколишній ландшафт, шукайте підказки та будьте готові до несподіванок."
+				""
+				"Пам'ятайте, що в дикій природі можуть бути небезпечні істоти, тож будьте обережні."
+				""
+				"Якщо ви знайдете храм, розкрийте його таємниці та отримайте винагороду."
+			]
+			dependencies: ["32B9EAE28E1C5D7A"]
+			id: "08550B021D54D2DF"
+			tasks: [
+				{
+					id: "5D343FA9E913F5C9"
+					type: "item"
+					item: "create:display_link"
+				}
+				{
+					id: "10C34F210300282C"
+					type: "item"
+					item: "create:display_board"
+				}
+			]
+			rewards: [
+				{
+					id: "187401FFE35A80D9"
+					type: "item"
+					item: "minecraft:name_tag"
+					count: 4
+				}
+				{
+					id: "388A3200ADA76E5F"
+					type: "item"
+					item: "create:display_board"
+					count: 3
+				}
+			]
+		}
+		{
+			title: "Скарби забутого міста"
+			x: -7.5d
+			y: 3.0d
+			subtitle: "Відшукайте скарби, приховані в руїнах стародавнього міста."
+			description: [
+				"Завдання 61: Створіть мережу порталів для швидкого переміщення по світу."
+				""
+				"Це завдання вимагає від вас розуміння магії порталів та створення складної мережі для зручного пересування."
+			]
+			dependencies: ["7DA20A39EC1DE7EA"]
+			id: "731D9E7777150B6A"
+			tasks: [{
+				id: "1DF4BEDC3FB10D99"
+				type: "advancement"
+				advancement: "create:windmill_maxed"
+				criterion: ""
+			}]
+			rewards: [
+				{
+					id: "4C96C01B7564D095"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "2BD8A93155B82563"
+					type: "item"
+					item: "minecraft:white_wool"
+					count: 64
+				}
+			]
+		}
+		{
+			title: "Захист від зомбі-нападу"
+			icon: "create:railway_casing"
+			x: 3.5d
+			y: 9.0d
+			subtitle: "Створіть захисну систему, щоб зупинити натовп зомбі, що наближається."
+			description: [
+				"Завдання 62: Дослідіть новий вимір і поверніться з унікальними ресурсами."
+				""
+				"Опис завдання 2 для квесту 62 в розділі 3"
+				"Третій опис завдання для квесту 62 в розділі 3"
+				""
+				"П'ятий опис завдання, пов'язаного з квестом 62 в розділі 3"
+				"Шостий опис завдання для квесту 62 в розділі 3"
+				""
+				"Восьмий опис завдання, що належить до квесту 62 в розділі 3"
+			]
+			dependencies: ["0C3A39AC4C3D10A2"]
+			id: "2B8584C007CB9EFF"
+			tasks: [{
+				id: "25061F9EE73507D3"
+				type: "checkmark"
+				title: "Збір матеріалів"
+			}]
+		}
+		{
+			title: "Битва з кінцем"
+			x: -1.0d
+			y: -3.0d
+			description: [
+				"Початковий опис завдання для квесту 63 в розділі 3"
+				""
+				"Другий опис завдання, пов'язаного з квестом 63 в розділі 3"
+			]
+			dependencies: ["5A1B85C3323DDBD1"]
+			min_required_tasks: 1
+			id: "3095586FC5E09B01"
+			tasks: [
+				{
+					id: "35D4128EDBDDE699"
+					type: "item"
+					item: "tconstruct:ingot_cast"
+				}
+				{
+					id: "7B1D6C134EBA8727"
+					type: "item"
+					item: "tconstruct:seared_basin"
+				}
+			]
+		}
+		{
+			title: "Сила стародавніх артефактів"
+			x: 6.0d
+			y: 8.5d
+			shape: "diamond"
+			subtitle: "Підзаголовок квесту 64: Пригоди в лісі"
+			description: [
+				"Опис першого завдання для квесту 64 в розділі 3"
+				""
+				"Другий опис завдання, що належить до квесту 64 в розділі 3"
+				""
+				"Четвертий опис завдання для квесту 64 в розділі 3"
+				""
+				"Шостий опис завдання, пов'язаного з квестом 64 в розділі 3"
+			]
+			dependencies: ["726EED16A080CFC4"]
+			id: "6C24E4B83E454EC5"
+			tasks: [{
+				id: "364A0657277272C9"
+				type: "item"
+				title: "{ftbquests.chapter.chapter_3.quests64.tasks0.title}"
+				item: "techreborn:rubber"
+				count: 256L
+			}]
+			rewards: [{
+				id: "2673DE427711FCD7"
+				type: "xp"
+				xp: 200
+			}]
+		}
+		{
+			title: "Знайти прихований скарб"
+			x: -0.5d
+			y: 9.0d
+			subtitle: "Досліджуйте стародавні руїни та знайдіть захований артефакт."
+			description: [
+				"Перший опис завдання для квесту 65 в розділі 3"
+				"Другий опис завдання, що належить до квесту 65 в розділі 3"
+				"Третій опис завдання для квесту 65 в розділі 3"
+				"Четвертий опис завдання, пов'язаного з квестом 65 в розділі 3"
+				"П'ятий опис завдання для квесту 65 в розділі 3"
+				"Шостий опис завдання, що належить до квесту 65 в розділі 3"
+				"Сьомий опис завдання для квесту 65 в розділі 3"
+				"Восьмий опис завдання, пов'язаного з квестом 65 в розділі 3"
+				"Дев'ятий опис завдання для квесту 65 в розділі 3"
+				"Десятий опис завдання, що належить до квесту 65 в розділі 3"
+				"Одинадцятий опис завдання для квесту 65 в розділі 3"
+				"Дванадцятий і останній опис завдання, пов'язаного з квестом 65 в розділі 3"
+				"Описання завдання 12 для розділу 3 в FTB Quests"
+				"Описання завдання 13 для розділу 3 в FTB Quests"
+				"Описання завдання 14 для розділу 3 в FTB Quests"
+			]
+			dependencies: ["38814494AB07C2D8"]
+			id: "7DF5B49918827647"
+			tasks: [{
+				id: "72B6D7AE0932635B"
+				type: "checkmark"
+				title: "{ftbquests.chapter.chapter_3.quests65.tasks0.title}"
+			}]
+		}
+		{
+			title: "Битва з драконом"
+			x: -2.0d
+			y: -2.5d
+			subtitle: "Зупиніть могутнього дракона, що тероризує село."
+			description: ["Описання завдання 66 для розділу 3 в FTB Quests"]
+			dependencies: ["5A1B85C3323DDBD1"]
+			id: "6229BC66A88B614B"
+			tasks: [{
+				id: "535BFA280660D524"
+				type: "item"
+				item: "doodads:asphalt"
+				count: 32L
+			}]
+		}
+		{
+			title: "Відновлення магічного кристала"
+			x: -1.5d
+			y: 1.5d
+			description: [
+				"Описання завдання 0 для розділу 3, квест 67 в FTB Quests"
+				""
+				"Описання завдання 2 для розділу 3, квест 67 в FTB Quests"
+				""
+				"Описання завдання 4 для розділу 3, квест 67 в FTB Quests"
+				""
+				"Описання завдання 6 для розділу 3, квест 67 в FTB Quests"
+				""
+				"Описання завдання 8 для розділу 3, квест 67 в FTB Quests"
+			]
+			dependencies: ["62DAEDF65FB2226B"]
+			id: "2C8290C44890E0B5"
+			tasks: [
+				{
+					id: "3717FB82A5D4CAC3"
+					type: "item"
+					item: {
+						id: "create:copper_backtank"
+						Count: 1b
+						tag: {
+							Air: 900
+						}
+					}
+				}
+				{
+					id: "3334247871EC5488"
+					type: "item"
+					item: {
+						id: "create:copper_diving_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "33DAE4F8E0AE88C7"
+					type: "item"
+					item: {
+						id: "create:copper_diving_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "358BBCC53DC4B6AF"
+				type: "item"
+				item: "minecraft:nautilus_shell"
+				count: 5
+			}]
+		}
+		{
+			icon: "ad_astra:moon_stone"
+			x: 9.0d
+			y: -6.0d
+			subtitle: "Знайдіть фрагменти кристала та зібрати їх, щоб відновити магічну рівновагу."
+			description: [
+				"Описання завдання 0 для розділу 3, квест 68 в FTB Quests"
+				""
+				"Описання завдання 2 для розділу 3, квест 68 в FTB Quests"
+			]
+			hide_dependency_lines: true
+			dependencies: ["00F3EA4A8FB5B11B"]
+			id: "08BC73F24043BB91"
+			tasks: [
+				{
+					id: "3CDDFDB700B20B99"
+					type: "item"
+					item: "ad_astra:moon_stone"
+					count: 10L
+				}
+				{
+					id: "71004635288AE4E6"
+					type: "checkmark"
+					title: "{ftbquests.chapter.chapter_3.quests68.tasks1.title}"
+				}
+			]
+			rewards: [{
+				id: "4F4AC8EE18D127B0"
+				type: "xp"
+				xp: 50
+			}]
+		}
+		{
+			title: "Подорож до піраміди"
+			x: -5.5d
+			y: -0.5d
+			subtitle: "Вивчіть таємниці стародавньої піраміди та розкрийте її секрети."
+			description: [
+				"Описання завдання 0 для розділу 3, квест 69 в FTB Quests"
+				""
+				"Описання завдання 2 для розділу 3, квест 69 в FTB Quests"
+				""
+				"Описання завдання 4 для розділу 3, квест 69 в FTB Quests"
+				""
+				"Описання завдання 6 для розділу 3, квест 69 в FTB Quests"
+			]
+			dependencies: ["1519A1EA2CFA6FB1"]
+			min_required_tasks: 1
+			id: "5DE9FD633DB0358D"
+			tasks: [
+				{
+					id: "2409D3B21C94F486"
+					type: "item"
+					item: "tconstruct:scorched_basin"
+				}
+				{
+					id: "50A044BCE8EE9698"
+					type: "item"
+					item: "tconstruct:scorched_table"
+				}
+			]
+			rewards: [{
+				id: "1297734708EBAC0C"
+				type: "loot"
+				exclude_from_claim_all: true
+				table_id: 2053519168689179764L
+			}]
+		}
+		{
+			icon: "tconstruct:smeltery_controller"
+			x: -3.0d
+			y: -2.0d
+			subtitle: "Зберіть інгредієнти для еліксиру невидимості."
+			description: [
+				"Описання завдання 0 для розділу 3, квест 70 в FTB Quests"
+				""
+				"Описання завдання 2 для розділу 3, квест 70 в FTB Quests"
+				""
+				"Описання завдання 4 для розділу 3, квест 70 в FTB Quests"
+			]
+			dependencies: ["0A34148EBAF329B3"]
+			id: "7BFEA241D8543721"
+			tasks: [{
+				id: "67E083F03D9B713C"
+				type: "checkmark"
+				title: "{ftbquests.chapter.chapter_3.quests70.tasks0.title}"
+			}]
+		}
+		{
+			title: "Втеча від примар"
+			x: 6.5d
+			y: -1.0d
+			shape: "diamond"
+			subtitle: "{ftbquests.chapter.chapter_3.quests71.subtitle}"
+			description: [
+				"Описання завдання 0 для розділу 3, квест 71 в FTB Quests"
+				""
+				"Описання завдання 2 для розділу 3, квест 71 в FTB Quests"
+				""
+				"Описання завдання 4 для розділу 3, квест 71 в FTB Quests"
+				""
+				"Описання завдання 6 для розділу 3, квест 71 в FTB Quests"
+				""
+				"Описання завдання 8 для розділу 3, квест 71 в FTB Quests"
+				""
+				"Опис квесту 71 в розділі 3"
+			]
+			dependencies: ["17041A495A41EEFD"]
+			id: "2F5E73F6CEA949AA"
+			tasks: [{
+				id: "09137995FF6F40D8"
+				type: "item"
+				item: "create:sturdy_sheet"
+				count: 256L
+			}]
+			rewards: [
+				{
+					id: "2E7C8444D0A1D5B4"
+					type: "xp"
+					xp: 150
+				}
+				{
+					id: "043FA7EB98A44289"
+					type: "item"
+					item: "create:railway_casing"
+					count: 24
+				}
+				{
+					id: "29CAE9DC3EA42951"
+					type: "item"
+					item: {
+						id: "minecraft:potion"
+						Count: 1b
+						tag: {
+							Potion: "minecraft:fire_resistance"
+						}
+					}
+					count: 6
+				}
+			]
+		}
+		{
+			title: "Знайти ключ до підземелля"
+			x: 1.0d
+			y: -4.0d
+			description: [
+				"Початкове повідомлення квесту 72 в розділі 3"
+				""
+				"Додаткові інструкції для квесту 72"
+			]
+			dependencies: [
+				"5042E544D3181FAC"
+				"0F4C452C9C9AB1B8"
+			]
+			id: "610593E8EACE8EBC"
+			tasks: [{
+				id: "6311CD924197D073"
+				type: "item"
+				item: "tconstruct:silky_cloth"
+				count: 5L
+			}]
+		}
+		{
+			title: "Підземне дослідження"
+			x: -2.5d
+			y: -4.5d
+			subtitle: "{ftbquests.chapter.chapter_3.quests73.subtitle}"
+			description: ["Опис виконання квесту 73"]
+			dependencies: ["5042E544D3181FAC"]
+			id: "1EA3910AEF29A489"
+			tasks: [{
+				id: "544FA0A773D09A1F"
+				type: "item"
+				item: "minecraft:redstone_block"
+				count: 5L
+			}]
+		}
+		{
+			title: "Битва з босом: Король павуків"
+			x: 0.5d
+			y: 9.5d
+			description: [
+				"Початок квесту 74"
+				""
+				"Деталі завдання в квесті 74"
+				""
+				"Наслідки виконання квесту 74"
+			]
+			hide_dependency_lines: false
+			dependencies: ["38814494AB07C2D8"]
+			dependency_requirement: "one_completed"
+			min_required_tasks: 1
+			id: "188BB7559F7A37B0"
+			tasks: [
+				{
+					id: "4118BF40631AC97A"
+					type: "item"
+					item: "minecraft:tube_coral_block"
+				}
+				{
+					id: "05CF38D3F0CFF397"
+					type: "item"
+					item: "minecraft:brain_coral_block"
+				}
+				{
+					id: "3552D1AE1B3D858E"
+					type: "item"
+					item: "minecraft:bubble_coral_block"
+				}
+				{
+					id: "3384F69AD1A64D5B"
+					type: "item"
+					item: "minecraft:fire_coral_block"
+				}
+				{
+					id: "7E69A95C68760DAC"
+					type: "item"
+					item: "minecraft:horn_coral_block"
+				}
+			]
+			rewards: [{
+				id: "16DBA4D8CCABB01A"
+				type: "item"
+				item: "minecraft:sea_pickle"
+				count: 16
+			}]
+		}
+		{
+			title: "Знайти втрачені скарби піратів"
+			x: 6.0d
+			y: 0.5d
+			shape: "rsquare"
+			subtitle: "{ftbquests.chapter.chapter_3.quests75.subtitle}"
+			description: [
+				"Початковий крок квесту 75"
+				""
+				"Інструкції для наступного етапу квесту 75"
+				""
+				"Можливі варіанти виконання квесту 75"
+				""
+				"Наслідки вибору в квесті 75"
+				""
+				"Фінальний етап квесту 75"
+				""
+				"Завершення квесту 75 та нагороди"
+			]
+			dependencies: ["557684C7D7B955B8"]
+			id: "7F3DD44E4885A837"
+			tasks: [{
+				id: "0F2DE8EE0A4B0AB0"
+				type: "item"
+				item: {
+					id: "custommachinery:custom_machine_item"
+					Count: 1b
+					tag: {
+						machine: "createastral:stone_growth_chamber"
+					}
+				}
+			}]
+			rewards: [{
+				id: "2C0CD5E9685CFFEA"
+				type: "item"
+				item: {
+					id: "create:schematic"
+					Count: 1b
+					tag: {
+						Anchor: {
+							Z: 0
+							X: 0
+							Y: 0
+						}
+						Owner: "Laskyyy"
+						Deployed: 0b
+						Rotation: "NONE"
+						File: "[AstralExamples] Stone Growth Chamber.nbt"
+						Mirror: "NONE"
+						Bounds: [
+							3
+							3
+							3
+						]
+					}
+				}
+			}]
+		}
+		{
+			title: "{ftbquests.chapter.chapter_3.quests76.title}"
+			x: 4.5d
+			y: 5.25d
+			shape: "hexagon"
+			subtitle: "Розгадайте карту та знайдіть заховані скарби на безлюдному острові."
+			description: [
+				"Початок квесту 76"
+				""
+				"Необхідні дії для просування в квесті 76"
+				""
+				"Результат виконання квесту 76"
+			]
+			dependencies: ["38814494AB07C2D8"]
+			size: 1.5d
+			id: "280074A596663CE6"
+			tasks: [
+				{
+					id: "58CBFD5202BC6F7F"
+					type: "item"
+					item: "create:limestone"
+					count: 64L
+				}
+				{
+					id: "6BDA58A70543DEFE"
+					type: "item"
+					item: "create:asurine"
+					count: 64L
+				}
+				{
+					id: "3B94D34CDEAE8C29"
+					type: "item"
+					item: "create:crimsite"
+					count: 64L
+				}
+				{
+					id: "74014F05B4E03C1E"
+					type: "item"
+					item: "create:ochrum"
+					count: 64L
+				}
+				{
+					id: "4568F1E9131E6958"
+					type: "item"
+					item: "create:veridium"
+					count: 64L
+				}
+				{
+					id: "2E512B0AD59DF176"
+					type: "item"
+					item: "create:scoria"
+					count: 64L
+				}
+				{
+					id: "2690E2798BB1A91B"
+					type: "item"
+					item: "create:scorchia"
+					count: 64L
+				}
+			]
+			rewards: [
+				{
+					id: "2DEC7B3ECFB78C92"
+					type: "loot"
+					exclude_from_claim_all: true
+					table_id: 2053519168689179764L
+				}
+				{
+					id: "42C3E01978012505"
+					type: "loot"
+					exclude_from_claim_all: true
+					table_id: 2053519168689179764L
+				}
+				{
+					id: "168FC39EDDB6EFFB"
+					type: "loot"
+					exclude_from_claim_all: true
+					table_id: 2053519168689179764L
+				}
+			]
+		}
+		{
+			title: "Фінальна битва: Зупинка темного лорда"
+			x: 6.5d
+			y: -5.0d
+			subtitle: "Фінальна битва: Зупинка темного лорда"
+			description: [
+				"Вступ до квесту 80"
+				""
+				"Додаткові пояснення для квесту 80"
+			]
+			dependencies: ["00F3EA4A8FB5B11B"]
+			id: "2F47A42AA439BA7B"
+			tasks: [{
+				id: "2195C7B99D5DF0CF"
+				type: "item"
+				item: "astraladditions:shimmer_lily"
+			}]
+			rewards: [{
+				id: "3032AFD48AB063DE"
+				type: "item"
+				item: "astraladditions:shimmer_bottle"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

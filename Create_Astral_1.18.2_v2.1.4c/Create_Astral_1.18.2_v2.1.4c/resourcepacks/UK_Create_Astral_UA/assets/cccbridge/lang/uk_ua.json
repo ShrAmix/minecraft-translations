@@ -1,0 +1,13 @@
+{
+  "block.cccbridge.source_block": "Джерельний блок",
+  "block.cccbridge.target_block": "Цільовий блок",
+  "block.cccbridge.redrouter_block": "Червоний роутер блок",
+  "block.cccbridge.scroller_block": "Панель прокручування",
+  "block.cccbridge.animatronic_block": "Аніматронік",
+  "cccbridge.display_source.source_block_display_source": "Дані, надані з комп'ютера",
+  "cccbridge.general.unit.scroller": "Луа число",
+  "cccbridge.general.unit.scroller.positive": "Луа Число +",
+  "cccbridge.general.unit.scroller.negative": "Луа Число -",
+  "subtitles.cccbridge.cage_lock": "Блок прокручування заблоковано",
+  "subtitles.cccbridge.cage_unlock": "Блок прокручування розблоковано"
+}

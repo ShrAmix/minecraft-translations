@@ -1,0 +1,8 @@
+{
+  "title": "Палюча Кров",
+  "subText": "Nothing better than a fiery blaze.",
+  "hidden": [
+    "intro",
+    "piggy_backpack_craft"
+  ]
+}
