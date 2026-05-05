@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:leaping",
+  "text": [
+    {
+      "text": "Надає +0.5 блоків висоти стрибка на рівень, і збільшує відстань безпечного падіння на 1 блок на рівень."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 2 levels",
+    "Requires 1 upgrade slot per level"
+  ]
+}

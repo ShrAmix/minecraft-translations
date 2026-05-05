@@ -1,0 +1,16 @@
+{
+  "text.autoconfig.smoothboot.title": "Гладкий завантаження",
+  "text.autoconfig.smoothboot.option.threadCount": "Кількість потоків",
+  "text.autoconfig.smoothboot.option.threadCount.bootstrap": "Кількість потоків для ініціалізації",
+  "text.autoconfig.smoothboot.option.threadCount.bootstrap.@Tooltip[0]": "Зауважте: Збільшення може призвести до зниження продуктивності.",
+  "text.autoconfig.smoothboot.option.threadCount.bootstrap.@Tooltip[1]": "Найкраще залишити за замовчуванням (1).",
+  "text.autoconfig.smoothboot.option.threadCount.main": "Кількість основних потоків",
+  "text.autoconfig.smoothboot.option.threadCount.main.@Tooltip[0]": "Це значення значно впливає на час завантаження.",
+  "text.autoconfig.smoothboot.option.threadCount.main.@Tooltip[1]": "Може також впливати на продуктивність гри.",
+  "text.autoconfig.smoothboot.option.threadPriority": "Приоритет потоків",
+  "text.autoconfig.smoothboot.option.threadPriority.game": "Приоритет ігрового потоку",
+  "text.autoconfig.smoothboot.option.threadPriority.bootstrap": "Приоритет потоків для ініціалізації",
+  "text.autoconfig.smoothboot.option.threadPriority.main": "Приоритет основних потоків",
+  "text.autoconfig.smoothboot.option.threadPriority.io": "Приоритет потоків вводу/виводу",
+  "text.autoconfig.smoothboot.option.threadPriority.integratedServer": "Приоритет потоків інтегрованого сервера"
+}

@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:bouncy",
+  "text": [
+    {
+      "text": "Причиняє стрибок при приземленні, запобігаючи пошкодженню від падіння та застосовуючи 90% вашої швидкості вгору."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 1 level",
+    "Requires 1 ability slot"
+  ]
+}

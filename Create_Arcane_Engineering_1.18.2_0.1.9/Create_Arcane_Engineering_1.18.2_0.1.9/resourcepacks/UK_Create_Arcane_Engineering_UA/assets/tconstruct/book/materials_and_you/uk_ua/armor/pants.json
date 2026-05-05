@@ -1,0 +1,20 @@
+{
+  "tool": "tconstruct:travelers_leggings",
+  "text": [
+    {
+      "text": "Меду, де мої паaaaaaaaaaaaaaaaaанти?"
+    },
+    {
+      "text": "Виходити у світ без штанів — не дуже гарна ідея, чому б не взяти пару штанів, щоб залишатися теплим і допомагати подорожувати!",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "Low Armor",
+    "Low Durability",
+    "Great in snow",
+    "3 Upgrade Slots",
+    "2 Defense Slots",
+    "1 Ability Slot"
+  ]
+}

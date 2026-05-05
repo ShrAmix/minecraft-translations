@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:soulbound",
+  "text": [
+    {
+      "text": "Наповнення вашої душі об'єктом не звучить здорово. Але це радше корисно!"
+    }
+  ],
+  "effects": [
+    "Tool will remain with you upon an untimely demise",
+    "Single Level",
+    "Requires 1 Upgrade Slot"
+  ]
+}

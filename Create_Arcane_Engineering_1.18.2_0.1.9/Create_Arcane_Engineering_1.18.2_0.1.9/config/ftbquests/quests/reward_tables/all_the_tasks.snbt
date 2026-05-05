@@ -1,0 +1,51 @@
+{
+	id: "39BE274FBC94994D"
+	order_index: 1
+	title: "Усі завдання"
+	icon: "quests:task"
+	loot_size: 1
+	rewards: [
+		{
+			title: "Завдання з видобутку"
+			icon: "quests:mining_task"
+			command: "/loot give @p loot quests:mining_task"
+			type: "command"
+		}
+		{
+			title: "Завдання з фермерства"
+			icon: "quests:farming_task"
+			command: "/loot give @p loot quests:farming_task"
+			type: "command"
+		}
+		{
+			title: "Завдання зі збору"
+			icon: "quests:collecting_task"
+			command: "/loot give @p loot quests:collecting_task"
+			type: "command"
+		}
+		{
+			title: "Завдання з вирубки лісу"
+			icon: "quests:deforesting_task"
+			command: "/loot give @p loot quests:deforesting_task"
+			type: "command"
+		}
+		{
+			title: "Завдання з риболовлі"
+			icon: "quests:fishing_task"
+			command: "/loot give @p loot quests:fishing_task"
+			type: "command"
+		}
+		{
+			title: "Завдання з полювання"
+			icon: "quests:hunting_task"
+			command: "/loot give @p loot quests:hunting_task"
+			type: "command"
+		}
+		{
+			title: "Завдання зі знищення"
+			icon: "quests:slaying_task"
+			command: "/loot give @p loot quests:slaying_task"
+			type: "command"
+		}
+	]
+}

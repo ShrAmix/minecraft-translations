@@ -1,0 +1,23 @@
+{
+  "fastload.screen.buildingTerrain.building": "Створення клієнтських частин ландшафту",
+  "fastload.screen.buildingTerrain.preparing": "Генерація серверних частин ландшафту",
+  "fastload.buildingTerrain.starting": "Початок сесії",
+  "fastload.screen.buildingTerrain.template": "Завершено / Мета",
+  "fastload.screen.config": "Налаштування Fastload",
+  "fastload.button.debug": "Режим відлагодження",
+  "fastload.button.debug.tooltip": "Чи потрібно виводити відладку в журнали?",
+  "fastload.button.instant_load": "Моментальне завантаження",
+  "fastload.button.instant_load.tooltip": "Ти не терплячий? Ненавидиш екран завантаження? Просто увімкни, завантаж світ і пошкодуєш про це. -_-",
+  "fastload.button.local_render_chunk_radius": "Місцевий радіус",
+  "fastload.button.local_render_chunk_radius.tooltip": "Радіус для кількості частин кола, які повинні рендеритися в ландшафті Fastload для однопользувацьких ігор.",
+  "fastload.button.local_render_chunk_radius.min": "Вимкнено",
+  "fastload.button.local_render_chunk_radius.max": "Що за бред?",
+  "fastload.button.server_render_chunk_radius": "Радіус серверного рендерингу",
+  "fastload.button.server_render_chunk_radius.tooltip": "Радіус для кількості частин кола, які повинні рендеритися в ландшафті Fastload для серверів.",
+  "fastload.button.server_render_chunk_radius.min": "Вимкнено",
+  "fastload.button.server_render_chunk_radius.max": "Що за бред?",
+  "fastload.button.chunk_try_limit": "Ліміт спроб завантаження частин",
+  "fastload.button.chunk_try_limit.tooltip": "Скільки разів дозволено повертати однаковий чанк послідовно, перш ніж відмовитися від попереднього рендерингу",
+  "fastload.button.chunk_try_limit.min": "NASA на персональному комп'ютері",
+  "fastload.button.chunk_try_limit.max": "Повільна черепаха"
+}

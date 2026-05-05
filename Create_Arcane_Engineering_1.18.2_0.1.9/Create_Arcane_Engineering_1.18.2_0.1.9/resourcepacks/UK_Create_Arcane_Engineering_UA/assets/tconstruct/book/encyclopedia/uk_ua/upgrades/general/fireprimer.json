@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:fireprimer",
+  "text": [
+    {
+      "text": "Збільшує площу впливу каміння та цегли на 1. Рівнозначне 1 рівню розширення, але вимагає лише слота для оновлення."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 1 level",
+    "Requires 1 upgrade slot"
+  ]
+}

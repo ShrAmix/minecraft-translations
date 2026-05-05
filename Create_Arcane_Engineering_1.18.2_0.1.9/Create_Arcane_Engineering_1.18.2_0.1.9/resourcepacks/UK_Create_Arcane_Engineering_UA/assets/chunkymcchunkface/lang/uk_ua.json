@@ -1,0 +1,14 @@
+{
+  "block.chunkymcchunkface.chunk_loader": "Хукі МчЧанкФейс",
+  "chunkymcchunkface.blocks.text": "Приклад дозволеного блоку: %s",
+  "chunkymcchunkface.command.disable": "Вимкнено завантажувач чанків у позиції %s %s %s",
+  "chunkymcchunkface.command.disable.error": "Сталася помилка при вимкненні завантажувача чанків у позиції %s %s %s",
+  "chunkymcchunkface.command.disableall": "Вимкнено всі активні завантажувачі чанків у вимірі <%s>",
+  "chunkymcchunkface.command.disableall.empty": "Не вдалося вимкнути завантажувачі чанків, оскільки немає відомих активних завантажувачів чанків у вимірі <%s>",
+  "chunkymcchunkface.command.list": "Завантажувачі чанків у вимірі <%s>",
+  "chunkymcchunkface.command.list.empty": "Не знайдено завантажувачів чанків у <%s>",
+  "chunkymcchunkface.extend.text": "Розширення зони завантаження, побудувавши піраміду дозволених блоків під завантажувачем чанків",
+  "chunkymcchunkface.shift.text": "Тримайте SHIFT для отримання додаткової інформації",
+  "key.chunkymcchunkface.category": "Чумкий МакЧанкФейс",
+  "key.chunkymcchunkface.show_bounds": "Показати радіус завантаження чанку"
+}

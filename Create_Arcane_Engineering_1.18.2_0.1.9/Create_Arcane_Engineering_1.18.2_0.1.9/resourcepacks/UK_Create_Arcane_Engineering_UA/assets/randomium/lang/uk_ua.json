@@ -1,0 +1,12 @@
+{
+  "block.randomium.randomium_ore": "Рандоміум",
+  "block.randomium.randomium_block": "Блок рандомію",
+  "block.randomium.randomium_stabilized": "Стабілізований рандоміум",
+  "item.randomium.randomium": "Рандоміум",
+  "message.randomium.description": "Нестабільний, змінює форму при виготовленні",
+  "block.randomium.randomium_ore_end": "Рандоміум кінця",
+  "block.randomium.randomium_ore_deepslate": "Глибокий рандоміум",
+  "entity.randomium.moving_block": "Рухомий блок (Рандоміум кінця)",
+  "item.randomium.any_item": "[Будь-який предмет]",
+  "randomium.jei.duplicates": "Дублікати"
+}

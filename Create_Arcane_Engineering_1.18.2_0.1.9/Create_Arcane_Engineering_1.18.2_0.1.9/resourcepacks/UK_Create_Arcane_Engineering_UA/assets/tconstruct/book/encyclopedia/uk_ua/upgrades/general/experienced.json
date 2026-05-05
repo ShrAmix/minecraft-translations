@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tconstruct:experienced",
+  "text": [
+    {
+      "text": "Підвищує досвід від вбивства мобів та руйнування блоків на 50% за рівень."
+    },
+    {
+      "text": "На броні для грудей бонусний досвід діє лише проти мобів, вбитих голою рукою. Легінси впливають на всі інструменти.",
+      "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 5 levels",
+    "Requires 1 upgrade slot per level"
+  ]
+}

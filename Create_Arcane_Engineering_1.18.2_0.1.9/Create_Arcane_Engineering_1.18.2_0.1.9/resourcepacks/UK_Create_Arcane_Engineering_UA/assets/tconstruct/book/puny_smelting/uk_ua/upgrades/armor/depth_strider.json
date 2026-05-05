@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:depth_strider",
+  "text": [
+    {
+      "text": "Це або божевілля, або геній. Дивно, як часто ці дві риси співпадають."
+    }
+  ],
+  "effects": [
+    "Increases movement speed underwater",
+    "Multiple levels, each level further increases speed",
+    "Requires 1 Upgrade Slot per level"
+  ]
+}

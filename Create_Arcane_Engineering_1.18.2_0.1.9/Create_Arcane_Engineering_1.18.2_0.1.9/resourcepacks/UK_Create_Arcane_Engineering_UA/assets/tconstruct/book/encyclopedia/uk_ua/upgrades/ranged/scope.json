@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:scope",
+  "text": [
+    {
+      "text": "Збільшує віддалені об'єкти, коли лук натягнутий. У повністю натягнутому стані виглядає трохи менше, ніж шпигівський приціл."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Single level",
+    "Requires 1 upgrade slot"
+  ]
+}

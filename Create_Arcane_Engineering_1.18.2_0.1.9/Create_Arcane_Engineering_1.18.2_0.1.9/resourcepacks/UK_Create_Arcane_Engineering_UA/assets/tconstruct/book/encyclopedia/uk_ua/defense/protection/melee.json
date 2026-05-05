@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tconstruct:melee_protection",
+  "text": [
+    {
+      "text": "Надає +10% стійкості до ушкоджень від ближнього бою, наприклад, від зомбі та мечів. Максимум 80% для всього набору або 8 рівнів."
+    },
+    {
+      "text": "Надає +3% швидкості атаки за кожен рівень найвищого рівня деталі.",
+      "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Can apply levels incrementally",
+    "Requires 1 defense slot"
+  ]
+}

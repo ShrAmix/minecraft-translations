@@ -1,0 +1,14 @@
+{
+  "tool": "tconstruct:ichor_staff",
+  "text": [
+    {
+      "text": "Ставок Ічор — це варіація ставка зі слотом високої здатності."
+    }
+  ],
+  "properties": [
+    "1225 Durability",
+    "50% speed while using",
+    "2 Upgrade Slots",
+    "3 Ability Slots"
+  ]
+}

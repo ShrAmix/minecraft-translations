@@ -1,0 +1,13 @@
+{
+  "boatiview.configuration.client": "Клієнт Boat Item View",
+  "boatiview.configuration.section.boatiview.client.toml": "Налаштування клієнта",
+  "boatiview.configuration.section.boatiview.client.toml.title": "Налаштування клієнта",
+  "boatiview.configuration.show_hands": "Показувати предмети в човні, що рухається",
+  "boatiview.configuration.show_hands.tooltip": "Перемикає відображення предмета в руці під час руху човна",
+  "boatiview.configuration.title": "Boat Item View",
+  "boatiview.configuration.whitelisted_items": "Предмети для відображення в човні, що рухається",
+  "boatiview.configuration.whitelisted_items.tooltip": "Предмети, які будуть відображатися в руці. Додавання символу '*' після ID мода включить усі предмети з цього мода. Наприклад: 'modid:*'. Якщо перед символом '*' не вказано ID мода, будуть включені всі предмети. Наприклад: '*'",
+  "text.autoconfig.client.option.show_hands": "Показувати предмети в човні, що рухається",
+  "text.autoconfig.client.option.whitelisted_items": "Предмети для відображення в човні, що рухається",
+  "text.autoconfig.client.title": "Boat Item View"
+}

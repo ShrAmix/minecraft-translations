@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tconstruct:thorns",
+  "text": [
+    {
+      "text": "Має 15% шанс на рівень застосувати 1-4 одиниці шкоди до атакуючого. Кілька частин накопичують ефект."
+    },
+    {
+      "text": "Шильди вдвічі ефективні, але працюють лише під час блокування.",
+      "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 3 levels",
+    "Requires 1 upgrade slot per level"
+  ]
+}

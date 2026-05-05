@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:strength",
+  "text": [
+    {
+      "text": "Надає +10% шкоди атаки для всіх зброї на кожен рівень."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Can apply levels incrementally",
+    "Requires 1 ability slot per level"
+  ]
+}

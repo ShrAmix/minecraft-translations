@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:soulbound",
+  "text": [
+    {
+      "text": "Залишає інструмент у вашому інвентарі при смерті та при новій грі."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 1 level",
+    "Requires 1 upgrade slot"
+  ]
+}

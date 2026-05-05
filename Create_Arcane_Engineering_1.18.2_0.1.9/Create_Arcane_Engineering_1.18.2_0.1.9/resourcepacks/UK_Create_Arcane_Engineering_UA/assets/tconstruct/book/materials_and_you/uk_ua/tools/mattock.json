@@ -1,0 +1,19 @@
+{
+  "tool": "tconstruct:mattock",
+  "text": [
+    {
+      "text": "Маточна лопатка — універсальний інструмент. Вона ефективно працює з дерев'яними брусками та грязю."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Вона може створити ферму ваших мрій."
+    }
+  ],
+  "properties": [
+    "Tills dirt",
+    "Effective on dirt and logs",
+    "Extra knockback"
+  ]
+}

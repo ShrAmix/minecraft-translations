@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:melee_protection",
+  "text": [
+    {
+      "text": "Мобільний бокс для ударів"
+    }
+  ],
+  "effects": [
+    "Decreases damage from swords, unarmed attacks, and more",
+    "Multiple levels, each level further decreases damage.",
+    "Requires 1 defense slot"
+  ]
+}

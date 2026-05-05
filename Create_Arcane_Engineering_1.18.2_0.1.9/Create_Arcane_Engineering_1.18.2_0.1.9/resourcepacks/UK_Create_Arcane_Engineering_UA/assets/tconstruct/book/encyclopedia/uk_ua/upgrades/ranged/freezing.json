@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:freezing",
+  "text": [
+    {
+      "text": "Заморожує будь-яку сутність, яку влучає стріла, на 4 секунди (плюс 4 секунди за кожний рівень), викликаючи пошкодження протягом часу та сповільнення."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 2 levels",
+    "Does not work well with fiery",
+    "Requires 1 upgrade slot per level"
+  ]
+}

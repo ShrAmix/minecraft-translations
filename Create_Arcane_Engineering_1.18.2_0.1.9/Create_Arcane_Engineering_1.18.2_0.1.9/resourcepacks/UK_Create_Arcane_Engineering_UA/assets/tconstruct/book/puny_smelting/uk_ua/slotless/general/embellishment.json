@@ -1,0 +1,15 @@
+{
+  "modifier_id": "tconstruct:embellishment",
+  "text": [
+    {
+      "text": "Чи бачив ти коли-небудь метал такої краси, що хочеться, щоб він був бронею? Тепер будь-який метал може бути бронею."
+    }
+  ],
+  "effects": [
+    "Changes the appearance of armor, shields, and staffs",
+    "Use ingots to embellish metal",
+    "Use congealed slime to embellish slime",
+    "Multi-use",
+    "Slotless"
+  ]
+}

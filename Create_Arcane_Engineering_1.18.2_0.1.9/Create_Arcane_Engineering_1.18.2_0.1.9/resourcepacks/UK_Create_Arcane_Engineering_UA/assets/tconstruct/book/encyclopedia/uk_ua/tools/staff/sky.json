@@ -1,0 +1,14 @@
+{
+  "tool": "tconstruct:sky_staff",
+  "text": [
+    {
+      "text": "Страж небесного соку — це високо покращувана варіація чарівної палички."
+    }
+  ],
+  "properties": [
+    "375 Durability",
+    "50% speed while using",
+    "5 Upgrade Slots",
+    "2 Ability Slots"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "tool": "tconstruct:plate_helmet",
+  "text": [
+    {
+      "text": "Тверді шоломи для твердих голів."
+    },
+    {
+      "text": "Добрий міцний шолом, щоб захистити твій мозок. Нічого не зможе зашкодити твоєму голові!",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "High Durability",
+    "High Armor",
+    "1 Upgrade Slots",
+    "4 Defense Slots",
+    "1 Ability Slot"
+  ]
+}

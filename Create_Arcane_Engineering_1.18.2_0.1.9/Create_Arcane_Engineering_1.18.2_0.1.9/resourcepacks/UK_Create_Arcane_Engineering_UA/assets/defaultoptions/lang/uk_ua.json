@@ -1,0 +1,5 @@
+{
+  "text.autoconfig.defaultoptions.title": "За замовчуванням параметри",
+  "text.autoconfig.defaultoptions.option.defaultDifficulty": "Рівень складності за замовчуванням",
+  "text.autoconfig.defaultoptions.option.lockDifficulty": "Заблокувати рівень складності"
+}

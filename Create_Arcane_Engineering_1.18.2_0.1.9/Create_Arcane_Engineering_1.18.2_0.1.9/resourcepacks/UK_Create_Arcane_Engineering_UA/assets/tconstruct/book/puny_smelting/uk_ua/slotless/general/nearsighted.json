@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:nearsighted",
+  "text": [
+    {
+      "text": "Ти повинен перейти на інструменти з граніту з часом."
+    }
+  ],
+  "effects": [
+    "Increases FOV on the held tool or worn armor",
+    "Multi-use",
+    "Slotless"
+  ]
+}

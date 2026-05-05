@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tconstruct:fire_protection",
+  "text": [
+    {
+      "text": "Надає +10% опірності до пошкоджень від вогню, наприклад, від лави або блейзів. Максимум 80% по всьому набору або 8 рівнів."
+    },
+    {
+      "text": "Зменшує тривалість вогню на 15% за кожен рівень найвищого елемента.",
+      "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Can apply levels incrementally",
+    "Requires 1 defense slot"
+  ]
+}

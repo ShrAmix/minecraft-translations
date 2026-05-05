@@ -1,0 +1,5 @@
+{
+  "ftbbackups2.backup.starting": "Починається резервне копіювання сервера",
+  "ftbbackups2.backup.failed": "Не вдалося створити резервну копію",
+  "ftbbackups2.backup.finished": "Створення резервної копії завершено"
+}

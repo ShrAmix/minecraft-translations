@@ -1,0 +1,19 @@
+{
+  "tool": "tconstruct:plate_chestplate",
+  "text": [
+    {
+      "text": "Якщо ти притискаєш голову до броні, ти можеш почути свій власний пульс, коли крепер вибухає позаду тебе. Чому ти її зняв?"
+    },
+    {
+      "text": "Висока броня з ланцюжковою основою для гнучкості, важко уявити щось більш охолоджене та захисне!",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "High Durability",
+    "High Armor",
+    "1 Upgrade Slots",
+    "4 Defense Slots",
+    "1 Ability Slot"
+  ]
+}

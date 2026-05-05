@@ -1,0 +1,19 @@
+{
+  "tool": "tconstruct:plate_boots",
+  "text": [
+    {
+      "text": "Що це за речі?"
+    },
+    {
+      "text": "Для того, щоб увійти в Нертер, потрібні міцні чоботи, щоб захистити ноги! Ніхто ніколи не думає про те, наскільки гарячою насправді є ця земля.",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "High Durability",
+    "High Armor",
+    "1 Upgrade Slots",
+    "4 Defense Slots",
+    "1 Ability Slot"
+  ]
+}

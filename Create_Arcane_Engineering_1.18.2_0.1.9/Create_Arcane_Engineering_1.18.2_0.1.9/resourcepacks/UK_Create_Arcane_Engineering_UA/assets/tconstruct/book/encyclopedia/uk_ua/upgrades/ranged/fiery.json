@@ -1,0 +1,15 @@
+{
+  "modifier_id": "tconstruct:fiery",
+  "text": [
+    {
+      "text": "Причиняє запалювання стріл, які спалюють цілі, влучаючи в них."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Can apply levels incrementally",
+    "Maximum of 5 levels",
+    "Does not work well with freezing",
+    "Requires 1 upgrade slot per level"
+  ]
+}

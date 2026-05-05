@@ -1,0 +1,17 @@
+{
+  "_comment": "========================================================================================================",
+  "block.thermal.rose_gold_block": "Блок рожевого золота",
+  "block.thermal.steel_block": "Блок сталі",
+  "item.thermal.rose_gold_coin": "Рожеве золоте монета",
+  "item.thermal.rose_gold_dust": "Смола рожевого золота",
+  "item.thermal.rose_gold_gear": "Рожеве золоте шестерня",
+  "item.thermal.rose_gold_ingot": "Рожеве золоте слиток",
+  "item.thermal.rose_gold_nugget": "Рожевий золотий шматочок",
+  "item.thermal.rose_gold_plate": "Рожеве золоте пластина",
+  "item.thermal.steel_coin": "Стальна монета",
+  "item.thermal.steel_dust": "Смола сталі",
+  "item.thermal.steel_gear": "Стальна шестерня",
+  "item.thermal.steel_ingot": "Стальний слиток",
+  "item.thermal.steel_nugget": "Стальний шматочок",
+  "item.thermal.steel_plate": "Стальна пластина"
+}

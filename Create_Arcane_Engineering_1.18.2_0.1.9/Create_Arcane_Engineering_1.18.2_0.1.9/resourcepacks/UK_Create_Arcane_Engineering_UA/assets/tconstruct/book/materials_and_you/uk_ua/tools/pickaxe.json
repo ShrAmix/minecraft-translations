@@ -1,0 +1,20 @@
+{
+  "tool": "tconstruct:pickaxe",
+  "text": [
+    {
+      "text": "Копалка — це точний інструмент для копання. Він ефективний на камені та рудах."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Він руйнує блоки, так?"
+    }
+  ],
+  "properties": [
+    "Basic mining tool",
+    "It's a pickaxe",
+    "Mines stone blocks and similar",
+    "Bonus piercing damage"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tool": "tconstruct:kama",
+  "text": [
+    {
+      "text": "Кама — це інструмент точного збирання, ефективний для рослин, павутиння та вовни."
+    },
+    {
+      "text": "Розширювачі збільшують радіус кола інструменту.",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "+1 Attack Damage",
+    "50% Attack Modifier",
+    "1.6 Attack Speed",
+    "Shears plants and animals",
+    "Small AOE Attack",
+    "Harvest plants"
+  ]
+}

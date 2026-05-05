@@ -1,0 +1,18 @@
+{
+  "modifier_id": "tconstruct:luck",
+  "text": [
+    {
+      "text": "Збільшує частоту падіння блоків (тільки інструменти збору врожаю) та монстрів. Щастя вимагає різних рецептів для кожного рівня, які застосовуються послідовно."
+    },
+    {
+      "text": "Леггінси можуть отримати один рівень щастя, що підвищує падіння від мобів та блоків при використанні інструментів тинкера.",
+      "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 3 levels",
+    "First level requires 1 ability slot",
+    "Second and third levels are slotless"
+  ]
+}

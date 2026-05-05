@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:swiftstrike",
+  "text": [
+    {
+      "text": "Такий приємний звук «тікання», коли ти розбиваєш аметист."
+    }
+  ],
+  "effects": [
+    "Increases attack speed",
+    "Multiple levels, each level increases speed a bit more",
+    "Requires 1 Upgrade Slot per level"
+  ]
+}

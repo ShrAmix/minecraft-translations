@@ -1,0 +1,20 @@
+{
+  "tool": "tconstruct:cleaver",
+  "text": [
+    {
+      "text": "Клевер — це зброя з високою шкодою та повільним обертом леза."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Відріж їхнім головам!",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "Strong Weapon",
+    "Slow Swinging",
+    "Starts with Severing II"
+  ]
+}

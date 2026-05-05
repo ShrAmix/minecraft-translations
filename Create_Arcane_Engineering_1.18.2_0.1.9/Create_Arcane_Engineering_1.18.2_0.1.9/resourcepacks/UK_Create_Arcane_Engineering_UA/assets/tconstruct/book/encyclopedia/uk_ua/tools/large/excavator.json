@@ -1,0 +1,21 @@
+{
+  "tool": "tconstruct:excavator",
+  "text": [
+    {
+      "text": "Екскаватор — це широке інструмент для копання, ефективне на грязі, гравії та піску в діапазоні 3x3."
+    },
+    {
+      "text": "Розширювачі змінюють ширину і висоту по черзі.",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "+1.5 Attack Damage",
+    "120% Attack Modifier",
+    "1.0 Attack Speed",
+    "30% Mining Modifier",
+    "375% Durability Modifier",
+    "Knockback II",
+    "Makes path"
+  ]
+}

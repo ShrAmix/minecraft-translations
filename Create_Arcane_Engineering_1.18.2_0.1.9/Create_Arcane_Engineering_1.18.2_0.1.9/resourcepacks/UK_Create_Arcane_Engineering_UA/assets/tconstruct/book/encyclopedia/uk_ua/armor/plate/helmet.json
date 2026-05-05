@@ -1,0 +1,16 @@
+{
+  "tool": "tconstruct:plate_helmet",
+  "text": [
+    {
+      "text": "Шолом з пластини — захисний шолом із високим рівнем захисту, але з низькою кількістю слотів для вдосконалення та високою кількістю слотів для оборони."
+    }
+  ],
+  "properties": [
+    "330 Durability",
+    "+2 Armor",
+    "+2 Toughness",
+    "1 Upgrade Slot",
+    "4 Defense Slots",
+    "1 Ability Slot"
+  ]
+}

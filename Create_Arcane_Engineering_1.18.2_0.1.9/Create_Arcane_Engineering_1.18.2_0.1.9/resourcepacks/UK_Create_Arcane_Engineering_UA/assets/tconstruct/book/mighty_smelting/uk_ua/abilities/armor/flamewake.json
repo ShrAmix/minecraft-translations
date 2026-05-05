@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:flamewake",
+  "text": [
+    {
+      "text": "Хто думав, що це добра ідея поєднати камінь для розпалювання та цеглу з черевиками? Тепер я не можу безпечно ступити ніде!"
+    }
+  ],
+  "effects": [
+    "Leaves fires where you walk",
+    "Area boosted by expanded",
+    "Maximum of 1 level",
+    "Requires 1 ability slot"
+  ]
+}

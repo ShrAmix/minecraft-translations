@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:knockback",
+  "text": [
+    {
+      "text": "Припини марно бігати і змуси своїх ворогів витрачати енергію, повертаючись до тебе."
+    }
+  ],
+  "effects": [
+    "Knocks back enemies on hit with any weapon",
+    "Multiple levels, increases force of knockback per level",
+    "Requires 1 Upgrade Slot per level"
+  ]
+}

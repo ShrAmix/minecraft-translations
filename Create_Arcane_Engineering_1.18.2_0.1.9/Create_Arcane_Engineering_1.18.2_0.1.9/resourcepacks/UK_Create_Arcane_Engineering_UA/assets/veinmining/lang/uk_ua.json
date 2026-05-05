@@ -1,0 +1,6 @@
+{
+  "enchantment.veinmining.vein_mining": "Видобування жил",
+  "enchantment.veinmining.vein_mining.desc": "Розбиває з'єднані блоки під час видобутку.",
+  "key.veinmining.category": "Видобування жил",
+  "key.veinmining.activate.desc": "Активувати видобування жил"
+}

@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:long_fall",
+  "text": [
+    {
+      "text": "Продовжуй і спробуй сісти на голову. Ха! Ти не зможеш!"
+    }
+  ],
+  "effects": [
+    "Prevents all fall damage",
+    "Requires Feather Falling IV",
+    "Requires 1 ability slot"
+  ]
+}

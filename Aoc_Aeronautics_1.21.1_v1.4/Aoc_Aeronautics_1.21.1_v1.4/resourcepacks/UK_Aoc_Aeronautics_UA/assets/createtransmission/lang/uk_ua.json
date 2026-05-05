@@ -1,0 +1,17 @@
+{
+  "block.createtransmission.andesite_encased_transmission_chain": "Андезитовий ланцюг передачі в оболонці",
+  "block.createtransmission.brass_encased_transmission_chain": "Латунний ланцюг передачі в оболонці",
+  "block.createtransmission.transmission_chain": "Ланцюг передачі",
+  "createtransmission.ponder.encasing.header": "Оболонка для ланцюгів передачі",
+  "createtransmission.ponder.encasing.text_1": "Ланцюги передачі також можна помістити в оболонку!",
+  "createtransmission.ponder.encasing.text_2": "Використовуйте гайковий ключ, щоб зняти оболонку.",
+  "createtransmission.ponder.usage.header": "Передача обертальної сили за допомогою ланцюгів",
+  "createtransmission.ponder.usage.text_1": "Ланцюговий привід в оболонці можна використовувати для передачі обертальної потужності між конвеєрами.",
+  "createtransmission.ponder.usage.text_2": "Але вони громіздкі...",
+  "createtransmission.ponder.usage.text_3": "Як альтернативу ви можете використовувати ланцюги передачі!\nВони тонкі і працюють лише на конвеєрах.",
+  "createtransmission.ponder.usage.text_4": "Вони можуть живити конвеєр у різних положеннях.",
+  "createtransmission.ponder.usage.text_5": "Горизонтально...",
+  "createtransmission.ponder.usage.text_6": "...під прямим кутом...",
+  "createtransmission.ponder.usage.text_7": "...і вертикально.",
+  "creativeTab.createtransmission.main": "Create: Transmission"
+}

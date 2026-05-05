@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tconstruct:dragonborn",
+  "text": [
+    {
+      "text": "Довахко криф ділос ахрк харк."
+    },
+    {
+      "text": "Тінкер, ти не можеш читати драконячу мову? Нонсенс, що вони вчать сьогодні? Це означає, що літаючі дракони смертельні і захищені.",
+      "paragraph": true
+    }
+  ],
+  "effects": [
+    "Increases protection and attack damage when airborn",
+    "Multiple levels, each level further increases protection and damage",
+    "Requires 1 defense slot"
+  ]
+}

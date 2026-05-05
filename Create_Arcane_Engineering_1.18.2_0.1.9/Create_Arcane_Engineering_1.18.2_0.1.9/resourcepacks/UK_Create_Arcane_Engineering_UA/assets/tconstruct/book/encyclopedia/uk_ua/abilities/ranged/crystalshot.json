@@ -1,0 +1,16 @@
+{
+  "modifier_id": "tconstruct:crystalshot",
+  "text": [
+    {
+      "text": "Замість використання боєприпасів з інвентарю, лук виробляє власні кристальні стрілки."
+    },
+    {
+      "text": "Інструмент отримує додаткову шкоду у 4 одиниці на кожну випущену стрілку."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 1 level",
+    "Requires 1 ability slot"
+  ]
+}

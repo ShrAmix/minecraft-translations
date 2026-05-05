@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:boundless",
+  "text": [
+    {
+      "text": "Збільшує межу від модифікаторів, таких як захист, драконороджений або шулкінг, з 80% до 90%. Якщо застосовано на двох частинах, далі збільшує межу з 90% до 95%."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 1 level",
+    "Requires 1 ability slot per level"
+  ]
+}

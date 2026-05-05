@@ -1,0 +1,7 @@
+{
+  "text.e4mc_minecraft.domainAssigned": "World is being shared on: [%s]",
+  "text.e4mc_minecraft.closeServer": "World sharing stopped!",
+  "text.e4mc_minecraft.serverAlreadyClosed": "World not publicly hosted",
+  "text.e4mc_minecraft.clickToStop": " (Click here to stop world sharing)",
+  "text.e4mc_minecraft.error": "An error occurred in Luna"
+}

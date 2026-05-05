@@ -1,0 +1,14 @@
+{
+  "itemGroup.create_chocolate_fountain.base": "Create Chocolate Fountain",
+  "block.create_chocolate_fountain.chocolate_fountain": "Шоколадний фонтан",
+  "create_chocolate_fountain.ponder.chocolate_fountain.header": "Встановлення шоколадних фонтанів",
+  "create_chocolate_fountain.ponder.chocolate_fountain.text_1": "Шоколадні фонтани можна наповнювати шоколадом знизу",
+  "create_chocolate_fountain.ponder.chocolate_fountain.text_2": "Сигнал редстоуну вимикає фонтан",
+  "create_chocolate_fountain.ponder.chocolate_fountain_range.header": "Використання шоколадних фонтанів",
+  "create_chocolate_fountain.ponder.chocolate_fountain_range.text_1": "Шоколадні фонтани мають радіус дії 10 блоків за замовчуванням",
+  "create_chocolate_fountain.ponder.chocolate_fountain_range.text_2": "Гравці в межах цього радіуса автоматично отримують шоколад",
+  "create_chocolate_fountain.ponder.chocolate_fountain_bees.header": "Заспокоєння бджіл медом",
+  "create_chocolate_fountain.ponder.chocolate_fountain_bees.text_1": "Шоколадні фонтани також працюють з медом",
+  "create_chocolate_fountain.ponder.chocolate_fountain_bees.text_2": "Бджоли не ставатимуть агресивними біля шоколадного фонтану",
+  "create_chocolate_fountain.ponder.chocolate_fountain_bees.text_3": "Вже розлючені бджоли заспокояться, потрапивши в радіус дії фонтану"
+}

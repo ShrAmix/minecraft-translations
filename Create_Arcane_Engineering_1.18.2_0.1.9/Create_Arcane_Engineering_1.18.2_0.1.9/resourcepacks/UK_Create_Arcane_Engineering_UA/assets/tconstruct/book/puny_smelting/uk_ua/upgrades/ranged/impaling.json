@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tconstruct:impaling",
+  "text": [
+    {
+      "text": "Я був би досить шокований, якби ти пронизав мене за допомогою пронизування."
+    },
+    {
+      "text": "Не плутати з противодним",
+      "paragraph": true
+    }
+  ],
+  "effects": [
+    "Increases damage of projectiles fired from crossbows",
+    "Multiple levels, each level increases damage further",
+    "Requires 1 Upgrade Slot per level"
+  ]
+}

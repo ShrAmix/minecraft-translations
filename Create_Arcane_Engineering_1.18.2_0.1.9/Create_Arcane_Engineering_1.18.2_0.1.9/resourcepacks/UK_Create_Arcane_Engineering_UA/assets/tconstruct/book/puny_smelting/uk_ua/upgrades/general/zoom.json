@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:zoom",
+  "text": [
+    {
+      "text": "Я бачу з мого маленького ока щось віддалене у величезній відстані."
+    }
+  ],
+  "effects": [
+    "Allows you to zoom in",
+    "Maximum of 1 level",
+    "Requires 1 upgrade slot"
+  ]
+}

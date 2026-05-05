@@ -1,0 +1,14 @@
+{
+  "title": "Інтерфейс Смелтері",
+  "image": {
+    "file": "tconstruct:book/images/smeltergui.png",
+    "width": 179,
+    "height": 74
+  },
+  "text": [
+    {
+      "text": "Ваш базовий інтерфейс Смелтері. Нічого більше, нічого менше.",
+      "paragraph": true
+    }
+  ]
+}

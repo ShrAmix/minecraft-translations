@@ -1,0 +1,19 @@
+{
+  "block.sliceanddice.fertilizer": "Добриво",
+  "block.sliceanddice.slicer": "Слайсер",
+  "block.sliceanddice.sprinkler": "Розпилювач",
+  "block.sliceanddice.wet_air": "Вологе повітря",
+  "fluid.sliceanddice.fertilizer": "Рідке добриво",
+  "item.sliceanddice.fertilizer_bucket": "Відро рідкого добрива",
+  "sliceanddice.gui.contraptions.wrong_direction": "Здається, цей %s обертається у _неправильному напрямку_.",
+  "sliceanddice.ponder.slicer.header": "Нарізка слайсером",
+  "sliceanddice.ponder.slicer.text_1": "Клацніть правою кнопкою миші відповідним інструментом",
+  "sliceanddice.ponder.slicer.text_2": "Слайсер також може працювати з басейном",
+  "sliceanddice.ponder.sprinkler/intro.header": "Розпилення зверху",
+  "sliceanddice.ponder.sprinkler/intro.text_1": "Розмістіть розпилювач під трубою",
+  "sliceanddice.ponder.sprinkler/uses.header": "Типи розпилення",
+  "sliceanddice.ponder.sprinkler/uses.text_1": "Різні рідини також по-різному впливають на сутності",
+  "sliceanddice.recipe.assembly.slicer": "Нарізати слайсером",
+  "sliceanddice.recipe.slicer": "Слайсер",
+  "sliceanddice.tooltip.rotationDirection": "Напрямок обертання"
+}

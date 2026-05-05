@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:protection",
+  "text": [
+    {
+      "text": "Надає +5% стійкості до всіх типів ушкоджень на кожну частину з цим модифікатором. Максимум 80% для всього набору, включаючи інші типи захисту."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 1 level",
+    "Requires 1 ability slot per level"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "tool": "tconstruct:ichor_staff",
+  "text": [
+    {
+      "text": "Ічор — рідкісна речовина, але вона дозволяє виготовляти деякі з найсильніших чарівних паличок."
+    }
+  ],
+  "properties": [
+    "High Durability",
+    "2 Upgrade Slots",
+    "3 Ability Slots"
+  ]
+}

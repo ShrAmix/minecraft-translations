@@ -1,0 +1,11 @@
+{
+  "item.idas.music_disc_slither": "Музична платівка",
+  "item.idas.music_disc_slither.desc": "Cama - Slither",
+  "item.idas.music_disc_calidum": "Музична платівка",
+  "item.idas.music_disc_calidum.desc": "Cama - calidum",
+  "item.idas.disc_fragment_slither.desc": "Фрагмент платівки Slither",
+  "item.idas.disc_fragment_slither": "Фрагмент платівки Slither",
+  "jukebox_song.idas.slither": "Cama - Slither",
+  "jukebox_song.idas.calidum": "Cama - calidum",
+  "itemGroup.idas": "IDAS"
+}

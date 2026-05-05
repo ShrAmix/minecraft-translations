@@ -1,0 +1,7 @@
+{
+  "text.e4mc_minecraft.domainAssigned": "Світ доступний за адресою: [%s]",
+  "text.e4mc_minecraft.closeServer": "Спільний доступ до світу зупинено!",
+  "text.e4mc_minecraft.serverAlreadyClosed": "Світ не є публічно доступним",
+  "text.e4mc_minecraft.clickToStop": " (Натисніть сюди, щоб зупинити спільний доступ до світу)",
+  "text.e4mc_minecraft.error": "Виникла помилка в Luna"
+}

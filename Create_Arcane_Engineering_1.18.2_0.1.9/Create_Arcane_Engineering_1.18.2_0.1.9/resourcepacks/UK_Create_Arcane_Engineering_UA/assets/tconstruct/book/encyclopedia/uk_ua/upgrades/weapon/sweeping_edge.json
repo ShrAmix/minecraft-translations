@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:sweeping_edge",
+  "text": [
+    {
+      "text": "Збільшує кількість шкоди, завданої ударом піки. Причина тому, що інструмент завдає 25% основної шкоди на рівні 1, 50% шкоди на рівні 2 і 75% на рівні 3."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Can apply levels incrementally",
+    "Maximum of 3 levels",
+    "Requires 1 upgrade slot per level"
+  ]
+}

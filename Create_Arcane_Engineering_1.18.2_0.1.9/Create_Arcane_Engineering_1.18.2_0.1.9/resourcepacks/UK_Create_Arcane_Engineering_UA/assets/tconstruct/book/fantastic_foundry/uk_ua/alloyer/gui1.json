@@ -1,0 +1,14 @@
+{
+  "title": "Інтерфейс користувача Алойера",
+  "image": {
+    "file": "tconstruct:book/images/alloyergui.png",
+    "width": 166,
+    "height": 78
+  },
+  "text": [
+    {
+      "text": "Ваш базовий інтерфейс користувача Алойера, за винятком того, що може бути більше або менше",
+      "paragraph": true
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "modifier_id": "tconstruct:harmonious",
+  "text": [
+    {
+      "text": "Музика добра для душі та для твого інструменту. Може, у твого інструменту є душа?"
+    }
+  ],
+  "effects": [
+    "Adds an upgrade slot",
+    "Single Use"
+  ]
+}

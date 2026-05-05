@@ -1,0 +1,17 @@
+{
+  "tool": "tconstruct:hand_axe",
+  "text": [
+    {
+      "text": "Ручний топор — базове інструмент для рубання. Він ефективний проти деревини та листя. Він може використовуватися як зброя, або як інструмент, або як і те, і інше. Вибір за вами."
+    },
+    {
+      "text": "\n"
+    }
+  ],
+  "properties": [
+    "Basic mining tool",
+    "Effective on wood",
+    "Breaks leaves really fast",
+    "Strips woods logs with ease"
+  ]
+}

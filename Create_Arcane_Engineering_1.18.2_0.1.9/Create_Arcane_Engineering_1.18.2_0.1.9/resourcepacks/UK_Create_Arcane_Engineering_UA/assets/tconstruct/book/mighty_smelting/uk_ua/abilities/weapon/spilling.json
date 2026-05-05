@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tconstruct:spilling",
+  "text": [
+    {
+      "text": "Досить огидно, що твій інструмент протікає. Але дуже ефективний!"
+    },
+    {
+      "text": "Правий клік на резервуар з інструментом його заповнює",
+      "paragraph": true
+    }
+  ],
+  "effects": [
+    "Drains tank on attacking",
+    "Various effects based on fluid, including fire and poison",
+    "Requires 1 Ability Slot per level"
+  ]
+}

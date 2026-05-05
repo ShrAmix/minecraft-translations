@@ -1,0 +1,17 @@
+{
+  "tool": "tconstruct:pickaxe",
+  "text": [
+    {
+      "text": "Копальня — це точний інструмент для видобутку, ефективний для каменю, металу та руд."
+    },
+    {
+      "text": "Розширювачі змінюють глибину та висоту по черзі.",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "+0.5 Attack Damage",
+    "1.2 Attack Speed",
+    "Piercing I"
+  ]
+}

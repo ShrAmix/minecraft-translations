@@ -1,0 +1,18 @@
+{
+  "modifier_id": "tconstruct:magnetic",
+  "text": [
+    {
+      "text": "Після видобутку блоків або атаки мобів (для інструментів) або пасивного впливу (для броні), притягує предмети в радіусі 3 блоків до гравця, ігноруючи гравітацію."
+    },
+    {
+      "text": "Кожен рівень додає ще один додатковий блок діапазону та збільшує швидкість.",
+      "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 1 level for armor per piece",
+    "Maximum of 5 levels",
+    "Requires 1 upgrade slot per level"
+  ]
+}

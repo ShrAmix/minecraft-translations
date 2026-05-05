@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:gilded",
+  "text": [
+    {
+      "text": "Це спеціальна пропозиція 2+1!"
+    }
+  ],
+  "effects": [
+    "Trades 1 ability slot for 2 upgrade slots",
+    "Multiple levels",
+    "Requires 1 Ability Slot"
+  ]
+}

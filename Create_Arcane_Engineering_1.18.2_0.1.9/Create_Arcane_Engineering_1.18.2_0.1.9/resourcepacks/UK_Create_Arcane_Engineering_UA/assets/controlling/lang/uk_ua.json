@@ -1,0 +1,15 @@
+{
+  "options.search": "Пошук",
+  "options.showAll": "Показати все",
+  "options.showConflicts": "Показати конфлікти",
+  "options.showNone": "Показати не пов'язані",
+  "options.availableKeys": "Доступні ключі",
+  "options.sort": "Сортування",
+  "options.category": "Категорія",
+  "options.key": "Ключ",
+  "options.sortNone": "Нічого",
+  "options.sortAZ": "А-Я",
+  "options.sortZA": "Я-А",
+  "options.toggleFree": "Переключити вільний режим",
+  "options.confirmReset": "Підтвердити?"
+}

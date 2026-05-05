@@ -1,0 +1,20 @@
+{
+  "tool": "tconstruct:travelers_shield",
+  "text": [
+    {
+      "text": "На жаль, робить поганий фрісбі."
+    },
+    {
+      "text": "Шильди важливі для захисту себе від атак у світі, краще взяти один із собою під час подорожей.",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "Low Durability",
+    "Low Block Potential",
+    "High speed while shielding",
+    "3 Upgrade Slots",
+    "2 Defense Slots",
+    "1 Ability Slot"
+  ]
+}

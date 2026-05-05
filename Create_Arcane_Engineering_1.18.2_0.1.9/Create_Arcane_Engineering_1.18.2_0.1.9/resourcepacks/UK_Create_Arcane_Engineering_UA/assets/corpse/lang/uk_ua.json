@@ -1,0 +1,21 @@
+{
+  "entity.corpse.corpse": "Тіло",
+  "entity.corpse.corpse_of": "Тіло %s",
+  "button.corpse.previous": "Назад",
+  "button.corpse.next": "Далі",
+  "gui.corpse.page": "%s з %s",
+  "gui.corpse.death_history.title": "Історія смертей гравців",
+  "gui.corpse.death_history.name": "Ім'я",
+  "gui.corpse.death_history.date_format": "ррр/мм/дд hh:mm:ss",
+  "gui.corpse.death_history.dimension": "Дименсія",
+  "gui.corpse.death_history.location": "Місце",
+  "button.corpse.show_items": "Показати предмети",
+  "key.corpse.death_history": "Відкрити історію смертей гравців",
+  "message.corpse.no_death_history": "Немає історії смертей гравців",
+  "chat.corpse.teleport_death_location": "Перенести до місця смерті %s",
+  "tooltip.corpse.teleport": "Перенести",
+  "tooltip.corpse.death_date": "Померло %s",
+  "tooltip.corpse.item_count": "Вмістить %s стека(ів)",
+  "button.corpse.transfer_items": "Перенести предмети",
+  "button.corpse.additional_items": "Додаткові предмети"
+}

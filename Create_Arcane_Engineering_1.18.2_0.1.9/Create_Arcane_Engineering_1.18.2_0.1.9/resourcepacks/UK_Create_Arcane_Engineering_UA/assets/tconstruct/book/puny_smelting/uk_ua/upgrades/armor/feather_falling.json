@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:feather_falling",
+  "text": [
+    {
+      "text": "Легший за пір'я, але більш ніж удвічі смертельніший."
+    }
+  ],
+  "effects": [
+    "Reduces fall damage",
+    "Multiple levels, each level decreases fall damage further",
+    "Requires 1 Upgrade Slot per level"
+  ]
+}

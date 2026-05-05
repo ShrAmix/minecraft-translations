@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:killager",
+  "text": [
+    {
+      "text": "Найновіша метал-група Minecraft. Скоро у селі поруч з вами."
+    }
+  ],
+  "effects": [
+    "Increases damage against villagers and illagers",
+    "Multiple levels, each level increases damage further",
+    "Requires 1 Upgrade Slot per level"
+  ]
+}

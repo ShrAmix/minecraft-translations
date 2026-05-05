@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:impaling",
+  "text": [
+    {
+      "text": "Дозволяє стрілам продовжувати рух після пошкодження першого цілі, потенційно влучаючи у кілька цілей. Може проходити через одну сутність на рівні."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 4 levels",
+    "Requires 1 upgrade slot per level"
+  ]
+}

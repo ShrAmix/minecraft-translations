@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tconstruct:projectile_protection",
+  "text": [
+    {
+      "text": "Надає +10% опірність пошкодженню від променевих атак, таких як стріли від скелетів. Обмежено до 80% у цілому для всього набору або 8 рівнів."
+    },
+    {
+      "text": "Зменшує видимість усіх мобів на 5% за кожен рівень найвищого рівня деталі.",
+      "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Can apply levels incrementally",
+    "Requires 1 defense slot"
+  ]
+}

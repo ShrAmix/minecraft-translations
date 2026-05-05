@@ -1,0 +1,17 @@
+{
+  "tool": "tconstruct:travelers_chestplate",
+  "text": [
+    {
+      "text": "Травелер'с Вест — це збалансована броня для грудей, що забезпечує середню захист і має середні слоти для покращення та оборони."
+    }
+  ],
+  "properties": [
+    "160 Durability",
+    "+5 Armor",
+    "55% Unarmed Attack",
+    "3 Upgrade Slots",
+    "2 Defense Slots",
+    "1 Ability Slot",
+    "Insulated"
+  ]
+}

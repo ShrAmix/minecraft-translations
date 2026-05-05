@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:power",
+  "text": [
+    {
+      "text": "Збільшує шкоду киданих предметів на 0.5 за рівень."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Can apply levels incrementally",
+    "Maximum of 5 levels",
+    "Requires 1 upgrade slot per level"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "modifier_id": "tconstruct:rebalanced",
+  "text": [
+    {
+      "text": "Баланс влади — це вага миру. — Томас Пейн."
+    },
+    {
+      "text": "Насправді, баланс влади — це вага дракона. Стародавнє золоте оздоблення дивовижно близьке до цього. — Трул М'Гон.",
+      "paragraph": true
+    }
+  ],
+  "effects": [
+    "Adds an modifier slot",
+    "Slot type is determined by the recipe",
+    "Greedy are penalized",
+    "Single Use"
+  ]
+}

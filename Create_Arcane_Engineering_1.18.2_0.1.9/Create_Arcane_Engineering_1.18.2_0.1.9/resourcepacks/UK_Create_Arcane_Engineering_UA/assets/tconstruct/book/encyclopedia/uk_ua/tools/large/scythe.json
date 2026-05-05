@@ -1,0 +1,21 @@
+{
+  "tool": "tconstruct:scythe",
+  "text": [
+    {
+      "text": "Сікла — це широкий інструмент для збирання врожаю, ефективний для рослин або монстрів у діапазоні 3x3x3."
+    },
+    {
+      "text": "Розширювачі змінюють ширину/висоту та глибину, тоді як шовковистий надає можливість масового обрізання.",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "+1 Attack Damage",
+    "0.7 Attack Speed",
+    "45% Mining Modifier",
+    "250% Durability Modifier",
+    "AOE Attack",
+    "Tills dirt",
+    "Harvest plants"
+  ]
+}

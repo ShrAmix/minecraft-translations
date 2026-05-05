@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:silky",
+  "text": [
+    {
+      "text": "Причиняє, що видобуті блоки падають самі по собі без змін. Для мечів, топорів-чистильників, кос і кинджалів, також дозволяє стригти мобів."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 1 level",
+    "Requires 1 ability slot"
+  ]
+}

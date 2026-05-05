@@ -1,0 +1,11 @@
+{
+  "item.integrated_stronghold.music_disc_sight": "Музична платівка",
+  "item.integrated_stronghold.music_disc_sight.desc": "Cama - sight",
+  "item.integrated_stronghold.music_disc_forlorn": "Музична платівка",
+  "item.integrated_stronghold.music_disc_forlorn.desc": "Cama - Forlorn",
+  "jukebox_song.integrated_stronghold.sight": "Cama - sight",
+  "jukebox_song.integrated_stronghold.forlorn": "Cama - Forlorn",
+  "item.integrated_stronghold.disc_fragment_sight": "Фрагмент платівки",
+  "item.integrated_stronghold.disc_fragment_sight.desc": "Музична платівка - sight",
+  "itemGroup.integrated_stronghold": "Integrated Stronghold"
+}

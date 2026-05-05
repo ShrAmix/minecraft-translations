@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:punch",
+  "text": [
+    {
+      "text": "Збільшує силу відштовхування, яку завдають стріли на кожному рівні."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 5 levels",
+    "Requires 1 upgrade slot per level"
+  ]
+}

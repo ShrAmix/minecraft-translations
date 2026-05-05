@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:worldbound",
+  "text": [
+    {
+      "text": "Вогонь більше не ворог, твій інструмент комфортно почувається у світі навколо."
+    }
+  ],
+  "effects": [
+    "Crude version of netherite",
+    "Grants immunity to external damage but no strength increase",
+    "Single Use",
+    "Requires no slot"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:double_jump",
+  "text": [
+    {
+      "text": "Стрибки кроликом підвищують ваші навички та роблять вас набагато кращим у грі. Не забувайте додавати лежання для максимального ефекту."
+    }
+  ],
+  "effects": [
+    "Allows an extra jump",
+    "Multiple levels, each level gives an extra jump",
+    "Requires 1 ability slot"
+  ]
+}

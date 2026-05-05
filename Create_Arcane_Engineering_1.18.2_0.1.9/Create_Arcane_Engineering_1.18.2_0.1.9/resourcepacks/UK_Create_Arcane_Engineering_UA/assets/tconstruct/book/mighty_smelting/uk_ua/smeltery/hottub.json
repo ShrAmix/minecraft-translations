@@ -1,0 +1,13 @@
+{
+  "title": "Гаряча ванна",
+  "image": {
+    "file": "tconstruct:book/images/hottub.png",
+    "width": 120,
+    "height": 120
+  },
+  "text": [
+    {
+      "text": "Хочеш приєднатися до мене?"
+    }
+  ]
+}

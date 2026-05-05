@@ -1,0 +1,20 @@
+{
+  "tool": "tconstruct:plate_shield",
+  "text": [
+    {
+      "text": "Блискучий синій щит для блискучих синіх пригод."
+    },
+    {
+      "text": "Мощний щит для блокування найсильніших атак.",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "High Durability",
+    "High Block Potential",
+    "Low speed while shielding",
+    "1 Upgrade Slots",
+    "4 Defense Slots",
+    "1 Ability Slot"
+  ]
+}

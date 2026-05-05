@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:zoom",
+  "text": [
+    {
+      "text": "Дозволяє наближати поле зору під час краху та натискання клавіші шолома або взаємодії з утримуваним інструментом."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 1 level",
+    "Requires 1 upgrade slot"
+  ]
+}

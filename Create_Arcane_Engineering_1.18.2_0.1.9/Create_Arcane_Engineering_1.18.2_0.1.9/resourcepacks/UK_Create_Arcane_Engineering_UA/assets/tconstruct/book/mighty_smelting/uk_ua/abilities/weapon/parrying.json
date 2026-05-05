@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:parrying",
+  "text": [
+    {
+      "text": "Використовуй свої божевільні навички ніндзя, щоб відхиляти атаки в повітрі."
+    }
+  ],
+  "effects": [
+    "Allows daggers to briefly block after attacking",
+    "Single Level",
+    "Requires 1 Ability Slot"
+  ]
+}

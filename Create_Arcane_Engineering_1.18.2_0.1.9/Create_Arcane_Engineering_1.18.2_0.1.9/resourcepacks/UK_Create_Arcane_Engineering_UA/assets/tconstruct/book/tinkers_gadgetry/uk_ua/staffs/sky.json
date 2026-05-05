@@ -1,0 +1,13 @@
+{
+  "tool": "tconstruct:sky_staff",
+  "text": [
+    {
+      "text": "Скляні палички залишають багато місця для модифікацій."
+    }
+  ],
+  "properties": [
+    "Low Durability",
+    "5 Upgrade Slots",
+    "2 Ability Slots"
+  ]
+}

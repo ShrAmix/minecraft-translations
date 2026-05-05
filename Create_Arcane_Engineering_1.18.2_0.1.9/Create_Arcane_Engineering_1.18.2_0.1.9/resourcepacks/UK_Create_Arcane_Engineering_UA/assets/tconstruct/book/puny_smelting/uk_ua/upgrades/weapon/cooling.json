@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:cooling",
+  "text": [
+    {
+      "text": "Найкращий спосіб перемогти вогнища пекла - замерзити їх, загасивши вічне полум'я."
+    }
+  ],
+  "effects": [
+    "Increases damage to fire based creatures",
+    "Multiple levels, each level increases damage further",
+    "Requires 1 Upgrade Slot per level"
+  ]
+}

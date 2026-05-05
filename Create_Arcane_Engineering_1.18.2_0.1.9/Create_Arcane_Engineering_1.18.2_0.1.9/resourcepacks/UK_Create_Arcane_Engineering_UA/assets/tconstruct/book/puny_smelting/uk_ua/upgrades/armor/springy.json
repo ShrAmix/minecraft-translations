@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:springy",
+  "text": [
+    {
+      "text": "Відходять твої вороги, даючи тобі достатньо часу, щоб повернутися і втекти, або вилікуватися."
+    }
+  ],
+  "effects": [
+    "Provides a chance to knockback attackers",
+    "Multiple levels, each level further increases the chance to knockback",
+    "Requires 1 upgrade slot per level"
+  ]
+}

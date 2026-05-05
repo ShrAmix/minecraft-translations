@@ -1,0 +1,17 @@
+{
+  "tool": "tconstruct:travelers_boots",
+  "text": [
+    {
+      "text": "Чоботи мандрівника — це збалансовані чоботи з низькою захистом та середніми слотами для покращення і захисту."
+    }
+  ],
+  "properties": [
+    "130 Durability",
+    "+1 Armor",
+    "3 Upgrade Slots",
+    "2 Defense Slots",
+    "1 Ability Slot",
+    "Insulated",
+    "Can walk on powdered snow"
+  ]
+}

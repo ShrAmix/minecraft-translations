@@ -1,0 +1,20 @@
+{
+  "modifier_id": "tconstruct:antiaquatic",
+  "text": [
+    {
+      "text": "Вороги моря тремтять від страху перед тими, хто володіє зброєю з цією рисою."
+    },
+    {
+      "text": "Звернення: Ви жахлива людина, якщо використовуєте це на рибі, черепахах, дельфінах або будь-якому іншому мирному морському житті."
+    },
+    {
+      "text": "Не плутати з пронизуванням",
+      "paragraph": true
+    }
+  ],
+  "effects": [
+    "Increases damage to sea creatures",
+    "Multiple levels, each level increases damage further",
+    "Requires 1 Upgrade Slot per level"
+  ]
+}

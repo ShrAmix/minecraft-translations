@@ -1,0 +1,14 @@
+{
+  "block.torchmaster.megatorch": "Мегаторча",
+  "block.torchmaster.megatorch.tooltip": "Запобігає природному появленню ворожих монстрів у великому радіусі навколо торчі",
+  "block.torchmaster.dreadlamp": "Страхітлива ліхтарня",
+  "block.torchmaster.dreadlamp.tooltip": "Запобігає природному появленню пасивних тварин, таких як кальмари, кажани або оцелоти, у великому радіусі навколо ліхтарні",
+  "block.torchmaster.feral_flare_lantern": "Ліхтарня дикого спалаху",
+  "block.torchmaster.feral_flare_lantern.tooltip": "Створює невидимі світла",
+  "block.torchmaster.invisible_light": "Невидиме світло",
+  "item.torchmaster.frozen_pearl": "Заморожена перлина",
+  "item.torchmaster.frozen_pearl.tooltip": "Очищає залишкові світла від ліхтарні дикого спалаху",
+  "command.torchmaster.torch_list.completed": "Торчі були записані до лог-файлу",
+  "command.torchmaster.entity_dump.completed": "Сутності були записані до лог-файлу",
+  "itemGroup.torchmaster": "Torchmaster"
+}

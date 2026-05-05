@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:pockets",
+  "text": [
+    {
+      "text": "Надає додаткові 18 слотів, до яких можна отримати доступ, повзаючись і натискаючи клавішу взаємодії для штанів або під час утримання штанів."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "No max level",
+    "Requires 1 ability slot"
+  ]
+}

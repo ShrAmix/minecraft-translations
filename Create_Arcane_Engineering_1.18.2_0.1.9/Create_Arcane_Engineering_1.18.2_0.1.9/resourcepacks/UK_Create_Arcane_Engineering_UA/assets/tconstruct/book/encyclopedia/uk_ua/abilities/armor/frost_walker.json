@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:frost_walker",
+  "text": [
+    {
+      "text": "Причиняє замерзання води при натисканні на неї. Область впливу збільшується при розширенні."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 1 level",
+    "Requires 1 ability slot"
+  ]
+}

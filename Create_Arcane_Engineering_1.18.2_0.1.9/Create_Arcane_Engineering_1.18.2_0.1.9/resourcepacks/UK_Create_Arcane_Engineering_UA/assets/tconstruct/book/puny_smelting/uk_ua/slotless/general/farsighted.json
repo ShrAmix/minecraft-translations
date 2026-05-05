@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:farsighted",
+  "text": [
+    {
+      "text": "Маньюлін — чудовий матеріал, але є багато інших хороших матеріалів, які легше отримати. Приділіть трохи часу і спробуйте їх перед тим, як поспішати до кінця."
+    }
+  ],
+  "effects": [
+    "Decreases FOV on the held tool or worn armor",
+    "Multi-use",
+    "Slotless"
+  ]
+}

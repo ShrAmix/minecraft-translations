@@ -1,0 +1,16 @@
+{
+  "block.glassential.glass_dark_ethereal": "Тінований ефірний скло",
+  "block.glassential.glass_dark_ethereal_reverse": "Тінований зворотний ефірний скло",
+  "block.glassential.glass_ethereal": "Ефірне скло",
+  "block.glassential.glass_ethereal_reverse": "Зворотне ефірне скло",
+  "block.glassential.glass_ghostly": "Примарне скло",
+  "block.glassential.glass_light": "Лумінесцентне скло",
+  "block.glassential.glass_redstone": "Скло редстону",
+  "tooltip.glassential.dark": "Блокує світло",
+  "tooltip.glassential.ethereal": "Не твердий для гравців",
+  "tooltip.glassential.ethereal_reverse": "Твердий лише для гравців",
+  "tooltip.glassential.ghostly": "Не твердий для істот",
+  "tooltip.glassential.light": "Випромінює світло",
+  "tooltip.glassential.redstone": "Випромінює сигнал редстону",
+  "itemGroup.glassential.items": "Glassential"
+}

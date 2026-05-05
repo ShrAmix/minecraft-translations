@@ -1,0 +1,11 @@
+{
+  "container.enchant.experience.many": "%s очок досвіду",
+  "container.enchant.experience.one": "1 очко досвіду",
+  "container.enchant.reroll": "Перекинути зачарування",
+  "container.enchant.reroll.many": "%s аметистових уламків",
+  "container.enchant.reroll.one": "1 аметистовий уламок",
+  "container.invalidBlock": "Не вдається відкрити. Зламайте та поставте знову, щоб використовувати.",
+  "tag.block.easymagic.unaltered_enchanting_tables": "Незмінені столи зачарувань",
+  "tag.item.easymagic.enchanting_catalysts": "Каталізатори зачарування",
+  "tag.item.easymagic.reroll_catalysts": "Каталізатори перекидання"
+}

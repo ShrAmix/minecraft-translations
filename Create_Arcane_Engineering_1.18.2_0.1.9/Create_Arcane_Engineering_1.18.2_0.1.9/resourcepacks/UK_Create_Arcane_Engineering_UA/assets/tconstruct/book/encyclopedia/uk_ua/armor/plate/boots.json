@@ -1,0 +1,16 @@
+{
+  "tool": "tconstruct:plate_boots",
+  "text": [
+    {
+      "text": "Пластикові чоботи — захисні чоботи з високою захистом, а також низькою кількістю слотів для оновлення і високою кількістю слотів для захисту."
+    }
+  ],
+  "properties": [
+    "390 Durability",
+    "+2 Armor",
+    "+2 Toughness",
+    "1 Upgrade Slot",
+    "4 Defense Slots",
+    "1 Ability Slot"
+  ]
+}

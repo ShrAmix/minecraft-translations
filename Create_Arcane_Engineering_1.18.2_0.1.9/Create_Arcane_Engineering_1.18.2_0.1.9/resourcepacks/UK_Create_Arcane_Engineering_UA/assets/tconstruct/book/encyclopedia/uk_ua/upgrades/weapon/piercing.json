@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:piercing",
+  "text": [
+    {
+      "text": "Додає +1 пошкодження від пробивання на рівень, за рахунок -0.5 звичайного пошкодження на рівень. Загальний прибуток +0.5 пошкодження на рівень."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Can apply levels incrementally",
+    "Maximum of 5 levels",
+    "Requires 1 upgrade slot per level"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:tank",
+  "text": [
+    {
+      "text": "Ця малюка має гармату калібром 120 мм, встановлену машинну гвинтівку... чекайте, це не той тип танка? Це розчаровує, я б краще отримав транспортний засіб."
+    }
+  ],
+  "effects": [
+    "Increases the tank size of the tool",
+    "Tool becomes a portable fluid container",
+    "Multiple levels, each level increases tank size further",
+    "Requires 1 Upgrade Slot per level"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "tool": "tconstruct:plate_leggings",
+  "text": [
+    {
+      "text": "Моя нога, моя нога."
+    },
+    {
+      "text": "Ці штани забезпечують високу захист для всіх ваших потреб бою!",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "High Durability",
+    "High Armor",
+    "1 Upgrade Slots",
+    "4 Defense Slots",
+    "1 Ability Slot"
+  ]
+}

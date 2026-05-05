@@ -1,0 +1,20 @@
+{
+  "tool": "tconstruct:slime_chestplate",
+  "text": [
+    {
+      "text": "Слизька елітра — це найновіша технологія польоту."
+    },
+    {
+      "text": "Створено шляхом заливання ендер-слизу на елітру, ці крила також можна відремонтувати за допомогою фантомних мембран.",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "672 Durability",
+    "40% Unarmed Attack",
+    "5 Upgrade Slots",
+    "0 Defense Slots",
+    "1 Ability Slot",
+    "Wings"
+  ]
+}

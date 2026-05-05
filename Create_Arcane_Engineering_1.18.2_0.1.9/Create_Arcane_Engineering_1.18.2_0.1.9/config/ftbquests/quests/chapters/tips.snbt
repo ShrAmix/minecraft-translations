@@ -1,0 +1,799 @@
+{
+	id: "32AC7585758C60EA"
+	group: ""
+	order_index: 1
+	filename: "tips"
+	title: "Поради"
+	icon: {
+		id: "minecraft:light"
+		Count: 1b
+		tag: {
+			Enchantments: [{ }]
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [
+		{
+			x: 2.0d
+			y: -8.5d
+			width: 28.0d
+			height: 28.0d
+			rotation: 0.0d
+			image: "kubejs:textures/tips.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -6.0d
+			y: -9.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "davebuildingmod:textures/blocks/arrow_right_sign.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 11.5d
+			y: -5.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "davebuildingmod:textures/blocks/arrow_left_sign.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -6.0d
+			y: -17.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "davebuildingmod:textures/blocks/arrow_down_sign.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+	]
+	quests: [
+		{
+			x: -5.5d
+			y: -12.0d
+			description: ["Існує багато локаційних ресурсів. Мета їхнього додавання — спонукати вас використовувати нові поїзди версії 1.18 :) Залізничні колії стали в ШІСТНАДЦЯТЬ разів дешевшими, ніж зазвичай, тому ваші пригоди з будівництва поїздів будуть максимально легкими!"]
+			id: "2DF25740BF8AF0F2"
+			tasks: [{
+				id: "7BB8B3A8548C9213"
+				type: "item"
+				item: "create:track"
+			}]
+		}
+		{
+			title: "Залізні ферми"
+			x: -7.5d
+			y: -11.0d
+			subtitle: "Ця збірка вимагає великої кількості заліза...."
+			id: "14FC19629B01ACFF"
+			tasks: [{
+				id: "26D4C20DB80ADEFD"
+				type: "item"
+				item: "minecraft:iron_block"
+			}]
+		}
+		{
+			title: "Посібник з покладів руди"
+			x: -6.5d
+			y: -10.0d
+			description: [
+				"Перегляньте розділ «Видобуток руди» для отримання додаткової інформації"
+				""
+				"Примітка: Переконайтеся, що їм завжди є куди вивантажувати предмети. Інакше вони накопичать забагато речей, що спричинить сильні лаги."
+			]
+			id: "51054C4D158084AD"
+			tasks: [{
+				id: "27EA85318341928B"
+				type: "item"
+				item: "createoreexcavation:drilling_machine"
+			}]
+		}
+		{
+			title: "Поїзди у кожному вимірі!"
+			x: -5.5d
+			y: -11.0d
+			description: [
+				"Натискання правою кнопкою миші на алмазний блок за допомогою кресала створить портал незалежно від виміру, що дозволить поїздам подорожувати куди завгодно!"
+				"Цей портал працює лише для поїздів та їхніх мешканців. Щоб зв'язок запрацював, вам потрібно розмістити колію так само, як ви це робите біля будь-якого порталу в Нижній світ. Просто переконайтеся, що розмістили її в тому вимірі, до якого намагаєтеся підключитися."
+				"Розмістіть свій портал у спеціальному вимірі. Потім пройдіть крізь нього. Поверніться до спеціального виміру (не через щойно створений портал) і розмістіть залізничну колію біля порталу в цьому спеціальному вимірі."
+			]
+			id: "0C07D49BEDE78634"
+			tasks: [
+				{
+					id: "1F6BEB60E87ABAEE"
+					type: "item"
+					item: {
+						id: "minecraft:flint_and_steel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "7D25919C6D578832"
+					type: "item"
+					item: "minecraft:diamond_block"
+				}
+			]
+		}
+		{
+			x: 13.0d
+			y: -8.0d
+			description: [
+				"Це чанклоадер з моду Create. Він працює ТІЛЬКИ на механізмах."
+				"Але він не імітує випадкові тіки (randomticks), які потрібні для росту сільськогосподарських культур. FTBchunks force load може зробити це за вас."
+				"Завантаження чанків більш-менш необхідне для проходження цієї збірки."
+			]
+			id: "3147CC1F634EF8E7"
+			tasks: [{
+				id: "00D0B84159CDC1CE"
+				type: "item"
+				item: "createchunkloading:chunk_loader"
+			}]
+		}
+		{
+			x: -5.0d
+			y: -2.5d
+			description: [
+				"У цій збірці є Sophisticated Backpacks!"
+				"А також є додатковий функціонал:"
+				"Натискання на розміщений рюкзак предметом, вказаним у підказці рюкзака, додасть додаткові слоти!"
+			]
+			id: "5296043AF72D58DD"
+			tasks: [{
+				id: "113D19B9D0E0D469"
+				type: "item"
+				item: "sophisticatedbackpacks:backpack"
+			}]
+		}
+		{
+			x: -5.0d
+			y: -1.5d
+			id: "7CE214F701140C6B"
+			tasks: [{
+				id: "4E581D58C0A5B113"
+				type: "item"
+				item: {
+					id: "naturescompass:naturescompass"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: -14.0d
+			description: ["Знайдіть будь-яку структуру одним натисканням кнопки"]
+			id: "39417A51292D3544"
+			tasks: [{
+				id: "004F74707B04D4E7"
+				type: "item"
+				item: {
+					id: "explorerscompass:explorerscompass"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.0d
+			y: -3.0d
+			subtitle: "Сідла можна крафтити!"
+			id: "00A12D9476F67645"
+			tasks: [{
+				id: "65BF0B4D1A86B085"
+				type: "item"
+				item: "minecraft:saddle"
+			}]
+		}
+		{
+			title: "Млини CT"
+			x: 12.0d
+			y: -7.0d
+			description: ["Вітрякам потрібно лише 1 вітрило для роботи! (якщо я не помилився в конфігураціях)"]
+			id: "6BE95A5BCF9527ED"
+			tasks: [
+				{
+					id: "5380AF445265BC22"
+					type: "item"
+					item: "create:windmill_bearing"
+				}
+				{
+					id: "4931615850FA47A1"
+					type: "item"
+					item: "create:white_sail"
+				}
+			]
+		}
+		{
+			title: "Рудокамені тепер відновлювані!"
+			x: 13.0d
+			y: -7.0d
+			description: [
+				"Жеоди рудних каменів тепер з'являються по всьому світу."
+				"Натисніть правою кнопкою миші на блок жеоди, тримаючи редстоун, і він створить блоки рудного каменю!"
+				"Таким чином, рудні камені та їхні ресурси можна повністю автоматизувати!"
+			]
+			id: "520888735E13CA2E"
+			tasks: [{
+				id: "00B80DE0D3B744F1"
+				type: "item"
+				item: "create:veridium"
+			}]
+		}
+		{
+			x: -6.5d
+			y: -12.0d
+			description: [
+				"Після розділу M1 ви розблокуєте Рунічну табличку."
+				"Вона дозволяє перетворювати різні речі на їхні аналоги, наприклад, порожні пальники іфритів на звичайні пальники, а випадіння з мобів — на їхні надрідкі версії з релікварію."
+			]
+			id: "52EE3B7F60A5C0F4"
+			tasks: [{
+				id: "0D57135F3938BE15"
+				type: "item"
+				item: "kubejs:runic_tablet"
+			}]
+		}
+		{
+			title: "Фільтрація предметів на ранній стадії гри!"
+			x: -6.5d
+			y: -13.0d
+			description: ["Блокування шухляд та приєднання андезитової лійки працює напрочуд добре як метод фільтрації предметів на ранніх етапах гри!"]
+			id: "45D36D1DEB856A0F"
+			tasks: [
+				{
+					id: "486190264337B29E"
+					type: "item"
+					item: "create:andesite_funnel"
+				}
+				{
+					id: "2E5246C07F3C63B7"
+					type: "item"
+					title: "Будь-який #functionalstorage:drawer"
+					item: {
+						id: "itemfilters:tag"
+						Count: 1b
+						tag: {
+							value: "functionalstorage:drawer"
+						}
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "3A9F2053E280825B"
+					type: "item"
+					item: {
+						id: "functionalstorage:configuration_tool"
+						Count: 1b
+						tag: {
+							Mode: "LOCKING"
+						}
+					}
+				}
+				{
+					id: "3EB657895BA3DD31"
+					type: "item"
+					item: "create:brass_funnel"
+				}
+			]
+		}
+		{
+			title: "Стекування предметів до латуні!"
+			x: -7.5d
+			y: -13.5d
+			description: ["Ви можете групувати предмети у стаки за допомогою Weighted Ejectors, просто прокрутіть колесо миші з гайковим ключем на Weighted Ejector, щоб налаштувати бажаний розмір стака!"]
+			id: "392207368024751B"
+			tasks: [{
+				id: "0558024E34F02416"
+				type: "item"
+				item: "create:weighted_ejector"
+			}]
+		}
+		{
+			x: -6.0d
+			y: 0.0d
+			description: ["Легке розміщення та ламання блоків. Construction Wand — це неймовірно потужний інструмент!"]
+			id: "39BEA048AB996A02"
+			tasks: [
+				{
+					id: "629DC4CD7863C1AC"
+					type: "item"
+					item: {
+						id: "constructionwand:infinity_wand"
+						Count: 1b
+						tag: {
+							wand_options: { }
+						}
+					}
+				}
+				{
+					id: "561DAE4418AE7671"
+					type: "item"
+					item: "constructionwand:core_destruction"
+				}
+			]
+		}
+		{
+			x: 11.0d
+			y: -8.0d
+			subtitle: "Зробить будь-який предмет незнищенним."
+			id: "071AE83CC302169D"
+			tasks: [{
+				id: "3A1D25CC549EE8DE"
+				type: "item"
+				item: {
+					id: "forbidden_arcanus:eternal_stella"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "Зачарування для видобутку жил"
+			x: -6.0d
+			y: -1.0d
+			description: [
+				"У нас є Veinmining — як зачарування."
+				"Воно має до 3 рівнів і видобуває 16 з'єднаних блоків за рівень."
+				""
+				"Якщо вам не подобається, що воно постійно активне на зачарованих інструментах, ви можете налаштувати його активацію за клавішею в клієнтському конфігу мода."
+			]
+			id: "1F8010E246DBE7D2"
+			tasks: [{
+				id: "7322A96D72857116"
+				type: "item"
+				item: {
+					id: "minecraft:enchanted_book"
+					Count: 1b
+					tag: {
+						StoredEnchantments: [{
+							lvl: 1s
+							id: "veinmining:vein_mining"
+						}]
+					}
+				}
+			}]
+		}
+		{
+			x: -4.5d
+			y: -12.5d
+			description: ["Blaze Burners тепер можуть приймати рідини, якщо дати їм соломинку! Це дозволяє обійтися без blaze cakes."]
+			id: "0403135BEBFF8693"
+			tasks: [
+				{
+					id: "39D15F9F818B5B8F"
+					type: "item"
+					item: "create:blaze_burner"
+				}
+				{
+					id: "68B820E084B71AD4"
+					type: "item"
+					item: "createaddition:straw"
+				}
+			]
+		}
+		{
+			x: -5.0d
+			y: -3.5d
+			id: "514DF30DE10444A1"
+			tasks: [{
+				id: "4FD18470D3FC9859"
+				type: "item"
+				item: "magicfeather:magicfeather"
+			}]
+		}
+		{
+			x: -7.0d
+			y: -1.5d
+			id: "2871D10E1E289B18"
+			tasks: [{
+				id: "062BA226461B1EB3"
+				type: "item"
+				item: {
+					id: "reliquary:alkahestry_tome"
+					Count: 1b
+					tag: {
+						Damage: 1001
+					}
+				}
+			}]
+		}
+		{
+			x: -6.0d
+			y: -2.0d
+			id: "10F2426EC2ABA865"
+			tasks: [
+				{
+					id: "7707902B0A29DFA6"
+					type: "item"
+					item: {
+						id: "thermal:nuke_tnt"
+						Count: 1b
+						tag: { }
+					}
+				}
+				{
+					id: "789B2DD5851C845C"
+					type: "item"
+					item: "thermal:nuke_grenade"
+				}
+			]
+		}
+		{
+			title: "Скло, стійке до Візера"
+			x: -4.5d
+			y: -11.0d
+			subtitle: "Повністю незнищенне для Візерів"
+			id: "5CFBF9DB3C810E70"
+			tasks: [
+				{
+					id: "206D739289677E82"
+					type: "item"
+					item: "thermal:obsidian_glass"
+				}
+				{
+					id: "6396B2EE94394575"
+					type: "item"
+					item: "thermal:lumium_glass"
+				}
+			]
+		}
+		{
+			x: -7.0d
+			y: -2.5d
+			description: [
+				"Можна використовувати для ручної купівлі будь-якого предмета, доступного через Imports!"
+				"Заряджений планшет (Tablet) також можна придбати на ринку."
+			]
+			id: "52E70CAD0E90E8E3"
+			tasks: [{
+				id: "07618CC7C276AE29"
+				type: "item"
+				item: "pneumaticcraft:amadron_tablet"
+			}]
+		}
+		{
+			title: "Портативна енергія? ТАК, БУДЬ ЛАСКА"
+			x: -7.0d
+			y: -3.5d
+			id: "640704ED253016CA"
+			tasks: [
+				{
+					id: "74EBE0CFDE21BEE1"
+					type: "item"
+					item: "createaddition:modular_accumulator"
+				}
+				{
+					id: "773D82B45453C074"
+					type: "item"
+					item: "createaddition:portable_energy_interface"
+				}
+			]
+		}
+		{
+			title: "Збір листя СТИЛЬНО"
+			x: -6.5d
+			y: -14.0d
+			description: ["Harvesters можуть збирати листя."]
+			id: "39726A3AB587CB01"
+			tasks: [
+				{
+					id: "0EF7E9094C85C84C"
+					type: "item"
+					item: "create:mechanical_harvester"
+				}
+				{
+					id: "533B36B9933BDE54"
+					type: "item"
+					title: "Any #minecraft:leaves"
+					item: {
+						id: "itemfilters:tag"
+						Count: 1b
+						tag: {
+							value: "minecraft:leaves"
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: -6.0d
+			subtitle: "Можна використовувати для ферми риби..."
+			id: "3D7B34D45116567D"
+			tasks: [{
+				id: "600FE95A2CB0913B"
+				type: "item"
+				item: "minecraft:wet_sponge"
+			}]
+		}
+		{
+			x: -6.0d
+			y: -4.0d
+			id: "5E6870E5C7A79754"
+			tasks: [{
+				id: "13AEBDA3DAE701F1"
+				type: "item"
+				item: "create:wand_of_symmetry"
+			}]
+		}
+		{
+			x: -5.5d
+			y: -13.0d
+			description: ["Сканує чанк на наявність андезиту та діориту"]
+			id: "433CCF86EBF39A8E"
+			tasks: [{
+				id: "3D478FAFAF8DACFC"
+				type: "item"
+				item: "kubejs:alloy_radar"
+			}]
+		}
+		{
+			x: 11.0d
+			y: -7.0d
+			subtitle: "Незерак тепер відновлюваний!!!! УРА (Навіть не смійте намагатися його автоматизувати) (Я ЗРОБИВ ЦЕ ЯКНАЙБОЛЮЧІШИМ, ЩОБ НІХТО ЦЬОГО НЕ РОБИВ)"
+			id: "6425BC0E551581F5"
+			tasks: [{
+				id: "4C2519536CDF599D"
+				type: "item"
+				item: "minecraft:netherrack"
+			}]
+		}
+		{
+			x: -7.5d
+			y: -12.5d
+			subtitle: "Збери трохи, га?"
+			id: "223B1CB805849D44"
+			tasks: [
+				{
+					id: "6600862F7A08FD82"
+					type: "item"
+					item: "forbidden_arcanus:arcane_crystal"
+				}
+				{
+					id: "3BF8D1BB098F29DB"
+					type: "item"
+					item: "forbidden_arcanus:arcane_crystal_block"
+				}
+			]
+		}
+		{
+			title: "Пластини через ковадла"
+			x: 10.0d
+			y: -7.0d
+			description: ["Скиньте ковадло на злиток, і він перетвориться на пластину. (З невеликими втратами)"]
+			id: "2A80651B5135AB01"
+			tasks: [
+				{
+					id: "53B386709076D690"
+					type: "item"
+					item: "minecraft:anvil"
+				}
+				{
+					id: "5BD24411D62BB59B"
+					type: "item"
+					item: "create:iron_sheet"
+				}
+			]
+			rewards: [{
+				id: "7135331C7BA72B0F"
+				type: "item"
+				item: "create:iron_sheet"
+				count: 2
+			}]
+		}
+		{
+			icon: "kubejs:fragment_of_patience"
+			x: 12.0d
+			y: -8.0d
+			id: "4C457CC907F4CAA5"
+			tasks: [{
+				id: "6F46BA932D39FE72"
+				type: "checkmark"
+				title: "Пройди випробування терпінням."
+			}]
+			rewards: [{
+				id: "2EC22C98DF0C43CE"
+				type: "item"
+				item: "kubejs:fragment_of_patience"
+			}]
+		}
+		{
+			title: "Найважливіші поради:"
+			x: -6.0d
+			y: -16.0d
+			id: "280B58649F0CB8C9"
+			tasks: [{
+				id: "53564807F11631EF"
+				type: "checkmark"
+			}]
+		}
+		{
+			title: "Less Important Tips:"
+			x: 11.5d
+			y: -9.0d
+			id: "654993F745FC29F0"
+			tasks: [{
+				id: "0A528E8B0DA9AEA2"
+				type: "checkmark"
+			}]
+		}
+		{
+			title: "Різні поради"
+			x: -6.0d
+			y: -5.0d
+			id: "3799508D7DECC323"
+			tasks: [{
+				id: "7E93E3775796E6F3"
+				type: "checkmark"
+			}]
+		}
+		{
+			x: 10.0d
+			y: -8.0d
+			description: ["Генеруватиме більшість декоративних каменів, якщо їх розмістити під ним."]
+			id: "686971D4F5FC320E"
+			tasks: [{
+				id: "0D6C3F32723A2F16"
+				type: "item"
+				item: "thermal:device_rock_gen"
+			}]
+		}
+		{
+			title: "Пошук предметів у скринях"
+			icon: "quark:warped_chest"
+			x: -6.5d
+			y: -15.0d
+			description: ["Наведіть курсор на предмет у JEI і натисніть Y, щоб показати всі скрині з цим предметом."]
+			id: "1BDC8F965F8B7DA7"
+			tasks: [{
+				id: "0A0883A23A9D8436"
+				type: "checkmark"
+				title: "Наведіть курсор на предмет у JEI і натисніть Y, щоб показати всі скрині з цим предметом."
+			}]
+		}
+		{
+			x: 13.0d
+			y: -6.0d
+			description: ["Ви можете нагрівати парові двигуни з Create за допомогою Pneumaticcraft!"]
+			id: "41474C57E044994B"
+			tasks: [{
+				id: "63EC1E041F8BFE36"
+				type: "item"
+				item: "compressedcreativity:heater"
+			}]
+		}
+		{
+			icon: "create:item_vault"
+			x: -5.5d
+			y: -15.0d
+			subtitle: "Не знаєте, як щось виправити? Назвіть це особливістю."
+			description: [
+				"Сховища предметів (Item Vaults) — чудовий спосіб зберігати велику кількість ваших речей. \\nВи навіть можете взаємодіяти з їхнім вмістом вручну через верстак Tinkers."
+				""
+				"Примітка: це працює з помилками, кращою альтернативою є використання бочок Sophisticated Storage."
+			]
+			id: "48D73F3A6C8C0203"
+			tasks: [
+				{
+					id: "078DD2C7D6303FD7"
+					type: "item"
+					item: "create:item_vault"
+				}
+				{
+					id: "6D69399EBF8FBC41"
+					type: "item"
+					title: "Будь-який верстак"
+					item: {
+						id: "itemfilters:tag"
+						Count: 1b
+						tag: {
+							value: "forge:workbenches"
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 11.0d
+			y: -6.0d
+			subtitle: "Черговий завантажувач чанків."
+			description: ["Натисніть праву кнопку миші для активації. Якщо гравець перебуває офлайн довше 140 хвилин, вона вимкнеться сама."]
+			id: "79A1DE90448ED2F4"
+			tasks: [{
+				id: "1C4067CE9D0886AC"
+				type: "item"
+				item: "chunkymcchunkface:chunk_loader"
+			}]
+		}
+		{
+			title: "Викрадення мобів, як БОС"
+			x: 12.0d
+			y: -6.0d
+			subtitle: "Натисніть правою кнопкою миші, щоб ув'язнити моба, натисніть ще раз, щоб випустити його."
+			id: "778B02DD79D525D2"
+			tasks: [{
+				id: "741700582CFD8D1F"
+				type: "item"
+				item: "forbidden_arcanus:quantum_catcher"
+			}]
+		}
+		{
+			title: "For Server Admins: ClearItems.js"
+			x: -6.5d
+			y: -11.0d
+			subtitle: "Натисніть для отримання інформації."
+			description: [
+				"Чи знали ви, що в цій збірці є вбудована система очищення предметів? (яка, додам, краща за інші)"
+				"Щоб активувати, просто перейдіть у файли вашого сервера до kubejs/server_scripts/ClearItems.js. Тепер відкрийте файл і змініть перший рядок (let activated = false) на (let activated = true)"
+			]
+			id: "442079A1265BAFD5"
+			tasks: [{
+				id: "65D47CE2C836CE9A"
+				type: "item"
+				item: "minecraft:diamond"
+			}]
+		}
+		{
+			title: "Видалення рідини стало простішим."
+			x: -4.5d
+			y: -13.5d
+			description: ["Щоб видалити рідини з будь-якого контейнера, просто приєднайте кран, спрямований у губку!"]
+			id: "3C69A545EEBC1650"
+			tasks: [
+				{
+					id: "4556A160A36786C5"
+					type: "item"
+					item: "minecraft:sponge"
+				}
+				{
+					id: "3CFADF44157DB1F9"
+					type: "item"
+					item: "supplementaries:faucet"
+				}
+			]
+		}
+		{
+			x: -5.5d
+			y: -10.0d
+			description: ["Натисніть правою кнопкою миші з Темною душею (Dark Soul) на звичайний саджанець, щоб отримати саджанець Едельвуда (Edelwood Sapling)"]
+			id: "205F8718D258F452"
+			tasks: [
+				{
+					id: "0DF26DBCAFC3D1CC"
+					type: "item"
+					item: "forbidden_arcanus:growing_edelwood"
+				}
+				{
+					id: "5DFD4893189473CD"
+					type: "item"
+					item: "forbidden_arcanus:dark_soul"
+				}
+				{
+					id: "0046573C42561008"
+					type: "item"
+					item: "minecraft:oak_sapling"
+				}
+			]
+		}
+	]
+	quest_links: [ ]
+}

@@ -1,0 +1,19 @@
+{
+  "tool": "tconstruct:slime_boots",
+  "text": [
+    {
+      "text": "Ці чоботи поєднують силу кролика з слизом, щоб дозволити тобі легко стрибати."
+    },
+    {
+      "text": "Щоб створити ці фантастичні чоботи, вилий ендер-слиз на ногу кролика. Чоботи можна пізніше відремонтувати за допомогою шкіри кролика.",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "High Durability",
+    "No Armor or Defense Slots",
+    "5 Upgrade Slots",
+    "1 Ability Slot",
+    "Bouncy and Leaping"
+  ]
+}

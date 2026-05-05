@@ -1,0 +1,21 @@
+{
+  "blueprint.config.screen_shake_scale": "Масштаб тремтіння екрана",
+  "blueprint.config.max_screen_shakers": "Макс. кількість ефектів тремтіння",
+  "blueprint.config.disable_experimental_settings_screen": "Вимкнути екран експериментальних налаштувань",
+  "blueprint.config.slabfish_hat.enabled": "Капелюх Slabfish",
+  "blueprint.config.slabfish_hat.enabled.tooltip": "Вмикає капелюх Slabfish. Доступно для патронів рівня 2+.",
+  "blueprint.config.slabfish_hat.sweater": "Светр",
+  "blueprint.config.slabfish_hat.sweater.tooltip": "Вмикає светр для капелюха Slabfish. Доступно для патронів рівня 2+.",
+  "blueprint.config.slabfish_hat.backpack": "Рюкзак",
+  "blueprint.config.slabfish_hat.backpack.tooltip": "Вмикає рюкзак для капелюха Slabfish. Доступно для патронів рівня 3+.",
+  "blueprint.config.slabfish_hat.type": "Тип",
+  "blueprint.config.slabfish_hat.type.tooltip": "Змінює тип капелюха Slabfish. Доступно для патронів рівня 4+.",
+  "blueprint.screen.slabfish_settings": "Налаштування капелюха Slabfish...",
+  "blueprint.screen.slabfish_settings.title": "Налаштування капелюха Slabfish",
+  "blueprint.screen.slabfish_settings.tooltip": "Налаштування капелюха Slabfish для патронів Team Abnormals. Станьте патроном на %s.",
+  "blueprint.message.redirect": "Перенаправлення",
+  "biome.blueprint.original_source_marker": "Маркер початкового джерела",
+  "entity.blueprint.boat": "Човен",
+  "entity.blueprint.chest_boat": "Човен зі скринею",
+  "entity.blueprint.falling_block": "Падаючий блок"
+}

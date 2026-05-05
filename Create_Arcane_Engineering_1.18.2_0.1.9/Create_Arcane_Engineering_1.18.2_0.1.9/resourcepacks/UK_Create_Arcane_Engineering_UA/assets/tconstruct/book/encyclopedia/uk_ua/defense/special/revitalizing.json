@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:revitalizing",
+  "text": [
+    {
+      "text": "Збільшує максимальну кількість здоров'я на 1 серце за рівень."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Can apply levels incrementally",
+    "Maximum of 5 levels",
+    "Requires 1 defense slot per level"
+  ]
+}

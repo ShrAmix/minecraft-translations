@@ -1,0 +1,5 @@
+{
+  "_comment": "Інтерфейс користувача",
+  "gui.integratedterminalscompat.terminal_storage.craftinggrid.jeisync": "Синхронізація пошуку з JEI",
+  "gui.integratedterminalscompat.terminal_storage.craftinggrid.jeisync.info": "Синхронізувати поле пошуку з JEI."
+}

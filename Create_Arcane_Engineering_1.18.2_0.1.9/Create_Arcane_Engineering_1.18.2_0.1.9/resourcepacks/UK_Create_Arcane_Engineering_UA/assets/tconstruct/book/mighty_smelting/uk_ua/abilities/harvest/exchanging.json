@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:exchanging",
+  "text": [
+    {
+      "text": "Використання цього може або не може спричинити, що гігантський кам'яний блок почне переслідувати вас, оскільки ви не можете обмінювати речі безпосередньо."
+    }
+  ],
+  "effects": [
+    "Blocks broken are replaced by blocks in the offhand",
+    "Single Level",
+    "Requires 1 Ability Slot"
+  ]
+}

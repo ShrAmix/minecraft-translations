@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:reach",
+  "text": [
+    {
+      "text": "Досягай зірок! Або верхньої полиці... Або середньої висоти, якщо ти низького зросту..."
+    }
+  ],
+  "effects": [
+    "Increases reach distance for blocks, mining, and attacking",
+    "Multiple levels, each level allows you to reach further",
+    "Requires 1 Ability Slot per level"
+  ]
+}

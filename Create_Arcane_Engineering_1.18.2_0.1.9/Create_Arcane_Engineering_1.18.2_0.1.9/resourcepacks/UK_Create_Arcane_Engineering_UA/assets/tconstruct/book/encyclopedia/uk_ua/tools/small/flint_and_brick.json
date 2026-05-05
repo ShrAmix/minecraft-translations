@@ -1,0 +1,19 @@
+{
+  "tool": "tconstruct:flint_and_brick",
+  "text": [
+    {
+      "text": "Пісок і цегла — це ручний інструмент, який починається як запальничка."
+    },
+    {
+      "text": "Розширення збільшує радіус вогню, що ще більше посилюється запалювальним засобом.",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "+0 Attack Damage",
+    "1.0 Attack Speed",
+    "100 Durability",
+    "Fiery 1",
+    "Firestarting"
+  ]
+}

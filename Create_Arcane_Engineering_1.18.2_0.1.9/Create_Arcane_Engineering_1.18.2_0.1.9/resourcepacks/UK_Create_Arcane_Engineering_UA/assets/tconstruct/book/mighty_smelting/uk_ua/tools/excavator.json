@@ -1,0 +1,21 @@
+{
+  "tool": "tconstruct:excavator",
+  "text": [
+    {
+      "text": "Екскаватор — це широкий інструмент для копання. Він збирає ґрунт і сніг у широкому діапазоні."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Корисний, коли вам потрібно викопати багато могил."
+    }
+  ],
+  "properties": [
+    "Advanced digging tool",
+    "3x3 AoE Digging",
+    "Effective on dirt, sand and gravel",
+    "Can create path",
+    "Starts with Knockback II"
+  ]
+}

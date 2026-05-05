@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:blocking",
+  "text": [
+    {
+      "text": "Твій меч тепер щит, тобі лишилося знайти спосіб перетворити щит на меч."
+    }
+  ],
+  "effects": [
+    "Allows you to block with your tool",
+    "Single Level",
+    "Requires 1 Ability Slot"
+  ]
+}

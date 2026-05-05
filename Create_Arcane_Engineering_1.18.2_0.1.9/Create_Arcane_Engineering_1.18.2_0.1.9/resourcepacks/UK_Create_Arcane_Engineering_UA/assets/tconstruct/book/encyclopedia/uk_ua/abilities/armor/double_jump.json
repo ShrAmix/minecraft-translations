@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:double_jump",
+  "text": [
+    {
+      "text": "Дозволяє тобі стрибнути вдруге в повітрі. Вища рівень додає додаткові стрибки, дозволяючи триразовий стрибок або навіть потенційно чотириразовий стрибок."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "No max level",
+    "Requires 1 ability slot"
+  ]
+}

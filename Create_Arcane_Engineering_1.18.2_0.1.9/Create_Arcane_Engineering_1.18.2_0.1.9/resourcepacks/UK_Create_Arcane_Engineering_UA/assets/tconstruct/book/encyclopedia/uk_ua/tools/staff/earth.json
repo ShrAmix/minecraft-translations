@@ -1,0 +1,15 @@
+{
+  "tool": "tconstruct:earth_staff",
+  "text": [
+    {
+      "text": "Стаф Землі-сліму є варіантом стафа з високим захистом."
+    }
+  ],
+  "properties": [
+    "800 Durability",
+    "50% speed while using",
+    "2 Upgrade Slots",
+    "3 Defense Slots",
+    "2 Ability Slots"
+  ]
+}

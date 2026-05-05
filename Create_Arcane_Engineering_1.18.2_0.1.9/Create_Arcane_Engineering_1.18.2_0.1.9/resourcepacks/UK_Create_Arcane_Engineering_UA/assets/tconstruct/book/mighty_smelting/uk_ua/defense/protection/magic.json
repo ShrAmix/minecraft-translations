@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:magic_protection",
+  "text": [
+    {
+      "text": "Ти не дуже добрий чаклун, Гаррі, якщо тобі доводиться користуватися цим. Використовуй більше заклинань відхилення."
+    }
+  ],
+  "effects": [
+    "Decreases magic damage",
+    "Multiple levels, each level further decreases magic damage",
+    "Requires 1 defense slot"
+  ]
+}

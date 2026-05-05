@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tconstruct:rebalanced",
+  "text": [
+    {
+      "text": "Надає +1 слот модифікатора. Тип визначається рецептом."
+    },
+    {
+      "text": "При застосуванні +1 слота здібності втрачає 1 слот оновлення.",
+      "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Single use",
+    "Slotless"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tconstruct:soulspeed",
+  "text": [
+    {
+      "text": "Надає +40,5% швидкості на піщаному піску душ, плюс додаткові 10,5% за кожен наступний рівень. Зменшує сповільнення від ходьби по піщаному піску душ."
+    },
+    {
+      "text": "Чоботи з часом отримуватимуть пошкодження, коли цей модифікатор активний.",
+      "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 3 levels",
+    "Requires 1 upgrade slot per level"
+  ]
+}

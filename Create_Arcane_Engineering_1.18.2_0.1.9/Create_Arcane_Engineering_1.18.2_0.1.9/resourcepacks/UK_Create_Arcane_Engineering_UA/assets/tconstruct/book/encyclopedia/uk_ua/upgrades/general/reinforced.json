@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:reinforced",
+  "text": [
+    {
+      "text": "Зменшує ймовірність пошкодження інструменту. Є 75% шанс на пошкодження на рівні 1, 55% на рівні 2, 40% на рівні 3, 30% на рівні 4 та 25% на рівні 5."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Can apply levels incrementally",
+    "Maximum of 5 levels",
+    "Requires 1 upgrade slot per level"
+  ]
+}

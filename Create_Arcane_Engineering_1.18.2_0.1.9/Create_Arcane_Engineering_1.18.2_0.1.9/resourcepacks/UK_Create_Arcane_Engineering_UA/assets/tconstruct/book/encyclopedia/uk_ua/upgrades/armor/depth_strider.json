@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:depth_strider",
+  "text": [
+    {
+      "text": "Зменшує покарання за рух під водою на 33% на кожен рівень. На рівні 3 немає жодного покарання за рух під водою."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 3 levels",
+    "Requires 1 upgrade slot per level"
+  ]
+}

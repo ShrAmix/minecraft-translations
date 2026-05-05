@@ -1,0 +1,8 @@
+{
+  "key.categories.placebo": "Placebo",
+  "placebo.toggleTrails": "Перемкнути сліди підтримки",
+  "placebo.toggleWings": "Перемкнути крила підтримки",
+  "placebo.cmd.serialize_success": "%s успішно збережено у %s.",
+  "placebo.cmd.serialize_failure": "Під час процесу серіалізації сталася помилка.",
+  "placebo.cmd.not_found": "%s не знайдено."
+}

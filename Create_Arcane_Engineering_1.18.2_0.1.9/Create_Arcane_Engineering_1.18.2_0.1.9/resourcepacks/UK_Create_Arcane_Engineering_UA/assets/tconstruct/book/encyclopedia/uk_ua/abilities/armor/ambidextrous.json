@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:ambidextrous",
+  "text": [
+    {
+      "text": "Дозволяє завдавати ударів без використання основної руки. Безрука рука отримуватиме всі бонуси невзброєного бою, застосовані до головної руки."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 1 level",
+    "Requires 1 ability slot"
+  ]
+}

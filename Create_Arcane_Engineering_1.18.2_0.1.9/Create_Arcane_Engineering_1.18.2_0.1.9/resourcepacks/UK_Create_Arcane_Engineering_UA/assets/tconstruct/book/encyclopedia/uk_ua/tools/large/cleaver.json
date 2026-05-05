@@ -1,0 +1,19 @@
+{
+  "tool": "tconstruct:cleaver",
+  "text": [
+    {
+      "text": "Клевер — це зброя з високою шкодою та повільною швидкістю атаки."
+    },
+    {
+      "text": "Розширювачі збільшують площу атакування, а шовковистий надає ефект масового пошкодження.",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "+3 Attack Damage",
+    "150% Attack Modifier",
+    "1.0 Attack Speed",
+    "350% Durability Modifier",
+    "Beheading II"
+  ]
+}

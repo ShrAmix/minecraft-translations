@@ -1,0 +1,14 @@
+{
+  "packAction.copyId.description": "Утримуйте %s для копіювання",
+  "packAction.copyId.success": "Скопійовано!",
+  "packAction.copyId.title": "Копіювати ID пакунка",
+  "packAction.reloadSettings.description": "Утримуйте %s для перезавантаження",
+  "packAction.reloadSettings.success": "Перезавантажено!",
+  "packAction.reloadSettings.title": "Перезавантажити налаштування",
+  "packAction.restoreDefaults.description": "Утримуйте %s для відновлення",
+  "packAction.restoreDefaults.success": "Відновлено!",
+  "packAction.restoreDefaults.title": "Відновити стандартні пакунки",
+  "packAction.toggleDebug.description": "Утримуйте %s для перемикання",
+  "packAction.toggleDebug.success": "Перемкнуто!",
+  "packAction.toggleDebug.title": "Перемкнути ID пакунків"
+}

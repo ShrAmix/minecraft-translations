@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tconstruct:haste",
+  "text": [
+    {
+      "text": "Додавання редстоуну до броні здається, робить всі інструменти швидшими, наче твої руки стають ефективнішими."
+    },
+    {
+      "text": "Так, справді, божевільні речі, чи не так?",
+      "paragraph": true
+    }
+  ],
+  "effects": [
+    "Increases mining speed",
+    "Multiple levels, each level increases speed a bit more",
+    "Requires 1 Upgrade Slot per level"
+  ]
+}

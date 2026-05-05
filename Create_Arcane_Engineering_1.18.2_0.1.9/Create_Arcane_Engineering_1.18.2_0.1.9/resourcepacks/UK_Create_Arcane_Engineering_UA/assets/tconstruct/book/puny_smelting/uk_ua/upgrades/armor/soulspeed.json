@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:soulspeed",
+  "text": [
+    {
+      "text": "Здається, душі ідеально підходять для швидкого бігу. Чи це етично прийнятно?"
+    }
+  ],
+  "effects": [
+    "Increases movement speed on soul sand",
+    "Multiple levels, each level further increases speed",
+    "Requires 1 Upgrade Slot per level"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "options.biomeBlendRadius.17": "17x17 (Великий)",
+  "options.biomeBlendRadius.19": "19x19 (Дуже великий)",
+  "options.biomeBlendRadius.21": "21x21 (Масивний)",
+  "options.biomeBlendRadius.23": "23x23 (Запаморочливий)",
+  "options.biomeBlendRadius.25": "25x25 (Кримінальний)",
+  "options.biomeBlendRadius.27": "27x27 (Піднесений)",
+  "options.biomeBlendRadius.29": "29x29 (Вау!)",
+  "options.biomeBlendRadiusTooltip": "BetterBiomeBlend завжди використовує 29x29"
+}

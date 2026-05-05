@@ -1,0 +1,930 @@
+{
+	id: "0918A9C44C07BDAB"
+	group: "65FB4ECE344979A8"
+	order_index: 1
+	filename: "sad"
+	title: "Chapter II: Extraterrestrial Expeditions"
+	icon: "create:brass_casing"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [
+		{
+			x: -1.5d
+			y: 0.5d
+			width: 50.0d
+			height: 50.0d
+			rotation: 0.0d
+			image: "kubejs:textures/brass.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -1.5d
+			y: 2.0d
+			width: 20.0d
+			height: 27.0d
+			rotation: 0.0d
+			image: "kubejs:textures/wow.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+	]
+	quests: [
+		{
+			title: "Початок 2-го розділу!"
+			x: -1.5d
+			y: -6.0d
+			shape: "octagon"
+			subtitle: "Коротка порада: ви можете швидко пройти більшу частину цього розділу, просто створивши рожевий кварц із кварцу та червоного пилу, знайдених у світі."
+			dependencies: ["6EFF8BCEBC2E2AF2"]
+			hide: true
+			size: 1.5d
+			id: "7984A735A2923DFB"
+			tasks: [{
+				id: "51DBF669670FA5DD"
+				type: "item"
+				item: "kubejs:kinetic_mechanism"
+			}]
+			rewards: [{
+				id: "2B0A259AF94D3224"
+				type: "item"
+				item: {
+					id: "kubejs:lootbag_create_brass"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "Розділ 2"
+			x: -1.5d
+			y: 4.0d
+			shape: "gear"
+			dependencies: [
+				"0CEFD94EEE91DDE9"
+				"24B4AA7FE57740B1"
+				"7EA15D680D22F69B"
+			]
+			dependency_requirement: "one_completed"
+			size: 1.5d
+			id: "1CF1A735F77415F2"
+			tasks: [{
+				id: "178E2929328BE139"
+				type: "item"
+				item: "create:precision_mechanism"
+			}]
+			rewards: [
+				{
+					id: "22A7E94E011A5182"
+					type: "item"
+					item: "create:precision_mechanism"
+					count: 32
+				}
+				{
+					id: "78F5A761CC82F7DF"
+					type: "item"
+					item: "create:brass_casing"
+					count: 8
+				}
+				{
+					id: "43494FF5AF13F11F"
+					type: "item"
+					item: {
+						id: "kubejs:lootbag_create_brass"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					count: 2
+				}
+				{
+					id: "68F6880D93469F19"
+					type: "item"
+					item: {
+						id: "kubejs:lootbag_create_radiant"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: -1.5d
+			y: 10.5d
+			shape: "gear"
+			dependencies: ["48302F40D36471FB"]
+			hide: true
+			size: 1.5d
+			id: "730102EB2E56C6A1"
+			tasks: [{
+				id: "6F07F6CE635BB23A"
+				type: "item"
+				item: "kubejs:sturdy_mechanism"
+			}]
+			rewards: [
+				{
+					id: "7CD9D71BB87E66E5"
+					type: "item"
+					item: "kubejs:sturdy_mechanism"
+					count: 32
+				}
+				{
+					id: "3346A4FED9559736"
+					type: "item"
+					item: "create:railway_casing"
+					count: 8
+				}
+				{
+					id: "38E11DE211BBC778"
+					type: "item"
+					item: {
+						id: "kubejs:lootbag_create_brass"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					count: 2
+				}
+			]
+		}
+		{
+			x: -1.5d
+			y: 8.5d
+			dependencies: [
+				"53F4A32746B719F2"
+				"25EE3A139473ED49"
+			]
+			id: "48302F40D36471FB"
+			tasks: [{
+				id: "009737E18C49A365"
+				type: "item"
+				item: "create:sturdy_sheet"
+			}]
+			rewards: [
+				{
+					id: "611B4C22DBB32060"
+					type: "item"
+					item: "create:sturdy_sheet"
+					count: 12
+				}
+				{
+					id: "2D99E84E909D994A"
+					type: "item"
+					item: {
+						id: "kubejs:lootbag_create_brass"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 0.0d
+			y: 8.5d
+			subtitle: "Або зробіть ферму лави, або добудьте її в Незері. У будь-якому разі, це означає, що вам потрібне джерело нескінченної лави! Раджу вирушити в Незер і використати шлангові шківи (hose pulleys)!"
+			dependencies: ["3A10D0D5E8548C54"]
+			hide: true
+			id: "53F4A32746B719F2"
+			tasks: [
+				{
+					id: "3BA328680C9FD1E6"
+					type: "item"
+					item: "minecraft:lava_bucket"
+				}
+				{
+					id: "73AA7A169A46BE7D"
+					type: "item"
+					item: "create:hose_pulley"
+				}
+			]
+		}
+		{
+			title: "Закручування"
+			x: 0.0d
+			y: 4.0d
+			shape: "rsquare"
+			subtitle: "(викрутка з framedblocks має лише 1 використання, лол)"
+			dependencies: ["6EFF8BCEBC2E2AF2"]
+			hide: true
+			id: "0CEFD94EEE91DDE9"
+			tasks: [{
+				id: "0DE8513933778AAF"
+				type: "item"
+				title: "Any #forge:screwdrivers"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:screwdrivers"
+					}
+				}
+			}]
+		}
+		{
+			x: -6.0d
+			y: 4.0d
+			dependencies: ["0158C3930229C41C"]
+			hide: true
+			id: "727A38A2922B49F6"
+			tasks: [{
+				id: "097BA29DA3773FAE"
+				type: "item"
+				item: "minecraft:sugar_cane"
+			}]
+		}
+		{
+			x: -4.5d
+			y: 4.0d
+			dependencies: ["727A38A2922B49F6"]
+			id: "5D36117177BCD37F"
+			tasks: [{
+				id: "67A05C6A2E2099F6"
+				type: "item"
+				item: "minecraft:paper"
+			}]
+		}
+		{
+			x: -3.0d
+			y: 2.0d
+			dependencies: ["4132AB6AF6FC3ED0"]
+			hide: true
+			id: "3E09633CF4F786AE"
+			tasks: [{
+				id: "444651F6899E0809"
+				type: "item"
+				item: "integrateddynamics:crystalized_menril_chunk"
+			}]
+			rewards: [{
+				id: "5122925AA971EEDA"
+				type: "item"
+				item: "integrateddynamics:crystalized_menril_block"
+			}]
+		}
+		{
+			title: "[опціонально] Карта змінних"
+			x: -3.0d
+			y: 4.0d
+			subtitle: "Як завжди, ви можете зробити свою фабрику вдвічі ефективнішою, додавши один простий додатковий крок!"
+			dependencies: [
+				"5D36117177BCD37F"
+				"3E09633CF4F786AE"
+			]
+			dependency_requirement: "one_completed"
+			id: "24B4AA7FE57740B1"
+			tasks: [{
+				id: "58A5E717210879EE"
+				type: "item"
+				item: "integrateddynamics:variable"
+			}]
+			rewards: [{
+				id: "2C94401543076216"
+				type: "item"
+				item: {
+					id: "kubejs:lootbag_create_brass"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "Розблокувати додатковий шлях?"
+			x: -7.0d
+			y: 3.0d
+			subtitle: "Подвоїть швидкість виробництва. Потребує трохи роботи з деревами Менріл"
+			dependencies: ["6EFF8BCEBC2E2AF2"]
+			hide: true
+			id: "0158C3930229C41C"
+			tasks: [
+				{
+					id: "14F46264E33F6588"
+					type: "checkmark"
+					title: "Так!"
+				}
+				{
+					id: "30ADFE45157AF53D"
+					type: "item"
+					item: "integrateddynamics:menril_sapling"
+				}
+			]
+			rewards: [
+				{
+					id: "57DF8D5DD286839D"
+					type: "item"
+					item: "integrateddynamics:menril_sapling"
+				}
+				{
+					id: "45FD59D3AF86C5C2"
+					type: "item"
+					item: {
+						id: "kubejs:lootbag_create_brass"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			title: "Порада щодо небесного каменю"
+			icon: "railways:track_birch"
+			x: 1.5d
+			y: -5.0d
+			subtitle: "Метеорити можуть бути на шокуюче великій відстані від вашої бази. Ласкаво просимо до цього збірника, локаційні ресурси, подібні до цих, є постійною темою. Тепер у вас є вибір: побудувати фабрику на Небесному камені (Skystone Catalyst) або прокласти залізничну колію, щоб доставляти його до себе — вибір за вами. У будь-якому разі, вам знадобиться залізниця, що з'єднує фабрики."
+			description: ["2-га порада: Якщо ви натиснете правою кнопкою миші на каталізатор небесного каменю дерев'яною сокирою, він підніметься на 10 блоків у повітря. Це зроблено для того, щоб, якщо ваш метеорит знаходиться в океані, ви могли витягти каталізатор, не осушуючи весь океан і не викопуючи печеру..."]
+			dependencies: ["6EFF8BCEBC2E2AF2"]
+			hide: true
+			id: "323AEEF2915E79D2"
+			tasks: [{
+				id: "3BEB89B503E84F30"
+				type: "checkmark"
+			}]
+			rewards: [
+				{
+					id: "0B3217B8FECA149C"
+					type: "item"
+					item: "create:track"
+					count: 16
+				}
+				{
+					id: "5029E9812DCBFAE5"
+					type: "item"
+					item: {
+						id: "minecraft:wooden_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			title: "Обсидіановий цикл!"
+			x: -1.5d
+			y: 5.5d
+			shape: "gear"
+			subtitle: "Ви можете подрібнювати або перетирати обсидіан для отримання обсидіанового пилу з шансом отримати 2 одиниці за раз. Ви можете переробити 1 одиницю пилу, переплавивши її назад в обсидіан, і знову використовувати для подрібнення!"
+			dependencies: ["3A10D0D5E8548C54"]
+			hide: true
+			id: "1377A2D928C6A05A"
+			tasks: [{
+				id: "52A923D9A4D06BFF"
+				type: "item"
+				item: "minecraft:obsidian"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 7.5d
+			dependencies: ["1377A2D928C6A05A"]
+			id: "25EE3A139473ED49"
+			tasks: [{
+				id: "430CD42A737B7768"
+				type: "item"
+				item: "create:powdered_obsidian"
+			}]
+		}
+		{
+			title: "Переплавте обсидіановий пил на обсидіан!"
+			x: -1.5d
+			y: 6.5d
+			dependencies: ["25EE3A139473ED49"]
+			id: "216B9E1503960B6C"
+			tasks: [{
+				id: "5A022B1B92FD5FEA"
+				type: "item"
+				item: "create:encased_fan"
+			}]
+		}
+		{
+			x: 1.5d
+			y: -2.0d
+			subtitle: "Змішайте пил небесного каменю з водою"
+			dependencies: [
+				"626B12C1D9AEC171"
+				"3513058D64801DAF"
+			]
+			dependency_requirement: "one_completed"
+			id: "5FF85EC9DA06810F"
+			tasks: [{
+				id: "5AB4FE27F8287432"
+				type: "item"
+				item: "kubejs:sky_solution_bucket"
+			}]
+			rewards: [{
+				id: "3B433DD548B15CBE"
+				type: "item"
+				item: {
+					id: "kubejs:lootbag_create_brass"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: -0.5d
+			subtitle: "Подрібніть гравій"
+			dependencies: ["587F4DF4DAE4FEA7"]
+			id: "68704916A38C450C"
+			tasks: [{
+				id: "0D5666E3AB5EC911"
+				type: "item"
+				item: "minecraft:sand"
+			}]
+		}
+		{
+			title: "Відкрийте Небесний камінь (Skystone Catalyst)"
+			x: 1.5d
+			y: -4.0d
+			shape: "square"
+			subtitle: "Іншопланетний блок, який можна знайти лише всередині метеоритів. Про цей артефакт відомо небагато, але ми з'ясували, що він відповідає за трансмутацію всього в радіусі до 7 блоків від нього при взаємодії з редстоуновим пилом, замінюючи все на Скайстоун. Чи це форма іншопланетної алергії? Можливо, це можна використати для отримання нескінченного Скайстоуну."
+			dependencies: ["44DC0A3FAA5645AB"]
+			id: "5D9D3025CB2DEEA4"
+			tasks: [{
+				id: "79A64C87821EFB2A"
+				type: "observation"
+				icon: "cae:skystone_catalyst"
+				timer: 0L
+				observe_type: 0
+				to_observe: "cae:skystone_catalyst"
+			}]
+			rewards: [{
+				id: "078B6CD96D050783"
+				type: "item"
+				item: {
+					id: "kubejs:lootbag_create_brass"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: -2.5d
+			subtitle: "Подрібніть Скайстоун"
+			dependencies: ["6C157C90A109C62C"]
+			id: "626B12C1D9AEC171"
+			tasks: [{
+				id: "78CB906AB0F3F67E"
+				type: "item"
+				item: "ae2:sky_dust"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 2.0d
+			shape: "pentagon"
+			dependencies: [
+				"0EC86FFDFEDFDF96"
+				"608F9C97C746DA3A"
+			]
+			dependency_requirement: "one_completed"
+			id: "7EA15D680D22F69B"
+			tasks: [{
+				id: "2BB5D6DD433926E8"
+				type: "item"
+				item: "create:electron_tube"
+			}]
+			rewards: [
+				{
+					id: "5A936E9835A2371F"
+					type: "item"
+					item: {
+						id: "kubejs:lootbag_create_brass"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "71683E019FA5ED99"
+					type: "item"
+					item: "create:electron_tube"
+					count: 2
+				}
+			]
+		}
+		{
+			x: -5.0d
+			y: -0.5d
+			subtitle: "Промийте гравій"
+			dependencies: [
+				"183650453A13684A"
+				"472F3F99F006C58B"
+			]
+			dependency_requirement: "one_completed"
+			id: "15AB5DED45C5B6E4"
+			tasks: [{
+				id: "4E3B307B57E9174E"
+				type: "item"
+				item: "minecraft:iron_nugget"
+			}]
+		}
+		{
+			x: 1.5d
+			y: -0.5d
+			shape: "diamond"
+			subtitle: "Натисніть для інформації."
+			description: ["Послідовна збірка повертатиме лише насіння редстоуну як залишки."]
+			dependencies: [
+				"5FF85EC9DA06810F"
+				"68704916A38C450C"
+				"28F41BBD84F43AAB"
+			]
+			dependency_requirement: "one_completed"
+			id: "415F16AFB5FDC3FC"
+			tasks: [{
+				id: "04DC18B63F99A744"
+				type: "item"
+				item: "kubejs:redstone_cluster"
+			}]
+			rewards: [{
+				id: "41698F936DE4927F"
+				type: "item"
+				item: {
+					id: "kubejs:lootbag_create_brass"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: -1.5d
+			shape: "rsquare"
+			dependencies: ["6EFF8BCEBC2E2AF2"]
+			hide: true
+			id: "3513058D64801DAF"
+			tasks: [{
+				id: "452C7CD8E3C9F01A"
+				type: "item"
+				item: "minecraft:water_bucket"
+			}]
+		}
+		{
+			x: -4.5d
+			y: 10.5d
+			shape: "gear"
+			dependencies: ["729FE7549853385E"]
+			size: 1.5d
+			id: "0CE0A2710D578A1A"
+			tasks: [{
+				id: "417893485473D373"
+				type: "item"
+				item: "kubejs:integrational_mechanism"
+			}]
+			rewards: [
+				{
+					id: "5B0B05FB1EB29EC3"
+					type: "item"
+					item: {
+						id: "kubejs:lootbag_arcane_3"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "548F6326A1A866C6"
+					type: "item"
+					item: {
+						id: "kubejs:lootbag_create_radiant"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: -6.0d
+			y: 2.0d
+			dependencies: ["0158C3930229C41C"]
+			hide: true
+			id: "4132AB6AF6FC3ED0"
+			tasks: [{
+				id: "1B849CB34B9505FC"
+				type: "item"
+				item: "integrateddynamics:bucket_menril_resin"
+			}]
+		}
+		{
+			x: -4.5d
+			y: 7.5d
+			shape: "diamond"
+			dependencies: ["3A10D0D5E8548C54"]
+			hide: true
+			id: "729FE7549853385E"
+			tasks: [{
+				id: "211888E14F5E7001"
+				type: "item"
+				item: "ars_nouveau:source_gem"
+			}]
+		}
+		{
+			title: "Давайте знову прискоримо створення машин!"
+			icon: "create:brass_ingot"
+			x: 3.0d
+			y: 3.0d
+			shape: "square"
+			subtitle: "На щастя, цей розділ легко пройти швидко, оскільки вам потрібні лише редстоун та скайстоун!"
+			dependencies: ["6EFF8BCEBC2E2AF2"]
+			hide: true
+			id: "4BC7774659DA5996"
+			tasks: [{
+				id: "6F7AF45FE21745CB"
+				type: "checkmark"
+				title: "ок"
+			}]
+		}
+		{
+			title: "4x Дробильні колеса"
+			x: 3.0d
+			y: 5.0d
+			subtitle: "Для автоматизації піску. Але цсс, ви також можете зробити пісок за допомогою жорна, хоч і з меншою ефективністю!"
+			dependencies: ["54866C6D8E7DD4D1"]
+			dependency_requirement: "one_started"
+			id: "0D2D800F4A49CA86"
+			tasks: [{
+				id: "164C0755E8405ECC"
+				type: "item"
+				item: "create:crushing_wheel"
+				count: 4L
+			}]
+			rewards: [{
+				id: "6D78CE82DC5FD3BF"
+				type: "item"
+				item: {
+					id: "kubejs:lootbag_create_brass"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "21x Механічний крафтер"
+			x: 3.0d
+			y: 4.0d
+			subtitle: "Для дробильних коліс"
+			dependencies: ["4BC7774659DA5996"]
+			id: "54866C6D8E7DD4D1"
+			tasks: [{
+				id: "0A8DF121E4AE9719"
+				type: "item"
+				item: "create:mechanical_crafter"
+				count: 21L
+			}]
+		}
+		{
+			x: 3.0d
+			y: -4.0d
+			dependencies: ["5D9D3025CB2DEEA4"]
+			id: "6C157C90A109C62C"
+			tasks: [{
+				id: "648FCD08F3DE9ECB"
+				type: "item"
+				item: "ae2:sky_stone_block"
+			}]
+		}
+		{
+			title: "Бруківка"
+			icon: "minecraft:cobblestone"
+			x: 3.0d
+			y: 1.5d
+			shape: "rsquare"
+			dependencies: ["6EFF8BCEBC2E2AF2"]
+			hide: true
+			id: "68C479C7186A272E"
+			tasks: [{
+				id: "59BA3378413E26D7"
+				type: "checkmark"
+				title: "Зробіть генератор бруківки"
+			}]
+		}
+		{
+			title: "Гравій"
+			icon: "minecraft:gravel"
+			x: 3.0d
+			y: 0.5d
+			subtitle: "Подрібніть бруківку"
+			dependencies: ["68C479C7186A272E"]
+			id: "587F4DF4DAE4FEA7"
+			tasks: [{
+				id: "731625C1D0DBD738"
+				type: "checkmark"
+				title: "Подрібніть бруківку"
+			}]
+		}
+		{
+			x: -1.5d
+			y: -4.0d
+			subtitle: "Як бачите, редстоун відіграє центральну роль! Натисніть для отримання додаткової інформації."
+			description: ["Редстоун потрібно відправити до Каталізатора, щоб створити більше небесного каменю. Редстоун також потрібно відправити до плавильні, щоб отримати дестабілізований редстоун. Нарешті, ви можете повернути редстоун, переплавляючи редстоунові кластери."]
+			dependencies: ["6EFF8BCEBC2E2AF2"]
+			hide: true
+			id: "44DC0A3FAA5645AB"
+			tasks: [{
+				id: "150B36A2AF20D48D"
+				type: "item"
+				item: "minecraft:redstone"
+			}]
+		}
+		{
+			x: -3.5d
+			y: -2.0d
+			shape: "rsquare"
+			dependencies: ["6EFF8BCEBC2E2AF2"]
+			hide: true
+			id: "1AB3B0F68A9C03CE"
+			tasks: [{
+				id: "7B311DF874E9F6CF"
+				type: "item"
+				item: "tconstruct:seared_melter"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -0.5d
+			dependencies: [
+				"1AB3B0F68A9C03CE"
+				"44DC0A3FAA5645AB"
+			]
+			id: "630ECD0F8AB8AF0C"
+			tasks: [{
+				id: "4F8E2C92A1632FAA"
+				type: "item"
+				item: "thermal:redstone_bucket"
+			}]
+		}
+		{
+			x: -1.5d
+			y: -0.5d
+			dependencies: [
+				"630ECD0F8AB8AF0C"
+				"44DC0A3FAA5645AB"
+			]
+			dependency_requirement: "one_completed"
+			id: "0EC86FFDFEDFDF96"
+			tasks: [{
+				id: "4928E8FC05FCF196"
+				type: "item"
+				item: "create:rose_quartz"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -0.5d
+			subtitle: "Натисніть для інформації."
+			description: ["Послідовна збірка повертатиме лише насіння редстоуну як залишки."]
+			dependencies: ["0EC86FFDFEDFDF96"]
+			id: "28F41BBD84F43AAB"
+			tasks: [{
+				id: "559108A26CC73C87"
+				type: "item"
+				item: "kubejs:redstone_seed"
+			}]
+		}
+		{
+			x: -1.5d
+			y: -4.0d
+			shape: "diamond"
+			dependencies: ["415F16AFB5FDC3FC"]
+			id: "449387DB0AC44B63"
+		}
+		{
+			x: -4.0d
+			y: -0.5d
+			dependencies: [
+				"1AB3B0F68A9C03CE"
+				"15AB5DED45C5B6E4"
+			]
+			id: "608F9C97C746DA3A"
+			tasks: [{
+				id: "017671F75778E46F"
+				type: "item"
+				item: "tconstruct:molten_iron_bucket"
+			}]
+		}
+		{
+			x: -6.0d
+			y: -0.5d
+			subtitle: "З кримсайтових каталізаторів. Дивіться розділ «Автоматизовані розкопки» для отримання додаткової інформації."
+			dependencies: ["6EFF8BCEBC2E2AF2"]
+			hide: true
+			id: "472F3F99F006C58B"
+			tasks: [{
+				id: "5F4888E0B611709A"
+				type: "item"
+				item: "create:crushed_raw_iron"
+			}]
+		}
+		{
+			x: -5.0d
+			y: -2.0d
+			subtitle: "Подрібніть бруківку"
+			dependencies: ["4BF0679BAD02D8AE"]
+			id: "183650453A13684A"
+			tasks: [{
+				id: "718D4C41D77F08F6"
+				type: "item"
+				item: "minecraft:gravel"
+			}]
+		}
+		{
+			x: -5.0d
+			y: -3.0d
+			shape: "rsquare"
+			dependencies: ["6EFF8BCEBC2E2AF2"]
+			hide: true
+			id: "4BF0679BAD02D8AE"
+			tasks: [{
+				id: "5227F6047A422F41"
+				type: "item"
+				item: "minecraft:cobblestone"
+			}]
+		}
+		{
+			title: "Вічна викрутка"
+			icon: {
+				id: "kubejs:screwdriver"
+				Count: 1b
+				tag: {
+					Unbreakable: 1b
+					Damage: 0
+					Repair: 1b
+					Modifier: "forbidden_arcanus:eternal"
+					Enchantments: [{ }]
+				}
+			}
+			x: 0.0d
+			y: 3.0d
+			dependencies: ["6EFF8BCEBC2E2AF2"]
+			hide: true
+			id: "4F6956BBD4CE7CCF"
+			tasks: [
+				{
+					id: "0A008155B6EA02F3"
+					type: "item"
+					item: "thermal:silver_coin"
+					count: 64L
+					consume_items: true
+				}
+				{
+					id: "0ABF89723D2340A1"
+					type: "item"
+					item: {
+						id: "kubejs:screwdriver"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "72EFCB2BD99F66C1"
+				type: "item"
+				item: {
+					id: "kubejs:screwdriver"
+					Count: 1b
+					tag: {
+						Unbreakable: 1b
+						Damage: 0
+						Repair: 1b
+						Modifier: "forbidden_arcanus:eternal"
+						Enchantments: [{ }]
+					}
+				}
+			}]
+		}
+	]
+	quest_links: [ ]
+}

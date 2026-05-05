@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:item_frame",
+  "text": [
+    {
+      "text": "Ти втомився тримати свій годинник і компас? Чому б не носити їх замість цього?"
+    }
+  ],
+  "effects": [
+    "Adds slots to the helmet, interact to access",
+    "Helmet will render items when worn",
+    "Requires 1 Upgrade Slot per level"
+  ]
+}

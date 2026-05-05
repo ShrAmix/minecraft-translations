@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tconstruct:shulking",
+  "text": [
+    {
+      "text": "Надає +10% стійкості під час крадіння. Максимум 80% для всього набору або 8 рівнів."
+    },
+    {
+      "text": "Зменшує шкоду від атаки під час крадіння на 10% за кожен рівень найвищого елемента.",
+      "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Can apply levels incrementally",
+    "Requires 1 defense slot"
+  ]
+}

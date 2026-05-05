@@ -1,0 +1,11 @@
+{
+  "t.clc.opensubconfig": "Відкрити конфігурацію",
+  "t.clc.save": "Зберегти",
+  "t.clc.cancel_discard": "Скасувати",
+  "t.clc.quit_config": "Незбережені зміни",
+  "t.clc.quit_config_sure": "У вас є незбережені зміни в конфігурації. Ви впевнені, що хочете їх скасувати?",
+  "t.clc.quit_discard": "Вийти та скасувати",
+  "cl.buttons.edit": "Редагувати",
+  "cl.buttons.add_entry": "+ Додати запис",
+  "cl.buttons.entry": "Запис %s"
+}

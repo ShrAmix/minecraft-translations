@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:aqua_affinity",
+  "text": [
+    {
+      "text": "Привабливе налаштування водної області, що деактивує всі повітряні недуги."
+    }
+  ],
+  "effects": [
+    "Increases underwater mining speed",
+    "Single level",
+    "Requires 1 ability slot"
+  ]
+}

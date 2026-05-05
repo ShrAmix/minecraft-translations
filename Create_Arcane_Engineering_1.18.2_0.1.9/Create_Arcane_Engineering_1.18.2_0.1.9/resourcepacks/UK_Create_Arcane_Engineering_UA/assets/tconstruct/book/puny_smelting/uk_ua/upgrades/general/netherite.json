@@ -1,0 +1,18 @@
+{
+  "modifier_id": "tconstruct:netherite",
+  "text": [
+    {
+      "text": "Сила нетеру протікає інтенсивно через твій інструмент."
+    },
+    {
+      "text": "Так сильно, що інструмент не може бути пошкоджений зовнішніми чинниками, такими як лава.",
+      "paragraph": true
+    }
+  ],
+  "effects": [
+    "Boosts durability, attack damage, mining speed, toughness, and knockback resistance",
+    "Requires Diamond or Emerald to be applied",
+    "Single Level",
+    "Requires 1 Upgrade Slot"
+  ]
+}

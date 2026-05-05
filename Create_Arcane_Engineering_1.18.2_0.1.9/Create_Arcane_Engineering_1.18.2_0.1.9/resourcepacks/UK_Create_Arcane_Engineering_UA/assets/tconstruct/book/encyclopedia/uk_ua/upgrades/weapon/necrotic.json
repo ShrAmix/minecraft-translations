@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:necrotic",
+  "text": [
+    {
+      "text": "Критичні удари відновлюють 5% завданої шкоди за рівень. Інструмент втрачає 1 додаткову стійкість на рівень."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 5 levels",
+    "Requires 1 upgrade slot per level"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:blindshot",
+  "text": [
+    {
+      "text": "Я покладу трохи глини тобі в око."
+    }
+  ],
+  "effects": [
+    "Decreases accuracy of fired projectiles",
+    "Multiple levels, each level decreases drawspeed further",
+    "Slotless"
+  ]
+}

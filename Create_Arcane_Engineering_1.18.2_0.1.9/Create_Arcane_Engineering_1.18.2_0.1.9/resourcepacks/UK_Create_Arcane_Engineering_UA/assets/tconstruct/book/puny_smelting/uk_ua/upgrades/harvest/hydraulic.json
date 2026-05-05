@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:hydraulic",
+  "text": [
+    {
+      "text": "За допомогою магії насосів та рідин ви можете легко переміщати речі. Я маю на увазі, ви просто можете не робити цього у цьому випадку."
+    }
+  ],
+  "effects": [
+    "Mines faster underwater or in the rain",
+    "Multiple levels, increases speed further with each level",
+    "Requires 1 Upgrade Slot per level"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "modifier_id": "tconstruct:slurping",
+  "text": [
+    {
+      "text": "Він був першим!"
+    },
+    {
+      "text": "Правильне натискання на резервуар, тримаючи інструмент, заповнює його рідиною.",
+      "paragraph": true
+    }
+  ],
+  "effects": [
+    "Drink fluids stored in the helmet",
+    "Keybind is used to drink",
+    "Single level",
+    "Requires 1 ability slot"
+  ]
+}

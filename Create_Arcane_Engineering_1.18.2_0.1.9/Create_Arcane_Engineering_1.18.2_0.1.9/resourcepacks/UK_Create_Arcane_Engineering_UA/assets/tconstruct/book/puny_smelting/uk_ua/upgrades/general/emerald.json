@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:emerald",
+  "text": [
+    {
+      "text": "Найкращий друг селянина, не дозвольте селянам побачити, як ви це застосовуєте! Це не ваші талісмани щастя."
+    }
+  ],
+  "effects": [
+    "Increases tool durability depending on base durability",
+    "Increases conditional damage, mining speed, and knockback resistance",
+    "Single Level",
+    "Requires 1 Upgrade Slot"
+  ]
+}

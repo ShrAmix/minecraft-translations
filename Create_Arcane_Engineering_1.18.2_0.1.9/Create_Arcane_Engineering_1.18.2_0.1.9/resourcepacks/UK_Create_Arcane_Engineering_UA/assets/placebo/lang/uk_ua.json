@@ -1,0 +1,8 @@
+{
+  "key.categories.placebo": "Плацебо",
+  "placebo.toggleTrails": "Вимкнути/вмикати сліди Patreon",
+  "placebo.toggleWings": "Вимкнути/вмикати крила Patreon",
+  "placebo.cmd.serialize_success": "Збережено %s до %s.",
+  "placebo.cmd.serialize_failure": "Під час процесу серіалізації виникла помилка.",
+  "placebo.cmd.not_found": "%s не знайдено."
+}
