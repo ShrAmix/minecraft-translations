@@ -65,7 +65,7 @@
   "create.tooltip.create_new_age.temperature.ps": "%s ˚T/с",
   "create.tooltip.create_new_age.transfers": "Передає: ",
   "create.tooltip.create_new_age.using": "Використовує: ",
-  "create_new_age.monkey_edition": "Create: New Age [Monkey Edition]",
+  "create_new_age.monkey_edition": "Create: New Age [Мавпяче видання]",
   "create_new_age.ponder.energiser.header": "Енергізатор",
   "create_new_age.ponder.energiser.text_1": "При отриманні електрики та обертання, Енергізатор буде заряджати предмети в депо та на конвеєрах під ним.",
   "create_new_age.ponder.generation.header": "Генерація електрики",
