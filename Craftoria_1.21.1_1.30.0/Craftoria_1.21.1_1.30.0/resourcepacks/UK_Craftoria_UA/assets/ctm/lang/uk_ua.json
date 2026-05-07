@@ -1,0 +1,9 @@
+{
+  "ctm.configuration.title": "Налаштування CTM",
+  "ctm.configuration.section.ctm.toml.title": "Налаштування CTM",
+  "ctm.configuration.section.ctm.toml": "Налаштування CTM",
+  "configuration.ctm.disable": "Вимкнути CTM",
+  "configuration.ctm.disable.tooltip": "Повністю вимкнути з'єднані текстури",
+  "configuration.ctm.connect_inside": "З'єднувати всередині CTM",
+  "configuration.ctm.connect_inside.tooltip": "Виберіть, чи буде внутрішній кут роз'єднаний на блоці CTM - https://imgur.com/eUywLZ4"
+}

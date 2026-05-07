@@ -1,0 +1,13 @@
+{
+  "ars_nouveau.augment_desc.glyph_cut_glyph_aoe": "Збільшує радіус пошуку предметів для обробки.",
+  "ars_nouveau.augment_desc.glyph_cut_glyph_pierce": "Збільшує кількість предметів, які обробить «Розрізання».",
+  "ars_nouveau.augment_desc.glyph_cut_glyph_sensitive": "«Розрізання» намагатиметься обробити предмети поруч.",
+  "ars_nouveau.augment_desc.glyph_flatten_glyph_aoe": "Збільшує радіус пошуку предметів для обробки.",
+  "ars_nouveau.augment_desc.glyph_flatten_glyph_pierce": "Збільшує кількість предметів, які обробить «Сплющення».",
+  "ars_nouveau.augment_desc.glyph_flatten_glyph_sensitive": "«Сплющення» намагатиметься обробити предмети поруч.",
+  "ars_unification.augment_with": "Доповніть цей гліф за допомогою %s, щоб використовувати ці рецепти.",
+  "ars_unification.cut_recipe": "Гліф «Розрізання»",
+  "ars_unification.press_recipe": "Гліф «Сплющення»",
+  "emi.category.ars_unification.cut": "Гліф «Розрізання»",
+  "emi.category.ars_unification.press": "Гліф «Сплющення»"
+}

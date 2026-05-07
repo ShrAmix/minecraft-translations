@@ -1,0 +1,13 @@
+{
+  "betterstrongholds.commands.locate.stronghold": "Використовуйте /locate structure betterstrongholds:stronghold замість цього!",
+  "Use /locate structure betterstrongholds:stronghold instead!": "Використовуйте /locate structure betterstrongholds:stronghold замість цього!",
+  "text.autoconfig.betterstrongholds-fabric-1_21.title": "YUNG's Better Strongholds",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds": "YUNG's Better Strongholds",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general": "Загальні налаштування",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.@Tooltip": "Загальні налаштування.",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin": "Увімкнути руйнування структури",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin.@Tooltip[0]": "Дозволяє фортецям бути злегка зруйнованими невеликими печерами-черв'яками.",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin.@Tooltip[1]": "Зауважте, що великі печери не впливатимуть на них.",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.filledPortalFrameChance": "Шанс заповненої рамки порталу",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.filledPortalFrameChance.@Tooltip": "Шанс того, що кожен блок рамки порталу Краю з'явиться вже заповненим Оком Краю."
+}

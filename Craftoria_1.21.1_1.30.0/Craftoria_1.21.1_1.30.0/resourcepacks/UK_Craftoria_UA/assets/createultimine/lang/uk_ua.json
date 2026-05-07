@@ -1,0 +1,6 @@
+{
+  "sidebar_button.createultimine.config": "Налаштування Create Ultimine",
+  "createultimine.server_settings": "Налаштування сервера Create Ultimine",
+  "createultimine.server_settings.features.manual_application": "Ручне застосування: натисніть правою кнопкою миші, щоб застосувати предмети до кількох блоків",
+  "createultimine.server_settings.features.right_click_wrench": "Гайковий ключ: натисніть правою кнопкою миші, щоб налаштувати кілька блоків"
+}

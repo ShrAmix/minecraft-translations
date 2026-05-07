@@ -1,0 +1,14 @@
+{
+  "item.mob_bottle.tooltip": "Містить: %s",
+  "item.mob_bottle.tooltip_empty": "Клацніть правою кнопкою миші на зменшену сутність зі скляною пляшкою, щоб захопити її",
+  "item.mob_bottle.tooltip_with_name": "Містить: %s (%s)",
+  "item.shrink.shrink_bottle": "Скляна пляшка",
+  "item.shrink.shrinking_device": "Персональний пристрій для зменшення",
+  "itemGroup.shrink": "Зменшення",
+  "key.shrink.category": "Зменшення",
+  "key.shrink.shrink": "Перемкнути зменшення",
+  "shrink.deny_shrink": "Зменшення сутності заблоковано через тег заборони",
+  "shrink.message.already_shrunk": "Неможливо відкрити, поки ви вже зменшені",
+  "shrink.message.missing": "Відсутній атрибут зменшення",
+  "shrink.message.power": "Недостатньо енергії"
+}

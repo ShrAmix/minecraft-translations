@@ -1,0 +1,16 @@
+{
+  "colorfulhearts.screen.configuration.title": "Барвисті серця",
+  "colorfulhearts.screen.configuration.colors.category": "Кольори",
+  "colorfulhearts.screen.health.title": "Кольори здоров'я",
+  "colorfulhearts.screen.absorption.title": "Кольори поглинання",
+  "colorfulhearts.options.button.health_colors": "Здоров'я",
+  "colorfulhearts.options.button.absorption_colors": "Поглинання",
+  "colorfulhearts.options.button.hearttype.normal": "Звичайні",
+  "colorfulhearts.options.button.hearttype.poisoned": "Отруєні",
+  "colorfulhearts.options.button.hearttype.withered": "Виснажені",
+  "colorfulhearts.options.button.hearttype.frozen": "Заморожені",
+  "colorfulhearts.options.button.confirmsave": "Зберегти та вийти",
+  "colorfulhearts.options.button.cancel": "Скасувати",
+  "colorfulhearts.options.button.vanillaheart.true": "Ванільні: Увімк.",
+  "colorfulhearts.options.button.vanillaheart.false": "Ванільні: Вимк."
+}

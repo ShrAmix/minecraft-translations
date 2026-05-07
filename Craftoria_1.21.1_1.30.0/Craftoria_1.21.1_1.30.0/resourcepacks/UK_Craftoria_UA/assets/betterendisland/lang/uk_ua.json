@@ -1,0 +1,15 @@
+{
+  "text.autoconfig.betterendisland-fabric-1_21.title": "YUNG's Better End Island",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.resummonedDragonDropsEgg": "Повторно викликаний дракон скидає яйце",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.resummonedDragonDropsEgg.@Tooltip": "Чи буде Ендер-дракон скидати яйце кожного разу, коли його перемагають",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaSpawnPlatform": "Використовувати ванільну платформу появи",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaSpawnPlatform.@Tooltip": "Чи повинна ванільна обсидіанова платформа з'являтися в Енді замість оновленої платформи",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways": "Використовувати ванільні портали Енду",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways.@Tooltip": "Чи повинні ванільні портали Енду з'являтися в Енді замість оновлених порталів",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound": "Відтворювати звук дзвона",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound.@Tooltip": "Чи повинен відтворюватися звук дзвона перед першим викликом Ендер-дракона та під час повторних викликів",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially": "Створювати центральну вежу спочатку",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially.@Tooltip": "Чи повинна центральна вежа з'являтися в Енді під час першої генерації світу",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon": "Відроджувати центральну вежу при повторному виклику",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon.@Tooltip": "Чи повинна центральна вежа відроджуватися в Енді, коли Ендер-дракон викликається повторно"
+}

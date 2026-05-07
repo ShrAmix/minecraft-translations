@@ -1,0 +1,23 @@
+{
+  "xmxw.config.categories.waypoint.groups.colorCandidates.name": "Кандидати кольорів",
+  "xmxw.config.categories.waypoint.groups.colorCandidates.options._color.description": "Використовувати %s як кандидата для випадкових кольорів.",
+  "xmxw.config.categories.waypoint.groups.offset.name": "Зміщення",
+  "xmxw.config.categories.waypoint.groups.offset.options.x.description": "Встановити зміщення по осі X для відображення шляхової точки.",
+  "xmxw.config.categories.waypoint.groups.offset.options.x.name": "X",
+  "xmxw.config.categories.waypoint.groups.offset.options.y.description": "Встановити зміщення по осі Y для відображення шляхової точки.",
+  "xmxw.config.categories.waypoint.groups.offset.options.y.name": "Y",
+  "xmxw.config.categories.waypoint.groups.offset.options.z.description": "Встановити зміщення по осі Z для відображення шляхової точки.",
+  "xmxw.config.categories.waypoint.groups.offset.options.z.name": "Z",
+  "xmxw.config.categories.waypoint.name": "Шляхова точка",
+  "xmxw.config.categories.waypoint.options.color.description": "Виберіть колір шляхової точки.",
+  "xmxw.config.categories.waypoint.options.color.name": "Колір",
+  "xmxw.config.categories.waypoint.options.nameFormat.description": "Виберіть формат для назв шляхових точок.",
+  "xmxw.config.categories.waypoint.options.nameFormat.name": "Формат назви",
+  "xmxw.config.categories.waypoint.options.title.description": "Встановити заголовок, що відображається на шляхових точках.",
+  "xmxw.config.categories.waypoint.options.title.name": "Заголовок",
+  "xmxw.config.categories.waypoint.options.visibility.description": "Встановити видимість шляхової точки.",
+  "xmxw.config.categories.waypoint.options.visibility.name": "Видимість",
+  "xmxw.config.title": "Налаштування XMXW",
+  "xmxw.messages.custom_waypoint_uneditable": "Шляхові точки, створені модами, не можна редагувати!",
+  "xmxw.messages.mod_update_available": "Доступна нова версія %s! Ви використовуєте версію %s"
+}

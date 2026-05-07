@@ -1,0 +1,12 @@
+{
+  "_comment": "# Налаштування можливостей",
+  "config.commoncapabilities": "Конфігурація %s",
+  "recipecomponent.minecraft.itemstack": "Предмет",
+  "recipecomponent.minecraft.fluidstack": "Рідина",
+  "recipecomponent.minecraft.energy": "Енергія",
+  "capability.commoncapabilities.inventoryState": "Стан інвентарю",
+  "capability.commoncapabilities.temperature": "Температура",
+  "capability.commoncapabilities.worker": "Працівник",
+  "capability.commoncapabilities.worldNameable": "Названий світ",
+  "capability.commoncapabilities.wrench": "Гайковий ключ"
+}

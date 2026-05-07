@@ -1,0 +1,6 @@
+{
+  "Use /locate structure betterfortresses:fortress instead!": "Використовуйте /locate structure betterfortresses:fortress замість цього!",
+  "text.autoconfig.betterfortresses-fabric-1_21.title": "YUNG's Better Nether Fortresses",
+  "text.autoconfig.betterfortresses-fabric-1_21.option.general.disableVanillaFortresses": "Вимкнути ванільні пекельні фортеці",
+  "text.autoconfig.betterfortresses-fabric-1_21.option.general.disableVanillaFortresses.@Tooltip": "Чи повинні бути вимкнені ванільні пекельні фортеці."
+}

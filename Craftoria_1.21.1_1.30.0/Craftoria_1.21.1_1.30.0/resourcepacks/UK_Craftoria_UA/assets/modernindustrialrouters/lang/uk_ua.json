@@ -1,0 +1,13 @@
+{
+  "item.modernindustrialrouters.ev_upgrade": "EV енергетичне покращення",
+  "item.modernindustrialrouters.hv_upgrade": "HV енергетичне покращення",
+  "item.modernindustrialrouters.lv_upgrade": "LV енергетичне покращення",
+  "item.modernindustrialrouters.mv_upgrade": "MV енергетичне покращення",
+  "item.modernindustrialrouters.superconductor_upgrade": "Надпровідникове енергетичне покращення",
+  "modernindustrialrouters.in_gui.eu_upgrade": "• Енергетична місткість цього маршрутизатора: %d EU\n• Швидкість передачі цього маршрутизатора: %d EU/тік маршрутизатора",
+  "modularrouters.itemText.usage.item.ev_upgrade": "Змушує енергетичні модулі в маршрутизаторі працювати так, ніби вони передають Modern Industrialisation EU рівня %d\nЗбільшує енергетичний буфер маршрутизатора на %d EU, а швидкість передачі на %d EU/тік маршрутизатора",
+  "modularrouters.itemText.usage.item.hv_upgrade": "Змушує енергетичні модулі в маршрутизаторі працювати так, ніби вони передають Modern Industrialisation EU рівня %d\nЗбільшує енергетичний буфер маршрутизатора на %d EU, а швидкість передачі на %d EU/тік маршрутизатора",
+  "modularrouters.itemText.usage.item.lv_upgrade": "Змушує енергетичні модулі в маршрутизаторі працювати так, ніби вони передають Modern Industrialisation EU рівня %d\nЗбільшує енергетичний буфер маршрутизатора на %d EU, а швидкість передачі на %d EU/тік маршрутизатора",
+  "modularrouters.itemText.usage.item.mv_upgrade": "Змушує енергетичні модулі в маршрутизаторі працювати так, ніби вони передають Modern Industrialisation EU рівня %d\nЗбільшує енергетичний буфер маршрутизатора на %d EU, а швидкість передачі на %d EU/тік маршрутизатора",
+  "modularrouters.itemText.usage.item.superconductor_upgrade": "Змушує енергетичні модулі в маршрутизаторі працювати так, ніби вони передають Modern Industrialisation EU рівня %d\nЗбільшує енергетичний буфер маршрутизатора на %d EU, а швидкість передачі на %d EU/тік маршрутизатора"
+}

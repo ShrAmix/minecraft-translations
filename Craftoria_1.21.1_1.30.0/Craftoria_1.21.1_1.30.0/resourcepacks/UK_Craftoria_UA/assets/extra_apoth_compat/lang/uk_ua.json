@@ -1,0 +1,14 @@
+{
+  "tag.item.apotheosis.rarity_materials": "Матеріали рідкісності",
+  "tag.item.apothic_enchanting.boon_drops": "Випадіння дарів землі",
+  "tag.item.apothic_enchanting.infused_shelves": "Наповнені полиці",
+  "tag.item.curios.charm": "Амулети",
+  "emi.category.extra_apoth_compat.spawner_modifier": "Модифікатори спавнерів",
+  "emi.category.extra_apoth_compat.gem_cutting": "Огранювання дорогоцінного каміння",
+  "emi.category.extra_apoth_compat.enchanting": "Наповнення",
+  "emi.category.extra_apoth_compat.salvaging": "Утилізація",
+  "emi.extra_apoth_compat.unnaming.info": "Назва афікса буде видалена",
+  "emi.extra_apoth_compat.socketing_sigil.info": "Предмет отримає додатковий слот, до %d",
+  "emi.extra_apoth_compat.socketing.info": "До цього предмета буде додано дорогоцінний камінь",
+  "emi.extra_apoth_compat.withdrawal.info": "Усе дорогоцінне каміння буде видалено з цього предмета"
+}

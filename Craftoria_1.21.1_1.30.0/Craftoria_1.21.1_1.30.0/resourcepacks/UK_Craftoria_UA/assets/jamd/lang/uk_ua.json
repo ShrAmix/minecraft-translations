@@ -1,0 +1,16 @@
+{
+  "advancements.jamd.mining.description": "Увійдіть у Вимір для видобутку",
+  "advancements.jamd.mining.title": "До нескінченності та під землю",
+  "biome.jamd.end": "Видобуток у Краї",
+  "biome.jamd.mining": "Видобуток",
+  "biome.jamd.nether": "Видобуток у Незері",
+  "block.jamd.end_portal": "Портал для видобутку в Краї",
+  "block.jamd.nether_portal": "Портал для видобутку в Незері",
+  "block.jamd.portal_block": "Портал для видобутку",
+  "dimension.jamd.end": "Видобуток у Краї",
+  "dimension.jamd.mining": "Видобуток",
+  "dimension.jamd.nether": "Видобуток у Незері",
+  "jamd.argument.world_type.invalid": "Недійсний тип світу '%s'",
+  "jamd.invalid.pos": "Не вдалося знайти дійсне місце для порталу",
+  "jamd.invalid.world": "Не вдалося знайти світ '%s'"
+}

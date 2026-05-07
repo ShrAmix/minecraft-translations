@@ -1,0 +1,20 @@
+{
+  "config.jamlib.selection_screen_title": "Виберіть конфігурацію для %s",
+  "config.jamlib.open": "Відкрити",
+  "config.jamlib.edit_manually": "Редагувати вручну",
+  "config.jamlib.reset": "Скинути",
+  "config.jamlib.reset_tooltip": "Скинути до значення за замовчуванням",
+  "config.jamlib.matches_regex_tooltip": "Значення повинно відповідати наступному регулярному виразу: %s",
+  "config.jamlib.requires_restart_tooltip": "Для застосування цієї зміни потрібен перезапуск",
+  "config.jamlib.within_range_tooltip": "Значення повинно бути в межах від %d до %d",
+  "text.jamlib.renamed_1": "Наступні файли модів були перейменовані — це часто є ознакою того, що мод був %s.",
+  "text.jamlib.renamed_1.1": "розповсюджений без дозволу",
+  "text.jamlib.renamed_2": "Сайти, такі як %s %s, можуть бути використані для %s. Моди можна офіційно знайти на %s та %s.",
+  "text.jamlib.renamed_2.1": "9minecraft",
+  "text.jamlib.renamed_2.2": "шкоди моддерам",
+  "text.jamlib.renamed_2.3": "розповсюдження шкідливого ПЗ",
+  "text.jamlib.renamed_2.4": "CurseForge",
+  "text.jamlib.renamed_2.5": "Modrinth",
+  "text.jamlib.renamed_3": "Це повідомлення з'явиться лише один раз. %s.",
+  "text.jamlib.renamed_3.1": "Якщо ви вважаєте, що це помилкове спрацювання, будь ласка, зв'яжіться з автором мода"
+}

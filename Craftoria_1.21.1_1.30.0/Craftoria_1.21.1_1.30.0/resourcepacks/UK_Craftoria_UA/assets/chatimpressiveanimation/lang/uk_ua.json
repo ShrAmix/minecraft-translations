@@ -1,0 +1,12 @@
+{
+  "fml.menu.mods.info.displayname.chatimpressiveanimation": "Вражаюча анімація чату",
+  "fml.menu.mods.info.description.chatimpressiveanimation": "Робить чат кращим, додаючи анімації, такі як відкриття/закриття панелі чату, надсилання повідомлень тощо. Також видаляє індикатор повідомлень.",
+  "modmenu.nameTranslation.chatimpressiveanimation": "Вражаюча анімація чату",
+  "modmenu.descriptionTranslation.chatimpressiveanimation": "Робить чат кращим, додаючи анімації, такі як відкриття/закриття панелі чату, надсилання повідомлень тощо. Також видаляє індикатор повідомлень.",
+  "text.autoconfig.chatimpressiveanimation.title": "Вражаюча анімація чату",
+  "text.autoconfig.chatimpressiveanimation.option.enableChatSendingAnimation": "Увімкнути анімацію надсилання повідомлень",
+  "text.autoconfig.chatimpressiveanimation.option.chatSendingAnimationFadeTime": "Тривалість анімації надсилання повідомлень (мс)",
+  "text.autoconfig.chatimpressiveanimation.option.enableChatBarAnimation": "Увімкнути анімацію панелі чату",
+  "text.autoconfig.chatimpressiveanimation.option.chatBarAnimationFadeTime": "Тривалість анімації панелі чату (мс)",
+  "text.autoconfig.chatimpressiveanimation.option.removeMessageIndicator": "Видалити індикатор повідомлень"
+}

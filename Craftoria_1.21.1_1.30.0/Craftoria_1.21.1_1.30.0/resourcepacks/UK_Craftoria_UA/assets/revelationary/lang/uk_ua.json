@@ -1,0 +1,9 @@
+{
+  "commands.revelationary.advancement.revoke": "Анульовано %d досягнень у %s у %s:%s",
+  "commands.revelationary.advancement.grant": "Надано %d досягнень гравцю %s у %s:%s",
+  "commands.revelationary.advancement.sync": "Синхронізовано %d досягнень від %s до %s у %s:%s",
+  "text.autoconfig.Revelationary.title": "Revelationary",
+  "text.autoconfig.Revelationary.option.UseTargetBlockOrItemNameInsteadOfScatter": "Використовувати назву цільового блоку/предмета замість розсіювання",
+  "text.autoconfig.Revelationary.option.NameForCloakedBlocks": "Назва для прихованих блоків",
+  "text.autoconfig.Revelationary.option.NameForCloakedItems": "Назва для прихованих предметів"
+}

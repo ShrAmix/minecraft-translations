@@ -1,0 +1,19 @@
+{
+  "block.arseng.me_source_jar": "ME Джерельна банка",
+  "block.arseng.source_acceptor": "ME Джерельний конвертер",
+  "item.arseng.cable_source_acceptor": "ME Джерельний конвертер",
+  "item.arseng.portable_source_cell_16k": "16k Портативна джерельна комірка",
+  "item.arseng.portable_source_cell_1k": "1k Портативна джерельна комірка",
+  "item.arseng.portable_source_cell_256k": "256k Портативна джерельна комірка",
+  "item.arseng.portable_source_cell_4k": "4k Портативна джерельна комірка",
+  "item.arseng.portable_source_cell_64k": "64k Портативна джерельна комірка",
+  "item.arseng.source_cell_housing": "Корпус ME джерельної комірки",
+  "item.arseng.source_p2p_tunnel": "ME Джерельний P2P-тунель",
+  "item.arseng.source_storage_cell_16k": "16k ME Джерельна комірка зберігання",
+  "item.arseng.source_storage_cell_1k": "1k ME Джерельна комірка зберігання",
+  "item.arseng.source_storage_cell_256k": "256k ME Джерельна комірка зберігання",
+  "item.arseng.source_storage_cell_4k": "4k ME Джерельна комірка зберігання",
+  "item.arseng.source_storage_cell_64k": "64k ME Джерельна комірка зберігання",
+  "item.arseng.spell_p2p_tunnel": "ME Заклинальний P2P-тунель",
+  "itemGroup.arseng": "Ars Énergistique"
+}

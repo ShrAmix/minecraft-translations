@@ -1,0 +1,20 @@
+{
+  "block.ars_creo.starbuncle_wheel": "Колесо Старбанкла",
+  "ars_creo.page1.starbuncle_wheel": "Генерує обертальну силу для Create. Розміщення золотого блока перед колесом збільшить кількість обертів на хвилину (RPM).",
+  "ars_creo.page.behaviors": "Ars Creo додає спеціальні механізми для блоків з Ars Nouveau, включаючи заклинальні турелі та банки з джерелом. Базова заклинальна турель - випускає заклинання на механізмі при взаємодії. Таймерна турель - випускає заклинання через певний інтервал. Зачарована заклинальна турель - випускає заклинання на кожному новому відвіданому блоці. Банка з джерелом - може споживатися турелями на механізмі.",
+  "itemGroup.ars_creo.general": "Ars Creo",
+  "ars_creo.display_source.turret.not_enough_space": "Недостатньо місця ",
+  "ars_creo.display_source.turret.for_turret_status": "для статусу турелі",
+  "ars_creo.display_source.turret.no_spell": "Заклинання не встановлено.",
+  "ars_creo.display_source.turret.spell_name": "Заклинання: %s",
+  "ars_creo.display_source.turret.spell": "%s",
+  "ars_creo.display_source.turret_target": "Заклинальна турель",
+  "ars_creo.display_source.source_count": "Джерело: %s",
+  "ars_creo.display_source.for_source_status": "для статусу джерела",
+  "ars_creo.display_source.source_jar": "Кількість джерела",
+  "ars_creo.display_source.turret": "Заклинання",
+  "ars_creo.page1.ars_creo.display_link": "Дисплейний зв'язок можна прикріпити до банки з джерелом, щоб відобразити кількість джерела в банці, або до заклинальної турелі, щоб відобразити поточне заклинання на дисплейній дошці.",
+  "ars_creo.page1.ars_creo.fluid_tank": "Зілля можна зберігати та передавати між резервуарами для рідини Create за допомогою труб та резервуара.",
+  "ars_creo.display_link": "Ars Creo: Дисплейний зв'язок",
+  "ars_creo.fluid_tank": "Ars Creo: Резервуар для рідини"
+}

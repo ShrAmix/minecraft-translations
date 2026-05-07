@@ -1,0 +1,15 @@
+{
+  "ftbquestslangsplitter.configuration.title": "Налаштування FTB Quests Lang Splitter",
+  "ftbquestslangsplitter.configuration.section.ftbquestslangsplitter.common.toml": "Налаштування FTB Quests Lang Splitter",
+  "ftbquestslangsplitter.configuration.section.ftbquestslangsplitter.common.toml.title": "Налаштування FTB Quests Lang Splitter",
+  "ftbquestslangsplitter.commands.unsupported_locale": "Локаль %s не підтримується",
+  "ftbquestslangsplitter.commands.permission_denied": "У вас немає дозволу на виконання цієї команди",
+  "ftbquestslangsplitter.commands.lang_manager_force_saved": "Менеджер мов примусово збережено",
+  "ftbquestslangsplitter.commands.added_missing_lang_entries": "Додано %s відсутніх записів до мови %s",
+  "ftbquestslangsplitter.commands.no_missing_entries": "У мові %s немає відсутніх записів",
+  "ftbquestslangsplitter.commands.lang_file_split": "Мовний файл %s успішно розділено",
+  "ftbquestslangsplitter.commands.all_lang_file_split": "Усі мовні файли успішно розділено",
+  "ftbquestslangsplitter.commands.file_already_exists": "Файл за адресою %s вже існує, пропускаю...",
+  "ftbquestslangsplitter.commands.purged_merged_files": "Об'єднані файли видалено",
+  "ftbquestslangsplitter.split.lang_saved_reminder": "Ви перебуваєте в режимі редагування, і схоже, що мовний файл було збережено. Не забудьте розділити його, коли закінчите!"
+}

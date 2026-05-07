@@ -1,0 +1,186 @@
+{
+  "config.jade.plugin_tempad.chronon": "Хронон",
+  "gui.tempad.search_field": "Пошук...",
+  "gui.tempad.name_field": "Назва...",
+  "gui.tempad.teleport_disabled": "Ви не можете телепортуватися до цього місця",
+  "gui.tempad.delete": "Видалити місце",
+  "gui.tempad.delete_disabled": "Ви не можете видалити це місце",
+  "gui.tempad.favorite": "Додати до обраного",
+  "gui.tempad.unfavorite": "Видалити з обраного",
+  "gui.tempad.timedoor": "Часові двері",
+  "gui.tempad.dimension": "Вимір: %s",
+  "gui.tempad.no_locations.first_line": "Натисніть [+], щоб",
+  "gui.tempad.no_locations.second_line": "додати місце",
+  "gui.tempad.no_selection.first_line": "Оберіть місце",
+  "gui.tempad.no_selection.second_line": "для детальнішої інформації",
+  "gui.tempad.x": "X: %s",
+  "gui.tempad.y": "Y: %s",
+  "gui.tempad.z": "Z: %s",
+  "gui.tempad.angle": "Кут: %s",
+  "advancements.tempad.tempad": "На всі часи. Завжди.",
+  "advancements.tempad.tempad.description": "Отримайте Темпад",
+  "advancements.tempad.he_who_remains": "Славна мета!",
+  "advancements.tempad.he_who_remains.description": "Отримайте Темпад «Того, хто залишається»",
+  "subtitles.tempad.entity.timedoor.open": "Часові двері відчиняються",
+  "message.tempad.not_enough_chronons": "Недостатньо хрононів",
+  "dimension.minecraft.overworld": "Звичайний світ",
+  "dimension.minecraft.the_nether": "Незвідане (Нетер)",
+  "dimension.minecraft.the_end": "Край (Енд)",
+  "locations.tempad.anchor_point": "Маркер з назвою: \"%s\"",
+  "locations.tempad.player": "Відстеження гравця: %s",
+  "item.tempad.creative_chronometer.infinite": "Нескінченно",
+  "block.tempad.workstation_child": "Робочий термінал",
+  "category.tempad": "Темпад",
+  "key.tempad.shortcut": "Відкрити екран Темпада",
+  "screen.tempad.marker": "Маркер",
+  "screen.tempad.marker.access_field": "Хто має доступ?",
+  "screen.tempad.marker.public_access": "Публічний доступ:",
+  "screen.tempad.marker.yoffset": "Зміщення порталу по Y:",
+  "screen.tempad.marker.angle": "Кут:",
+  "access.tempad.private": "Тільки ви",
+  "access.tempad.public": "Усі",
+  "access.tempad.guild": "Члени гільдії",
+  "access.tempad.party": "Члени групи",
+  "access.tempad.ftbteams": "Команда",
+  "app.tempad.tp_to.teleport": "Телепортація",
+  "app.tempad.tp_to.selected": "Обрано",
+  "provider.tempad.default": "На пристрої",
+  "provider.tempad.markers": "Маркери",
+  "provider.tempad.player": "Гравці",
+  "provider.tempad.wallet": "Гаманець карток",
+  "macro.tempad.default": "Відкрити обране",
+  "macro.tempad.default.description": "Телепортуватися до обраного місця",
+  "button.tempad.type": "Сортувати за типом",
+  "button.tempad.alphabetical": "Сортувати за алфавітом",
+  "button.tempad.dimension": "Сортувати за виміром",
+  "marker.tempad.death": "Загинув у",
+  "marker.tempad.respawn": "Відродився у",
+  "marker.tempad.dimension_exit": "Вийшов з виміру у",
+  "marker.tempad.dimension_enter": "Увійшов у вимір у",
+  "config.jade.plugin_tempad.timedoor": "Часові двері",
+  "config.jade.plugin_tempad.anchor": "Маркер",
+  "config.jade.plugin_tempad.rudimentary": "Проєктор часових дверей",
+  "config.jade.plugin_tempad.metronome": "Метроном",
+  "config.jade.plugin_tempad.workstation": "Робоча станція",
+  "jade.tempad.will_close": "Закриття через %s секунд",
+  "jade.tempad.closing": "Закриття...",
+  "jade.tempad.pos": "Телепортація до %s у %s",
+  "misc.tempad.return": "Повернення до %s",
+  "tempad.tooltip.player_pos": "Ціль: %s",
+  "misc.tempad.upgrades": "Встановлені покращення:",
+  "misc.tempad.wandering": "Блукання у",
+  "misc.tempad.shift_key_info": "Утримуйте [%s] для детальнішої інформації",
+  "location.tempad.saved": [
+    "",
+    {
+      "text": "Збережене місце: ",
+      "color": "#ff6f00"
+    },
+    {
+      "index": 0,
+      "color": "#91450d"
+    }
+  ],
+  "location.tempad.player.error": [
+    "",
+    {
+      "text": "Помилка: ",
+      "color": "#ff6f00"
+    },
+    {
+      "text": "Місця гравців не можна зберігати",
+      "color": "#91450d"
+    }
+  ],
+  "tempad.error.timedoor_already_open": "Часові двері вже відчинені",
+  "entity.tempad.timedoor": "Часові двері",
+  "entity.tempad.timedoor.success": "Часові двері відчинено",
+  "entity.tempad.timedoor.fail": [
+    "",
+    {
+      "text": "Помилка: ",
+      "color": "#ff6f00"
+    },
+    {
+      "text": "Не вдалося відчинити часові двері",
+      "color": "#91450d"
+    }
+  ],
+  "entity.tempad.timedoor.fail.pos": [
+    "",
+    {
+      "text": "Помилка: ",
+      "color": "#ff6f00"
+    },
+    {
+      "text": "Позицію не ініціалізовано",
+      "color": "#91450d"
+    }
+  ],
+  "entity.tempad.timedoor.fail.interdimensional": [
+    "",
+    {
+      "text": "Помилка: ",
+      "color": "#ff6f00"
+    },
+    {
+      "text": "Подорожі між вимірами заборонені",
+      "color": "#91450d"
+    }
+  ],
+  "entity.tempad.timedoor.fail.intradimensional_all": [
+    "",
+    {
+      "text": "Помилка: ",
+      "color": "#ff6f00"
+    },
+    {
+      "text": "Подорожі всередині вимірів заборонені",
+      "color": "#91450d"
+    }
+  ],
+  "entity.tempad.timedoor.fail.intradimensional": [
+    "",
+    {
+      "text": "Помилка: ",
+      "color": "#ff6f00"
+    },
+    {
+      "text": "Подорожі всередині цього виміру заборонені",
+      "color": "#91450d"
+    }
+  ],
+  "entity.tempad.timedoor.fail.leaving": [
+    "",
+    {
+      "text": "Помилка: ",
+      "color": "#ff6f00"
+    },
+    {
+      "text": "Вихід з цього виміру заборонений",
+      "color": "#91450d"
+    }
+  ],
+  "entity.tempad.timedoor.fail.entering": [
+    "",
+    {
+      "text": "Помилка: ",
+      "color": "#ff6f00"
+    },
+    {
+      "text": "Вхід у цей вимір заборонений",
+      "color": "#91450d"
+    }
+  ],
+  "entity.tempad.timedoor.fail.no_chronons": [
+    "",
+    {
+      "text": "Помилка: ",
+      "color": "#ff6f00"
+    },
+    {
+      "text": "Недостатньо хрононів",
+      "color": "#91450d"
+    }
+  ]
+}

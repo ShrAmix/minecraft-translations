@@ -1,0 +1,19 @@
+{
+  "craftoria_core.config.disable_search_tab_autofocus": "Вимкнути автофокус на вкладці пошуку",
+  "craftoria_core.config.mixin_toggles": "Перемикачі Mixin",
+  "craftoria_core.config.suppress_unknown_packet_id": "Придушити помилки невідомого ID пакета",
+  "craftoria_core.tooltip.contains": "Містить: %s",
+  "craftoria_core.tooltip.empty": "Порожньо",
+  "craftoria_core.tooltip.partitioned": "Розділено для: %s",
+  "craftoria_core.tooltip.quantity": "Кількість: %s",
+  "item.craftoria_core.black_hole_cell_housing": "Корпус комірки чорної діри",
+  "item.craftoria_core.black_hole_core": "Ядро чорної діри",
+  "item.craftoria_core.chemical_black_hole_cell": "Хімічна комірка чорної діри",
+  "item.craftoria_core.chemical_core": "Хімічне ядро",
+  "item.craftoria_core.fluid_black_hole_cell": "Рідинна комірка чорної діри",
+  "item.craftoria_core.flux_black_hole_cell": "Флуксова комірка чорної діри",
+  "item.craftoria_core.flux_core": "Флуксове ядро",
+  "item.craftoria_core.logo": "Логотип",
+  "item.craftoria_core.source_black_hole_cell": "Джерельна комірка чорної діри",
+  "item.craftoria_core.source_core": "Джерельне ядро"
+}

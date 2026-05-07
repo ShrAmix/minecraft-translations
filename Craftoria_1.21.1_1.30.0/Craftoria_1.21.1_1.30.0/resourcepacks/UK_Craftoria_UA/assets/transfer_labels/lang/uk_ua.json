@@ -1,0 +1,23 @@
+{
+  "filter.type.exact_count": "Фільтр точної кількості",
+  "filter.type.exact_count.tooltip": "Переносити лише якщо кількість збігається з визначеним фільтром",
+  "filter.type.mod": "Фільтр за модом",
+  "filter.type.mod.tooltip": "Переносити лише якщо ID мода збігається з визначеним фільтром",
+  "filter.type.normal": "Звичайний фільтр",
+  "filter.type.normal.tooltip": "Переносити лише якщо предмет збігається з фільтром",
+  "filter.type.regulating": "Регулюючий фільтр",
+  "filter.type.regulating.tooltip": "Переносити для підтримки визначеної кількості фільтра у місці призначення",
+  "filter.type.scroll": "*Прокрутіть, щоб змінити тип фільтра*",
+  "filter.type.tag": "Фільтр за тегом",
+  "filter.type.tag.tooltip": "Переносити лише якщо тег збігається з визначеним у фільтрі",
+  "item.transfer_labels.fluidstack_extract_transfer_label": "Мітка вилучення рідини",
+  "item.transfer_labels.fluidstack_insert_transfer_label": "Мітка вставки рідини",
+  "item.transfer_labels.itemstack_extract_transfer_label": "Мітка вилучення предметів",
+  "item.transfer_labels.itemstack_insert_transfer_label": "Мітка вставки предметів",
+  "item.transfer_labels.label_accessor": "Доступ до міток",
+  "itemGroup.transfer_labels": "Мітки передачі",
+  "tooltip.transfer_labels.blacklist": "Чорний список",
+  "tooltip.transfer_labels.slot.amount": "Кількість",
+  "tooltip.transfer_labels.slot.speed": "Швидкість",
+  "tooltip.transfer_labels.whitelist": "Білий список"
+}

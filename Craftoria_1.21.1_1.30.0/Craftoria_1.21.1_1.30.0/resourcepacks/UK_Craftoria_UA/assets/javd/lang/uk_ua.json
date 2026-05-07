@@ -1,0 +1,9 @@
+{
+  "advancement.javd.enter_void_dimension": "До нескінченності і в нікуди",
+  "advancement.javd.enter_void_dimension.description": "Увійдіть у Вимір Порожнечі",
+  "biome.javd.void": "Порожнеча",
+  "block.javd.portal_block": "Портал у Порожнечу",
+  "dimension.javd.void": "Порожнеча",
+  "javd.invalid.pos": "Не вдалося знайти відповідне місце для порталу",
+  "javd.invalid.world": "Не вдалося знайти світ '%s'"
+}

@@ -14,6 +14,7 @@
 |--------|----|--------|--------|
 | [All of Create](./All%20of%20Create_UK) | 1.21.1 | v1.6 | ✅ Готово |
 | [Aoc Aeronautics](./Aoc_Aeronautics_1.21.1_v1.4) | 1.21.1 | v1.4 | ✅ Готово |
+| [Craftoria](./Craftoria_1.21.1_1.30.0) | 1.21.1 | 1.30.0 | ✅ Готово |
 | [Create Arcane Engineering](./Create_Arcane_Engineering_1.18.2_0.1.9) | 1.18.2 | 0.1.9 | ✅ Готово |
 | [Create_Astral](./Create_Astral_1.18.2_v2.1.4c) | 1.18.2 | v2.1.4 | ✅ Готово |
 | [DawnCraft 2_0_16 - Echoes of Legends](./DawnCraft-Echoes-of-Legends_UK) | 1.18.2 | 2.0.16 | ✅ Готово |

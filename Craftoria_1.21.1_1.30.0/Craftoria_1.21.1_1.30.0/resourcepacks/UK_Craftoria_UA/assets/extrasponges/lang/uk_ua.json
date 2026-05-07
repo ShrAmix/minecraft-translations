@@ -1,0 +1,15 @@
+{
+  "itemGroup.extrasponges.items": "Додаткові губки",
+  "block.extrasponges.iron_sponge": "Залізна губка",
+  "block.extrasponges.gold_sponge": "Золота губка",
+  "block.extrasponges.diamond_sponge": "Алмазна губка",
+  "block.extrasponges.emerald_sponge": "Смарагдова губка",
+  "block.extrasponges.netherite_sponge": "Незеритова губка",
+  "block.extrasponges.wet_iron_sponge": "Волога залізна губка",
+  "block.extrasponges.wet_gold_sponge": "Волога золота губка",
+  "block.extrasponges.wet_diamond_sponge": "Волога алмазна губка",
+  "block.extrasponges.wet_emerald_sponge": "Волога смарагдова губка",
+  "block.extrasponges.wet_netherite_sponge": "Волога незеритова губка",
+  "block.extrasponges.lava_sponge": "Лавова губка",
+  "block.extrasponges.wet_lava_sponge": "Розплавлена лавова губка"
+}

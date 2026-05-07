@@ -1,0 +1,8 @@
+{
+  "snowundertrees.configuration.enable_biome_feature": "Увімкнути функцію біома",
+  "snowundertrees.configuration.enable_biome_feature.tooltip": "Вимкніть це, щоб сніг не з'являвся під деревами під час першої генерації чанків.",
+  "snowundertrees.configuration.enable_when_snowing": "Увімкнути під час снігопаду",
+  "snowundertrees.configuration.enable_when_snowing.tooltip": "Вимкніть це, щоб сніг не накопичувався під деревами під час снігопаду.",
+  "snowundertrees.configuration.filtered_biomes": "Відфільтровані біоми",
+  "snowundertrees.configuration.filtered_biomes.tooltip": "Додайте сюди ID біомів, щоб виключити їх із впливу мода. Ви можете знайти ID біома, у якому ви зараз перебуваєте, на екрані F3. Наприклад, ID біома рівнини виглядає так: minecraft:plains"
+}

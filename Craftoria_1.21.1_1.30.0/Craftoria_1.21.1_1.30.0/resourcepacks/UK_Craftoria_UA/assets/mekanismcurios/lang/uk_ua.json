@@ -1,0 +1,12 @@
+{
+  "key.categories.mekanismcurios": "Mekanism Curios",
+  "key.mekanismcurios.protableqio": "Відкрити портативний QIO",
+  "key.mekanismcurios.portableteleporter": "Відкрити портативний телепортер",
+  "key.mekanismcurios.quickteleport": "Швидка телепортація",
+  "key.mekanismcurios.quickteleport.notconnected": "Портативний телепортер не підключено.",
+  "key.mekanismcurios.quickteleport.empty": "У вас немає портативного телепортера у ваших Curios.",
+  "key.mekanismcurios.quickteleport.noenergy": "Ваш портативний телепортер розряджений.",
+  "key.mekanismcurios.quickteleport.notfound": "Телепортер не знайдено на цій частоті.",
+  "curios.identifier.qio": "QIO",
+  "curios.identifier.teleporter": "Телепортер"
+}

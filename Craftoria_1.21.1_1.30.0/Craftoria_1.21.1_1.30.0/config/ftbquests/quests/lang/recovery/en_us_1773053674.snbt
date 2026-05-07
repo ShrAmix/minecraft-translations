@@ -1,0 +1,24 @@
+{
+	"chapters/fishing.snbt": {
+		task.7376AAE3B45AD4B9.title: {
+			new: "Поплавці"
+			old: "Гачки"
+		}
+		quest.29AD1060C129C86F.quest_subtitle: {
+			new: "Спіймайте &a50&r риб загалом."
+			old: "Спіймайте &a200&r риб загалом."
+		}
+		quest.4ED1400E2AAAAAE1.quest_subtitle: {
+			new: "Спіймайте &a10&r риб загалом."
+			old: "Спіймайте &a50&r риб загалом."
+		}
+		task.691E6AA922761E29.title: {
+			new: "Гачки"
+			old: "Поплавці"
+		}
+		quest.30A0D33361D77D7E.quest_subtitle: {
+			new: "Спіймайте &a25&r риб загалом."
+			old: "Спіймайте &a100&r риб загалом."
+		}
+	}
+}

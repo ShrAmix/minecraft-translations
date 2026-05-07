@@ -1,0 +1,35 @@
+{
+	quest.0119F518ACD8568D.quest_subtitle: "+Керування редстоуном"
+	quest.14F545E632726FEE.quest_desc: ["З'явлені моби будуть підпалені."]
+	quest.14F545E632726FEE.quest_subtitle: "+ Горіння"
+	quest.1F88FCB1B73FF882.quest_desc: ["Загальна кількість сутностей, дозволених поблизу."]
+	quest.1F88FCB1B73FF882.quest_subtitle: "+2 Макс. сутностей"
+	quest.1FD59C1147BCE34F.quest_desc: ["Спавнер ігнорує умови появи."]
+	quest.1FD59C1147BCE34F.quest_subtitle: "+ Ігнорує умови"
+	quest.253FA8D6C09E2BD5.quest_desc: ["З'явлені сутності не видаватимуть звуків."]
+	quest.253FA8D6C09E2BD5.quest_subtitle: "+ Безшумність"
+	quest.2D8FB52E37D7D96C.quest_desc: ["Спавнеру не потрібен гравець поблизу."]
+	quest.2D8FB52E37D7D96C.quest_subtitle: "+ Ігнорує гравців"
+	quest.33CDCAD12E8F6828.quest_desc: ["Максимальна кількість тіків між появами."]
+	quest.33CDCAD12E8F6828.quest_subtitle: "-10 Макс. затримки появи"
+	quest.35F320164724B44C.quest_desc: ["Мінімальна кількість тіків між появами."]
+	quest.35F320164724B44C.quest_subtitle: "-10 Мін. затримки появи"
+	quest.3F73EC8E087E2920.quest_desc: ["З'явлені моби будуть випускати додатковий лут, кількість якого зростає з рівнем."]
+	quest.3F73EC8E087E2920.quest_subtitle: "+I Відлуння"
+	quest.423B29BD8DAC8C3D.quest_desc: ["Спавнер завжди намагатиметься створити дитинча сутності, якщо це можливо."]
+	quest.423B29BD8DAC8C3D.quest_subtitle: "+ Молодість"
+	quest.442CDC27ADFA34E4.quest_desc: ["Щоб&6 видалити &fбудь-які модифікації, &6помістіть &bКварц&f у свою &6другу руку&f, а той самий модифікатор, який хочете видалити, — у головну. Це &aвитратить&f модифікатор, а не &bКварц&f."]
+	quest.465ECB57BFCF5291.quest_desc: ["З'явлені сутності не матимуть ШІ."]
+	quest.465ECB57BFCF5291.quest_subtitle: "+ Без ШІ"
+	quest.48F4ED8C915995DC.quest_desc: ["Спавнер ігнорує рівень освітлення."]
+	quest.48F4ED8C915995DC.quest_subtitle: "+ Ігнорує світло"
+	quest.4A476B25B5A3E88D.quest_desc: ["Радіус (у блоках), у якому можуть з'являтися моби."]
+	quest.4A476B25B5A3E88D.quest_subtitle: "+2 Радіус появи"
+	quest.4FDD66D88C90C951.quest_desc: ["Щоб отримати &bСпавнер&f, ви повинні &6зламати &fзвичайний &bспавнер &fза допомогою &aШовкового дотику&f. Кожен &bСпавнер&f матиме однакові характеристики, але їх можна покращити."]
+	quest.4FDD66D88C90C951.title: "&cСпавнери Apothic"
+	quest.6EC57118E3771D72.quest_subtitle: "-5% Початкового здоров'я"
+	quest.7B88129FF5C9145F.quest_desc: ["Як далеко може бути гравець, перш ніж поява припиниться."]
+	quest.7B88129FF5C9145F.quest_subtitle: "+4 Радіус активації"
+	quest.7FD0A63CDC267251.quest_desc: ["Кількість сутностей, що з'являються одночасно."]
+	quest.7FD0A63CDC267251.quest_subtitle: "+1 Кількість появи"
+}

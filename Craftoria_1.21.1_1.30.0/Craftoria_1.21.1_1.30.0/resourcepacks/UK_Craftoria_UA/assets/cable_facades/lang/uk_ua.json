@@ -1,0 +1,18 @@
+{
+  "item.cable_facades.facade_wrench": "Ключ для фасадів",
+  "cable_facades.tooltip.toggle_transparency": "Натисніть правою кнопкою миші, щоб увімкнути/вимкнути прозорість фасаду",
+  "cable_facades.tooltip.current_state": "Поточний стан: ",
+  "cable_facades.tooltip.enabled": "Увімкнено",
+  "cable_facades.tooltip.disabled": "Вимкнено",
+  "cable_facades.message.transparency_enabled": "Прозорість фасаду тепер ",
+  "cable_facades.message.shaders_warning": "⚠ ",
+  "cable_facades.message.shaders_detected": "Виявлено шейдери: ",
+  "cable_facades.message.transparency_may_not_work": "Прозорість фасаду може працювати некоректно",
+  "cable_facades.facade.name_prefix": "Фасад - ",
+  "cable_facades.facade.empty": "Фасад - Порожній",
+  "cable_facades.creative_tab": "Кабельні фасади",
+  "cable_facades.error.cannot_facade_itself": "Неможливо накласти фасад на той самий блок",
+  "cable_facades.error.block_disabled": "Цей блок не можна використовувати як покриття (вимкнено в конфігурації)",
+  "cable_facades.jei.facade_any_block": "Фасад - Будь-який блок",
+  "cable_facades.jei.any_block": "Будь-який блок"
+}

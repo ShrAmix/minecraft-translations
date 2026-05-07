@@ -1,0 +1,20 @@
+{
+  "block.jumbofurnace.jumbo_furnace": "Велетенська піч",
+  "emi.category.jumbofurnace.jumbo_smelting": "Велетенське плавлення",
+  "item.jumbofurnace.jumbo_furnace": "Велетенська піч",
+  "item.jumbofurnace.jumbo_furnace_jei": "Велетенська піч",
+  "container.jumbofurnace.jumbo_furnace": "Велетенська піч",
+  "gui.jumbofurnace.category.jumbo_smelting": "Велетенське плавлення",
+  "gui.jumbofurnace.category.jumbo_furnace_upgrade": "Покращення велетенської печі",
+  "gui.jumbofurnace.category.multiblock_building": "Мультиблокова конструкція",
+  "jumbofurnace.jumbo_furnace_info_tooltip": "Розмістіть 27 печей у кубі 3x3x3, щоб створити велетенську піч",
+  "jumbofurnace.jumbo_furnace_upgrade_info": "Вищевказаний предмет(и) можна помістити у слот покращення велетенської печі, щоб збільшити кількість рецептів, які вона може переплавити за один цикл приготування.",
+  "jumbofurnace.advancements.story.assemble_jumbo_furnace.title": "Велетенська піч",
+  "jumbofurnace.advancements.story.assemble_jumbo_furnace.description": "Розмістіть 27 печей у кубі 3x3x3, щоб створити велетенську піч",
+  "jumbofurnace.advancements.story.obtain_jumbo_furnace.title": "Менша зовні",
+  "jumbofurnace.advancements.story.obtain_jumbo_furnace.description": "Створіть предмет велетенської печі (можливо, переплавивши 27 печей у велетенській печі)",
+  "jumbofurnace.advancements.story.upgrade_jumbo_furnace.title": "Більша всередині",
+  "jumbofurnace.advancements.story.upgrade_jumbo_furnace.description": "Покращте свою велетенську піч за допомогою велетенської печі",
+  "jumbofurnace.advancements.story.fully_upgrade_jumbo_furnace.title": "Печі аж до самого низу",
+  "jumbofurnace.advancements.story.fully_upgrade_jumbo_furnace.description": "Повністю покращте велетенську піч за допомогою повного стаку з 64 велетенських печей"
+}

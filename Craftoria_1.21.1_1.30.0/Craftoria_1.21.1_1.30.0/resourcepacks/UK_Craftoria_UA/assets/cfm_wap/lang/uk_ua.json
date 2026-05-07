@@ -1,0 +1,14 @@
+{
+  "block.cfm_wap.light_circuit_breaker": "Світлий автоматичний вимикач",
+  "block.cfm_wap.dark_circuit_breaker": "Темний автоматичний вимикач",
+  "container.cfm_wap.circuit_breaker": "Автоматичний вимикач",
+  "gui.cfm_wap.circuit_breaker": "Автоматичний вимикач",
+  "gui.cfm_wap.connect_to_power": "Переконайтеся, що блок отримує живлення від %s або %s. Його можна підключити за допомогою %s.",
+  "gui.cfm_wap.requires_power": "Потребує живлення від %s або %s",
+  "gui.cfm_wap.node_count": "%s / %s",
+  "gui.cfm_wap.status.online": "У мережі",
+  "gui.cfm_wap.status.offline": "Поза мережею",
+  "gui.cfm_wap.status.overloaded": "Перевантажено",
+  "gui.cfm_wap.status.energy": "Немає енергії",
+  "gui.cfm_wap.progress": "%sFE / %sFE"
+}

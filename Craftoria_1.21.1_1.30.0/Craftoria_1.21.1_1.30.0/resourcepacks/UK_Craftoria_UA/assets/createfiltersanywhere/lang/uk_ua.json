@@ -1,0 +1,12 @@
+{
+  "create.item_attributes.has_backpack_uuid": "це рюкзак з UUID \"%1$s\"",
+  "create.item_attributes.has_backpack_uuid.inverted": "це не рюкзак з UUID \"%1$s\"",
+  "create.item_attributes.has_backpack_upgrade": "це рюкзак з \"%1$s\"",
+  "create.item_attributes.has_backpack_upgrade.inverted": "це не рюкзак з \"%1$s\"",
+  "create.item_attributes.apoth_gem_purity": "це самоцвіт Apotheosis з чистотою \"%1$s\"",
+  "create.item_attributes.apoth_gem_purity.inverted": "це не самоцвіт Apotheosis з чистотою \"%1$s\"",
+  "create.item_attributes.apoth_gem_unique": "це унікальний самоцвіт Apotheosis",
+  "create.item_attributes.apoth_gem_unique.inverted": "це не унікальний самоцвіт Apotheosis",
+  "create.item_attributes.apoth_gem_bonus_type": "це самоцвіт Apotheosis з бонусом \"%1$s\"",
+  "create.item_attributes.apoth_gem_bonus_type.inverted": "це не самоцвіт Apotheosis з бонусом \"%1$s\""
+}

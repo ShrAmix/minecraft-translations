@@ -1,0 +1,11 @@
+{
+  "itemGroup.rangedpumps": "Ranged Pumps",
+  "block.rangedpumps.pump": "Насос",
+  "block.rangedpumps.pump.state": "%d мБ %s - %d / %d FE",
+  "block.rangedpumps.pump.state_empty": "Порожньо - %d / %d FE",
+  "block.rangedpumps.pump.state.energy": "Недостатньо енергії.",
+  "block.rangedpumps.pump.state.redstone": "Не працює через сигнал редстоуну.",
+  "block.rangedpumps.pump.state.working": "Сканування на %d, %d, %d (діапазон: %d з %d).",
+  "block.rangedpumps.pump.state.full": "Внутрішній резервуар заповнений.",
+  "block.rangedpumps.pump.state.done": "Готово."
+}

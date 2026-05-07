@@ -1,0 +1,15 @@
+{
+  "betterdeserttemples.advancements.root.title": "Покращені пустельні храми від YUNG",
+  "betterdeserttemples.advancements.root.description": "Десь глибоко в пустелі...",
+  "betterdeserttemples.advancements.temple_clear.title": "Вічний сон",
+  "betterdeserttemples.advancements.temple_clear.description": "Вбийте фараона та звільніть храм від його прокляття",
+  "betterdeserttemples.advancements.temple_entry.title": "Стародавня гробниця",
+  "betterdeserttemples.advancements.temple_entry.description": "Знайдіть покращений пустельний храм",
+  "Use /locate structure betterdeserttemples:desert_temple instead!": "Використовуйте /locate structure betterdeserttemples:desert_temple замість цього!",
+  "text.autoconfig.betterdeserttemples-fabric-1_21.title": "Покращені пустельні храми від YUNG",
+  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.disableVanillaPyramids": "Вимкнути ванільні піраміди",
+  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.disableVanillaPyramids.@Tooltip": "Чи повинні бути вимкнені ванільні пустельні піраміди.",
+  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue": "Накладати втому від копання",
+  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue.@Tooltip[0]": "Чи накладається ефект втоми від копання на гравців у храмі,",
+  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue.@Tooltip[1]": "якщо він ще не був очищений."
+}

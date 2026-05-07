@@ -1,0 +1,7 @@
+{
+  "item.mi_sound_addon.mallet": "Сталевий молоток",
+  "message.mi_sound_addon.creative_tab": "MI Sound Addon",
+  "message.mi_sound_addon.tooltip": "Натисніть правою кнопкою миші на ваші механізми, щоб вимкнути або увімкнути їхній звук",
+  "message.mi_sound_addon.machine_silenced": "Звук механізму вимкнено",
+  "message.mi_sound_addon.machine_unsilenced": "Звук механізму увімкнено"
+}

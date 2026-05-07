@@ -1,0 +1,12 @@
+{
+  "gui.charmofundying.config.xOffset.name": "Горизонтальний зсув відображення",
+  "gui.charmofundying.config.xOffset.description": "Горизонтальний зсув для відображення тотема на гравцеві.",
+  "gui.charmofundying.config.yOffset.name": "Вертикальний зсув відображення",
+  "gui.charmofundying.config.yOffset.description": "Вертикальний зсув для відображення тотема на гравцеві.",
+  "gui.charmofundying.config.zOffset.name": "Зсув відображення по осі Z",
+  "gui.charmofundying.config.zOffset.description": "Зсув по осі Z для відображення тотема на гравцеві.",
+  "gui.charmofundying.config.renderTotem.name": "Відображати екіпірований тотем",
+  "gui.charmofundying.config.renderTotem.description": "Якщо увімкнено, відображає екіпірований тотем на гравцях.",
+  "trinkets.slot.charm.charm": "Амулет",
+  "charmofundying.networking.failed": "Помилка мережі Charm of Undying"
+}

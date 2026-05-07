@@ -1,0 +1,15 @@
+{
+  "block.createstockbridge.ae_bridge": "AE Складський міст",
+  "createstockbridge.ponder.ae_stockbridge.header": "Підключення складської системи до AE",
+  "createstockbridge.ponder.ae_stockbridge.text_1": "AE Складський міст з'єднує систему Create Stock з AE",
+  "createstockbridge.ponder.ae_stockbridge.text_2": "Натисніть правою кнопкою миші, щоб прив'язати до складської мережі перед розміщенням",
+  "createstockbridge.ponder.ae_stockbridge.text_3": "Встановіть адресу AE Складського мосту так, щоб вона збігалася з адресою Frogport",
+  "createstockbridge.ponder.ae_stockbridge.text_4": "AE",
+  "createstockbridge.ponder.ae_stockbridge.text_5": "AE",
+  "createstockbridge.ponder.ae_stockbridge.text_6": "AE може запитувати предмети через «крафт»",
+  "createstockbridge.ponder.ae_stockbridge.text_7": "Create може запитувати збережені предмети з AE",
+  "gui.createstockbridge.address": "Адреса пакунка:",
+  "gui.stockbridge.remote_items": "Предмети системи Create Stock",
+  "item.createstockbridge.request_pattern": "Шаблон запиту",
+  "tooltip.stockbridge.remote_item": "Предмет у віддаленій системі"
+}

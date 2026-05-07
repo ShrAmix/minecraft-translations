@@ -1,0 +1,14 @@
+{
+  "options.showAll": "Показати все",
+  "options.showConflicts": "Показати конфлікти",
+  "options.showNone": "Показати незв'язані",
+  "options.availableKeys": "Доступні клавіші",
+  "options.sort": "Сортування",
+  "options.sortNone": "Немає",
+  "options.sortAZ": "А->Я",
+  "options.sortZA": "Я->А",
+  "options.sortKeyAZ": "Клавіша А->Я",
+  "options.sortKeyZA": "Клавіша Я->А",
+  "options.toggleFree": "Перемкнути вільні",
+  "options.confirmReset": "Підтвердити?"
+}

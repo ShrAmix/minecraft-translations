@@ -1,0 +1,13 @@
+{
+  "akashictome.sudo_name": "Акашичний том (%s)",
+  "akashictome.click_morph": "Shift-правий клік для зміни",
+  "item.akashictome.tome": "Акашичний том",
+  "akashictome.misc.shift_for_info": "§7Утримуйте §bSHIFT§7 для додаткової інформації",
+  "akashictome.configuration.Allow all items to be added": "Дозволити додавання всіх предметів",
+  "akashictome.configuration.Whitelisted Items": "Білий список предметів",
+  "akashictome.configuration.Blacklisted Mods": "Чорний список модів",
+  "akashictome.configuration.Mod Aliases": "Псевдоніми модів",
+  "akashictome.configuration.Hide Book Render": "Приховати відображення книги",
+  "akashictome.configuration.Whitelisted Names": "Білий список назв",
+  "akashictome.configuration.Blacklisted Items": "Чорний список предметів"
+}

@@ -1,0 +1,6 @@
+{
+  "eu_cost_transformer.tesseract_api.percentage": "%d%%",
+  "text.tesseract_api.mi_machine_batcher_recipe": "Може виконувати %s рецептів партіями.",
+  "text.tesseract_api.mi_machine_batcher_size_and_cost": "Виконує партії до %d за %s вартості EU.",
+  "text.tesseract_api.tooltips_shift_required": "Натисніть [Shift] для отримання інформації"
+}

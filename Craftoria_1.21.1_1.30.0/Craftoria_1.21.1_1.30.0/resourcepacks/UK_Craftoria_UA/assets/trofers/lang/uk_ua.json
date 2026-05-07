@@ -1,0 +1,21 @@
+{
+  "block.trofers.trophy": "Трофей",
+  "message.trofers.reward_cooldown": "Наступна нагорода буде доступна через %s",
+  "text.autoconfig.trofers.option.general.trophyChance": "Шанс випадіння трофея",
+  "text.autoconfig.trofers.option.general.trophyChance.@Tooltip": "Шанс того, що істота випустить трофей після смерті",
+  "text.autoconfig.trofers.option.general.enableAdvancementDrops": "Увімкнути випадіння за досягнення",
+  "text.autoconfig.trofers.option.general.enableAdvancementDrops.@Tooltip": "Чи можуть трофеї видаватися за отримання певних досягнень (наразі не використовується)",
+  "text.autoconfig.trofers.option.general.enableTrophyLoot": "Увімкнути здобич з трофеїв",
+  "text.autoconfig.trofers.option.general.enableTrophyLoot.@Tooltip": "Чи можуть трофеї видавати здобич при натисканні правою кнопкою миші",
+  "text.autoconfig.trofers.option.general.enableTrophyEffects": "Увімкнути ефекти трофеїв",
+  "text.autoconfig.trofers.option.general.enableTrophyEffects.@Tooltip": "Чи можуть трофеї накладати ефекти зілля при натисканні правою кнопкою миші",
+  "text.autoconfig.trofers.title": "Налаштування Trofers",
+  "time.trofers.hour": "1 година",
+  "time.trofers.hours": "%s годин",
+  "time.trofers.minute": "1 хвилина",
+  "time.trofers.minutes": "%s хвилин",
+  "time.trofers.second": "1 секунда",
+  "time.trofers.seconds": "%s секунд",
+  "trofers.creative_tab": "Trofers",
+  "trophy.trofers.composed": "Трофей: %s"
+}

@@ -1,0 +1,12 @@
+{
+  "mekagenjei.jei.bio_fuel": "Паливо для біопаливного генератора",
+  "mekagenjei.jei.fusion_fuels": "Паливо для термоядерного реактора",
+  "mekagenjei.jei.gas_burning": "Паливо для газового генератора",
+  "mekagenjei.jei.pump_output": "Виробництво помпи",
+  "mekagenjei.jei.radioactive_gas": "Радіоактивні гази",
+  "mekagenjei.jei.rate": "Виробництво FE",
+  "mekagenjei.jei.time": "Тривалість",
+  "mekagenjei.jei.total": "Всього вироблено FE",
+  "mekagenjei.jei.turbine_steam": "Паливо для мультиблочної турбіни",
+  "mekagenjei.waste.decay": "Може розпадатися"
+}

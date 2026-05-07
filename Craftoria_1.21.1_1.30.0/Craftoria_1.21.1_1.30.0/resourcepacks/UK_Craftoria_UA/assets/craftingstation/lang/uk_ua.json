@@ -1,0 +1,7 @@
+{
+  "block.craftingstation.crafting_station": "Верстак",
+  "block.craftingstation.crafting_station_slab": "Плита верстака",
+  "title.crafting_station": "Верстак",
+  "text.crafting_station.error": "Знайдено помилковий рецепт %s, деталі дивіться у логах",
+  "text.crafting_station.clear": "Очистити сітку крафту"
+}
