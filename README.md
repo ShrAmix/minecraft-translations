@@ -44,6 +44,8 @@
 | 💙 Monobank | [Подякувати за переклад](https://send.monobank.ua/jar/92MXAT5BCP) | Без комісії на разові донати |
 
 
+<img src="QRkod.jpg" alt="QR-код" width="400"/>
+
 ---
 
 ## 📜 Ліцензія
